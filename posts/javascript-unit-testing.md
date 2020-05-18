@@ -7,7 +7,7 @@
   "keywords": "javascript, ecmascript, unit, functional, selenium, test, testing, test-driven, development, assert, method, jsunit, isTrue, isFalse, areEqual, areSame, isNull, isArray, mac, macintosh, dashboard, widget, phpfr, php",
   "created_date": "2007-06-10 06:10:00",
   "short_url": "http://ahedg.es/3",
-  "published": true
+  "published": false
 }
 
 ========
