@@ -16,7 +16,7 @@ Driving to work this morning, Boston’s [arena rock](http://en.wikipedia.org/wi
 
 ========
 
-What was it Groucho Marx said? "I don’t care to belong to a club that accepts people like me as members." Well, that’s, like, the exact opposite of how I feel having been accepted into [Method Arts](http://www.methodarts.com/site/about/)! Yep, that’s yours truly there on the About page. I am so freakin’ flattered to be keeping company with some great web professionals. For those unfamiliar with it, Method Arts is a consortium of free agents who come together occasionally to create great websites. [Mark](http://markbixby.com/), [Brian](http://begoodnotbad.com/), and [Vincent](http://vincentthome.com/) all know their stuff cold. I foresee some hardcore synergies in this band of brothers.
+What was it Groucho Marx said? “I don’t care to belong to a club that accepts people like me as members.” Well, that’s, like, the exact opposite of how I feel having been accepted into [Method Arts](http://www.methodarts.com/site/about/)! Yep, that’s yours truly there on the About page. I am so freakin’ flattered to be keeping company with some great web professionals. For those unfamiliar with it, Method Arts is a consortium of free agents who come together occasionally to create great websites. [Mark](http://markbixby.com/), [Brian](http://begoodnotbad.com/), and [Vincent](http://vincentthome.com/) all know their stuff cold. I foresee some hardcore synergies in this band of brothers.
 
 Even before this happy affirmation, the stars seemed to be coming into alignment in support of my freelance life. It’s funny because a few weeks ago, I was seriously fretting about whether to take the leap.
 
@@ -26,9 +26,9 @@ At the same time, I also had a burning desire to travel the world. Mid-year I ha
 
 After a lengthy interview process, I was informed I would be an alternate for the Fall 1997 voyage. I was a little bummed, but took it in stride and that day sent out an email to everyone I knew letting them know I was going to be leaving student affairs to start the next chapter of my working life, as a web consultant (it’s a good thing we’re naive when we’re young or we might not try half the things we do!).
 
-It is my sincere belief that the Universe rewards you when you take a step towards what you really want. The very next day, I found myself writing another email with the subject "What a difference 24 hours makes!" Semester at Sea called back to tell me they needed me after all.
+It is my sincere belief that the Universe rewards you when you take a step towards what you really want. The very next day, I found myself writing another email with the subject “What a difference 24 hours makes!” Semester at Sea called back to tell me they needed me after all.
 
-So, I got to go on the trip of a lifetime as my transition between seven years in college student affairs and my new life. It couldn’t have worked out better if I had planned it.
+So, I got to go on [the trip of a lifetime](https://andrew.hedges.name/sas/) as my transition between seven years in college student affairs and my new life. It couldn’t have worked out better if I had planned it.
 
 Sometimes, when things seem the toughest, life is actually just working out the kinks in preparation for the next situation, one that fits a little better than the last.
 
