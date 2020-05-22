@@ -14,13 +14,13 @@
 
 ========
 
-How’s this for a New Year’s Resolution? I resolve to simplify my life by not pretending I have time to maintain <a href="http://andrew.hedges.name/widgets/">10+ Dashboard Widgets</a>. Anyone want to take them over?
+How’s this for a New Year’s Resolution? I resolve to simplify my life by not pretending I have time to maintain [10+ Dashboard Widgets](http://andrew.hedges.name/widgets/). Anyone want to take them over?
 
 ========
 
-I’ve been authoring Widgets for Apple’s <a href="http://www.apple.com/macosx/">Mac OS X</a> since they debuted in mid-2005. I’ve developed quite a stable of widgets, <a href="/widgets/#makeapass">some useful</a>, some <a href="/widgets/#myresolution">not-so-much</a>.
+I’ve been authoring Widgets for Apple’s [Mac OS X](http://www.apple.com/macosx/) since they debuted in mid-2005. I’ve developed quite a stable of widgets, [some useful](/widgets/#makeapass), some [not-so-much](/widgets/#myresolution).
 
-They’ve brought me <a href="http://www.widgetshow.com/?p=121">minor fame</a> and even more minor fortune. It’s been a lot of fun and I’ve learned a lot through the process.
+They’ve brought me [minor fame](http://www.widgetshow.com/?p=121) and even more minor fortune. It’s been a lot of fun and I’ve learned a lot through the process.
 
 However, since the release of Leopard, I’ve noticed that several of them need minor updates to resolve display and functionality issues. I’d love to get in there and tweak them to make them all shiny and new again.
 

@@ -12,19 +12,19 @@
 
 ========
 
-I’ve started working on version 1.0 of my <a href="http://andrew.hedges.name/widgets/#phpfr">PHP function reference</a> widget for <a href="http://www.apple.com/macosx/features/dashboard/">Mac OS X Dashboard</a>. At <a href="http://vianet.travel/">work</a>, we cover a lot of our code with <a href="http://en.wikipedia.org/wiki/Unit_testing">unit</a>, <a href="http://en.wikipedia.org/wiki/Functional_testing">functional</a>, and <a href="http://www.openqa.org/selenium/">Selenium</a> tests. I decided to drink the juice and do the same in the context of widget development.
+I’ve started working on version 1.0 of my [PHP function reference](http://andrew.hedges.name/widgets/#phpfr) widget for [Mac OS X Dashboard](http://www.apple.com/macosx/features/dashboard/). At [work](http://vianet.travel/), we cover a lot of our code with [unit](http://en.wikipedia.org/wiki/Unit_testing), [functional](http://en.wikipedia.org/wiki/Functional_testing), and [Selenium](http://www.openqa.org/selenium/) tests. I decided to drink the juice and do the same in the context of widget development.
 
 ========
 
-<a href="http://en.wikipedia.org/wiki/Javascript">JavaScript</a> doesn’t have an <code>assert()</code> method. No biggie. I wrote my own. It’s actually several functions (e.g., isTrue, isFalse, areEqual, areSame, isNull, isArray, etc.). (Yes, I could have used <a href="http://www.google.com/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Fwww.jsunit.net%2F&ei=SV3USO6vGoOspwSqpZCoDg&usg=AFQjCNG0db_XFUf8UoLVbQLDykBtzwjGeQ&sig2=BEne6HCloxV24oyQb12loA">JSUnit</a>, but then I wouldn’t have had the learning experience of writing my own. Anyway, I think what I came up with is more useful in a widget environment for reasons elaborated below.)
+[JavaScript](http://en.wikipedia.org/wiki/Javascript) doesn’t have an `assert()` method. No biggie. I wrote my own. It’s actually several functions (e.g., isTrue, isFalse, areEqual, areSame, isNull, isArray, etc.). (Yes, I could have used [JSUnit](http://www.google.com/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Fwww.jsunit.net%2F&ei=SV3USO6vGoOspwSqpZCoDg&usg=AFQjCNG0db_XFUf8UoLVbQLDykBtzwjGeQ&sig2=BEne6HCloxV24oyQb12loA), but then I wouldn’t have had the learning experience of writing my own. Anyway, I think what I came up with is more useful in a widget environment for reasons elaborated below.)
 
-In Mac OS X Dashboard, <code>alert('Hello');</code> will write the string <em>Hello</em> to the Console. That’s basically what my assert methods do: write an "ok" message if the assertion passes and a "NOT OK" if it does not.
+In Mac OS X Dashboard, `alert('Hello');` will write the string _Hello_ to the Console. That’s basically what my assert methods do: write an "ok" message if the assertion passes and a "NOT OK" if it does not.
 
-As I started covering my code with tests, I started to want a summary of the tests at the end so I wouldn’t have to wade through the individual test results. So, I wrote a <code>summarize()</code> method that displays the total number of tests run, plus a breakdown of how many passed and how many didn’t.
+As I started covering my code with tests, I started to want a summary of the tests at the end so I wouldn’t have to wade through the individual test results. So, I wrote a `summarize()` method that displays the total number of tests run, plus a breakdown of how many passed and how many didn’t.
 
-I even figured out a way to test some asynchronous function calls, specifically <code>widget.system()</code> invocations. That bit is actually a wee kludge. I’d be interested to hear if anyone has a more elegant way of doing it.
+I even figured out a way to test some asynchronous function calls, specifically `widget.system()` invocations. That bit is actually a wee kludge. I’d be interested to hear if anyone has a more elegant way of doing it.
 
-In any case, here’s some of the code (<code>writeDebug()</code> is a function I wrote for widget debugging. It basically calls an <code>alert()</code> method, but adds some formatting.):
+In any case, here’s some of the code (`writeDebug()` is a function I wrote for widget debugging. It basically calls an `alert()` method, but adds some formatting.):
 
 <pre class="sh_javascript">
 var assert = {
@@ -49,7 +49,7 @@ var assert = {
 }
 </pre>
 
-This shows just a couple of the methods on the <code>assert</code> object. Pretty simple, eh? Next, let’s look at some sample tests:
+This shows just a couple of the methods on the `assert` object. Pretty simple, eh? Next, let’s look at some sample tests:
 
 <pre class="sh_javascript">
 var tests = {
@@ -61,9 +61,9 @@ var tests = {
 }
 </pre>
 
-In this example, by calling <code>tests.library();</code> I run two tests of the <code>in_array()</code> method I wrote for my JavaScript library.
+In this example, by calling `tests.library();` I run two tests of the `in_array()` method I wrote for my JavaScript library.
 
-I mentioned that I wanted a summary of the tests. Here is the code I added to the <code>tests</code> object to accomplish that (this also required rewriting my <code>assert</code> calls):
+I mentioned that I wanted a summary of the tests. Here is the code I added to the `tests` object to accomplish that (this also required rewriting my `assert` calls):
 
 <pre class="sh_javascript">
 var tests = {
@@ -88,9 +88,9 @@ var tests = {
 }
 </pre>
 
-Now, by calling <code>tests.results.summarize();</code> at the end of my test run, I get a neat, little summary of the results.
+Now, by calling `tests.results.summarize();` at the end of my test run, I get a neat, little summary of the results.
 
-Asynchronous calls proved to be a little tricky. In this case, I wanted to test the result of an asynchronous <code>widget.system()</code> call, contained in another file, that looks like the following:
+Asynchronous calls proved to be a little tricky. In this case, I wanted to test the result of an asynchronous `widget.system()` call, contained in another file, that looks like the following:
 
 <pre class="sh_javascript">
 var topicsArray;
@@ -101,7 +101,7 @@ widget.system("/usr/bin/php 'Assets/php/topics.php'", \
    evalResponse);
 </pre>
 
-That little snippet returns an array of topic names from the PHP documentation. But, it takes 100 miliseconds or so to process, so I needed to force my <code>summarize()</code> method to wait until the call was finished before spitting out its results. Here’s the code:
+That little snippet returns an array of topic names from the PHP documentation. But, it takes 100 miliseconds or so to process, so I needed to force my `summarize()` method to wait until the call was finished before spitting out its results. Here’s the code:
 
 <pre class="sh_javascript">
 var tests = {
@@ -153,6 +153,6 @@ var tests = {
 }
 </pre>
 
-Was this a lot of effort? Kind of. It was actually fun coming up with the <code>assert</code> methods and writing the test cases. I uncovered about a dozen bugs in my recently refactored code base in the process, too. That more than makes it worth the time it took to come up with all of this!
+Was this a lot of effort? Kind of. It was actually fun coming up with the `assert` methods and writing the test cases. I uncovered about a dozen bugs in my recently refactored code base in the process, too. That more than makes it worth the time it took to come up with all of this!
 
-<a href="http://andrew.hedges.name/widgets/#phpfr">PHPfr</a> is a Mac OS X Dashboard widget that lets you quickly and easily lookup PHP functions using a downloaded version of the docs from <a href="http://www.php.net/">PHP.net</a>. It also includes an extensive cheat sheet and an interactive date formatter. It’s useful enough that I go to it a few times a day in my <a href="http://vianet.travel/">job</a>. PHPfr is an open source project, via <a href="http://code.google.com/p/phpfr/">Google Code</a>. Let me know if you’d be interested in contributing!
+[PHPfr](http://andrew.hedges.name/widgets/#phpfr) is a Mac OS X Dashboard widget that lets you quickly and easily lookup PHP functions using a downloaded version of the docs from [PHP.net](http://www.php.net/). It also includes an extensive cheat sheet and an interactive date formatter. It’s useful enough that I go to it a few times a day in my [job](http://vianet.travel/). PHPfr is an open source project, via [Google Code](http://code.google.com/p/phpfr/). Let me know if you’d be interested in contributing!

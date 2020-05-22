@@ -12,11 +12,11 @@
 
 ========
 
-Starting today, I am master of my destiny. Captain of my ship of fate. Today, I launch <a href="http://www.newfangledtelegraph.com/">Newfangled Telegraph</a> and throw my lot out upon the entrepreneurial seas. Starting today, for better or worse, I will ride the waves of fortune (hopefully) and adventure (no doubt!) to distant shores not yet imagined.
+Starting today, I am master of my destiny. Captain of my ship of fate. Today, I launch [Newfangled Telegraph](http://www.newfangledtelegraph.com/) and throw my lot out upon the entrepreneurial seas. Starting today, for better or worse, I will ride the waves of fortune (hopefully) and adventure (no doubt!) to distant shores not yet imagined.
 
 ========
 
-This is truly a beautiful morning. I am going freelance again after spending the last nine years working for <a href="http://en.wikipedia.org/wiki/Beltway_bandits">beltway bandits</a>, technology start-ups, universities and non-profits.
+This is truly a beautiful morning. I am going freelance again after spending the last nine years working for [beltway bandits](http://en.wikipedia.org/wiki/Beltway_bandits), technology start-ups, universities and non-profits.
 
 Of course, I value all of the experiences that have led me to this point. Good and bad, they have made me who I am and given me a foundation of confidence for this next chapter of my working life.
 
