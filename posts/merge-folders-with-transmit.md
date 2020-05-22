@@ -44,7 +44,7 @@ My first stop on the merging folders express was FileMerge, a utility included w
 
 Needless to say, my PowerBook’s meager 1GHz G4 processor was quickly overwhelmed trying to compare a couple thousand big, binary MP3 and AAC files.
 
-After force quitting FileMerge, I thought to myself, "Self, all I need is something like Transmit’s merge folders feature." Then it struck me. Why not use my Mac’s built-in ftp server to fool Transmit into thinking it’s connected to a remote server? Then, I **can** use the merge folders feature!
+After force quitting FileMerge, I thought to myself, “Self, all I need is something like Transmit’s merge folders feature.” Then it struck me. Why not use my Mac’s built-in ftp server to fool Transmit into thinking it’s connected to a remote server? Then, I **can** use the merge folders feature!
 
 Sure enough, it worked like a charm with sustained copies of over 4500 KB/s from my built-in hard drive to the USB 2.0 external drive to which I was backing up. To the left is the step-by-step for those who wish to duplicate this awesome feat of folder mergerality.
 
