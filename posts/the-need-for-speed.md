@@ -29,7 +29,7 @@ After [reading](http://www.developer-x.com/content/innerhtml/dom_vs_innerHTML_pe
     <dt>Truth:</dt>
     <dd>There is <em>some</em> truth to this. For a novice scripter, if you have haven’t dealt much with XML or the DOM, it can be confusing to do more than just dump strings into <code>innerHTML</code>. But there are advantages to going the hard road. A big one (for me) is that <code>innerHTML</code> is not technically a standard so <strike>it offends my inner purist</strike> support for it could dwindle over time. More objectively, it does take time to attach nodes to the DOM when using <code>innerHTML</code> whereas nodes attached directly are available immediately. While not a problem in a lot of use cases, it’s cropped up as a problem for me in certain situations.</dd>
     <dt>Myth:</dt>
-    <dd><code>innerHTML</code> takes **way** less code to do the same thing.</dd>
+    <dd><code>innerHTML</code> takes <strong>way</strong> less code to do the same thing.</dd>
     <dt>Truth:</dt>
     <dd class="last">`innerHTML` takes <strong>way</strong> less code to do the same thing. So what? If <code>innerHTML</code> is causing problems that DOM scripting can solve, are you really so <a title="Of course, I mean lazy in a bad way. If you are lazy in the way the linked article states, you will actually more readily adopt DOM scripting because it allows you more flexibility to script solutions." href="http://undefined.com/ia/2006/10/24/the-fourteen-types-of-programmers-type-4-lazy-ones/">lazy</a> that you’re going to avoid it anyway? I mean, isn’t that why it’s called work?</dd>
 </dl>
