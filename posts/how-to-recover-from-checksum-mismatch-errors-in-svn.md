@@ -36,7 +36,7 @@ The above is actually taken straight from an article called “[subversion check
 
 ### A side trip down Background Lane
 
-_Feel free to [skip this section](#enough-already) if you are familiar with [how SVN works](http://en.wikipedia.org/wiki/Subversion_(software)) or are just in a hurry to fix your issue and get on with life!_
+_Feel free to [skip this section](#enough-already) if you are familiar with [how SVN works](http://en.wikipedia.org/wiki/Subversion_%28software%29) or are just in a hurry to fix your issue and get on with life!_
 
 SVN is software that helps you track revisions to files. As such, it is very important for SVN to know when a file changes. SVN stores information about every change made to files under its control locally in plain text files inside hidden `.svn` directories. Trust me, you don’t want to edit those files directly.
 
