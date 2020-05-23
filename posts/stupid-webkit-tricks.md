@@ -14,14 +14,14 @@
 
 ========
 
-With apologies to David Letterman's <a href="http://www.youtube.com/watch?v=g-dE_TJfOVg">Stupid Human Tricks</a> segment, I presented a session at <a href="http://bca.geek.nz/">Barcamp Auckland (BCA3)</a> on some <a href="http://webkit.org/">WebKit</a>-specific features you can leverage in web applications for <a href="http://www.apple.com/iphone/">iPhone</a>, <a href="http://www.android.com/">Android</a>, and the <a href="http://www.palm.com/us/products/phones/pre/">Palm Pre</a>. This is my synopsis, plus a bonus trick I didn't present at the (un)conference!
+With apologies to David Letterman's [Stupid Human Tricks](http://www.youtube.com/watch?v=g-dE_TJfOVg) segment, I presented a session at [Barcamp Auckland (BCA3)](http://bca.geek.nz/) on some [WebKit](http://webkit.org/)-specific features you can leverage in web applications for [iPhone](http://www.apple.com/iphone/), [Android](http://www.android.com/), and the [Palm Pre](http://www.palm.com/us/products/phones/pre/). This is my synopsis, plus a bonus trick I didn't present at the (un)conference!
 
 ========
 
-<p class="outdent">WebKit is Apple's open source HTML rendering engine. It is used to power several browsers and even a software platform, including <a href="http://www.apple.com/safari/">Safari</a>, Mobile Safari, <a href="http://www.google.com/chrome">Google Chrome</a>, and the Palm Pre operating system. To see the following examples in action, you'll need one of them.</p>
-<p>Here are my <a href="http://segdeha.com/bca/stupid-webkit-tricks.html">presentation notes</a>.</p>
-<p>At BCA3, we were allotted just 30 minutes to present. That, plus the session I attended right before mine went a little over. After getting set up, I had approximately 23 minutes of talk time (you know, <a href="http://www.latimes.com/business/la-fi-iphone3-2009jul03,0,2546606.story">kind of like an iPhone</a>).</p>
-<p>I quickly ran through examples of <a href="http://segdeha.com/experiments/css-gradients/index.html">CSS gradients</a>, <a href="http://segdeha.com/experiments/css-transitions/dock.html">scaling</a>, <a href="http://segdeha.com/experiments/css-transitions/classnames.html">moving</a>, & <a href="http://segdeha.com/experiments/css-transitions/opacity.html">fading</a> elements, <a href="http://segdeha.com/experiments/css-transitions/flipper.html">flipping stuff over</a> (best viewed on an iPhone), and finally <a href="http://segdeha.com/experiments/css-transitions/masks.html">CSS masks</a>. It was a whirlwind, but I hope it gave a taste of what WebKit (and, hopefully soon, other browsers) can do. Best of all, most of it is hardware accelerated on the iPhone.</p>
+<p class="outdent">WebKit is Apple's open source HTML rendering engine. It is used to power several browsers and even a software platform, including [Safari](http://www.apple.com/safari/), Mobile Safari, [Google Chrome](http://www.google.com/chrome), and the Palm Pre operating system. To see the following examples in action, you'll need one of them.</p>
+<p>Here are my [presentation notes](http://segdeha.com/bca/stupid-webkit-tricks.html).</p>
+<p>At BCA3, we were allotted just 30 minutes to present. That, plus the session I attended right before mine went a little over. After getting set up, I had approximately 23 minutes of talk time (you know, [kind of like an iPhone](http://www.latimes.com/business/la-fi-iphone3-2009jul03,0,2546606.story)).</p>
+<p>I quickly ran through examples of [CSS gradients](http://segdeha.com/experiments/css-gradients/index.html), [scaling](http://segdeha.com/experiments/css-transitions/dock.html), [moving](http://segdeha.com/experiments/css-transitions/classnames.html), & [fading](http://segdeha.com/experiments/css-transitions/opacity.html) elements, [flipping stuff over](http://segdeha.com/experiments/css-transitions/flipper.html) (best viewed on an iPhone), and finally [CSS masks](http://segdeha.com/experiments/css-transitions/masks.html). It was a whirlwind, but I hope it gave a taste of what WebKit (and, hopefully soon, other browsers) can do. Best of all, most of it is hardware accelerated on the iPhone.</p>
 <h3>How it works</h3>
 <p>The basic pattern for all of the above mentioned animations is the following:</p>
 <ol>
@@ -72,7 +72,7 @@ document
   this.className = 'faded' === this.className ? '' : 'faded';
 }, false);
 </script>
-<p>Pretty cool, eh? Read everything there is to know about this stuff in <a href="http://developer.apple.com/safari/library/documentation/InternetWeb/Conceptual/SafariVisualEffectsProgGuide/Introduction/Introduction.html">the official documentation from Apple</a>.</p>
+<p>Pretty cool, eh? Read everything there is to know about this stuff in [the official documentation from Apple](http://developer.apple.com/safari/library/documentation/InternetWeb/Conceptual/SafariVisualEffectsProgGuide/Introduction/Introduction.html).</p>
 <h3>Bonus!</h3>
 <p>As promised, here is a little bonus technique: key-framed animations. This is sweet. First, try the example below:</p>
 <style type="text/css">
@@ -127,4 +127,4 @@ document
   this.className = 'popping' === this.className ? '' : 'popping';
 }, false);
 </pre>
-<p>So, that's it. Pretty cool what WebKit can do. I mentioned earlier that other browsers will hopefully implement these techniques as well. Apple have <a href="http://webkit.org/specs/">proposed</a> all of the techniques I've used in my examples to the appropriate standards bodies. My guess is <a href="http://www.mozilla.org/">Mozilla</a> and <a href="http://www.opera.com/">Opera</a> will get on board relatively quickly. When <a href="http://www.microsoft.com/ie/">The Beast</a> decides to grow a round tuit is anyone's guess. IE12, perhaps?</p>
+<p>So, that's it. Pretty cool what WebKit can do. I mentioned earlier that other browsers will hopefully implement these techniques as well. Apple have [proposed](http://webkit.org/specs/) all of the techniques I've used in my examples to the appropriate standards bodies. My guess is [Mozilla](http://www.mozilla.org/) and [Opera](http://www.opera.com/) will get on board relatively quickly. When [The Beast](http://www.microsoft.com/ie/) decides to grow a round tuit is anyone's guess. IE12, perhaps?</p>

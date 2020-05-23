@@ -17,11 +17,12 @@ Yeah, I got p0wnd by the Mikeyy Worm on Twitter. It's a simple JavaScript inject
 
 ========
 
-<p class="outdent">The first thing you need to do is <strong>turn off JavaScript!</strong> This is different on every browser, but <a href="http://www.tucows.com/article/1690">this page</a> has instructions for a few common ones.</p>
-<p>Now that you have JavaScript disabled, you can fix your profile so you don't infect anyone else. Follow these steps:</p>
-<ol>
-<li>Go to your <a href="http://twitter.com/account/password">password</a> page and request a password reset. If you've been hacked, your password has been changed and you won't be able to reset it any other way.</li>
-<li>Go to your <a href="http://twitter.com/account/settings">settings</a> page and delete anything you didn't enter yourself (e.g., weird text in your bio, more info URL, etc.).</li>
-<li>Go to your <a href="http://twitter.com/account/profile_settings">profile design</a> page and reset the colors for your profile. I found my link color had been changed to infected text. Unfortunately, you'll have to have JavaScript turned on to change your colors through Twitter.com, but as long as you don't visit anyone's infected profile while you're fixing your own, you should be OK.</li>
-</ol>
-<p>That <strong>should</strong> do it. If you have seen cases where the above isn't sufficient to fix a hacked profile, please describe the solution in the comments. Thanks!</p>
+The first thing you need to do is **turn off JavaScript!** This is different on every browser, but [this page](http://www.tucows.com/article/1690) has instructions for a few common ones.
+
+Now that you have JavaScript disabled, you can fix your profile so you don't infect anyone else. Follow these steps:
+
+1. Go to your [password](http://twitter.com/account/password) page and request a password reset. If you've been hacked, your password has been changed and you won't be able to reset it any other way.
+2. Go to your [settings](http://twitter.com/account/settings) page and delete anything you didn't enter yourself (e.g., weird text in your bio, more info URL, etc.).
+3. Go to your [profile design](http://twitter.com/account/profile_settings) page and reset the colors for your profile. I found my link color had been changed to infected text. Unfortunately, you'll have to have JavaScript turned on to change your colors through Twitter.com, but as long as you don't visit anyone's infected profile while you're fixing your own, you should be OK.
+
+That _should_ do it. If you have seen cases where the above isn't sufficient to fix a hacked profile, please describe the solution in the comments. Thanks!
