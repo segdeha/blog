@@ -7,63 +7,51 @@
   "keywords": "twitter, @mentions, @replies, conventions, by, via, rt, slashtags, chris messina",
   "created_date": "2009-09-24 11:22:33",
   "short_url": "http://ahedg.es/75",
-  "published": false
+  "published": true
 }
 
 ========
 
-I feel a little dirty when I blog about [Twitter](http://twitter.com/). I'm not an internet marketer shamelessly trying to drive traffic to my blog (not that there's anything <em>inherently</em> wrong with that). I'm just a Twitter [user](http://twitter.com/segdeha), like you, and I have a couple of ideas to share.
+I feel a little dirty when I blog about [Twitter](http://twitter.com/). I’m not an internet marketer shamelessly trying to drive traffic to my blog (not that there’s anything _inherently_ wrong with that). I’m just a Twitter [user](http://twitter.com/segdeha), like you, and I have a couple of ideas to share.
 
 ========
 
-<p class="outdent">Since its inception, Twitter has fostered in users a sense of ownership over the community, in part, by formally adopting conventions invented and propagated among the user base. The canonical example of this is @replies (now @mentions). If you put an @ sign followed immediately by someone's Twitter handle, Twitter.com automagically links it up to that user's profile.</p>
+Since its inception, Twitter has fostered in users a sense of ownership over the community, in part, by formally adopting conventions invented and propagated among the user base. The canonical example of this is @replies (now @mentions). If you put an @ sign followed immediately by someone’s Twitter handle, Twitter.com automagically links it up to that user’s profile.
 
-<p>Tweeters use different syntax for quoting and referring to other people's posts. E.g., if you saw a cool link and want to share it, but you want to give credit to the person who posted it first, you might do something like the following:</p>
+Tweeters use different syntax for quoting and referring to other people’s posts. E.g., if you saw a cool link and want to share it, but you want to give credit to the person who posted it first, you might do something like the following:
 
-<blockquote>
-10 Cutest Cat Moments: [http://hurl.ws/5jbq](http://hurl.ws/5jbq) (via @[SaintLevi](http://twitter.com/saintlevi))
-</blockquote>
+> 10 Cutest Cat Moments: [http://hurl.ws/5jbq](http://hurl.ws/5jbq) (via [@SaintLevi](http://twitter.com/saintlevi))
 
-<p>There is some [controversy](http://blog.atebits.com/2009/01/rt-vs-via-round-2/) around whether (via ...) or RT (short for "retweet") is the better way to reference someone else's post. Personally, I use them in different situations. I do vias if I'm saying something original about the link. I RT if I'm just repeating something someone else said.</p>
+There is some [controversy](http://blog.atebits.com/2009/01/rt-vs-via-round-2/) around whether (via ...) or RT (short for "retweet") is the better way to reference someone else’s post. Personally, I use them in different situations. I do vias if I’m saying something original about the link. I RT if I’m just repeating something someone else said.
 
-<p>Anyway, I got to thinking about how some of these formats waste precious characters against the 140 limit. I was an [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) user back in the day, when you had to type in commands such as <code>/join #mindlessnattering</code> or <code>/me likes puppies</code> to do certain things. Now there's all manner of GUI for IRC and those damn kids are on my lawn again.</p>
+Anyway, I got to thinking about how some of these formats waste precious characters against the 140 limit. I was an [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) user back in the day, when you had to type in commands such as `/join #mindlessnattering` or `/me likes puppies` to do certain things. Now there’s all manner of GUI for IRC and those damn kids are on my lawn again.
 
-<p>To make an already far-too-long story short, I've adopted IRC's command syntax in my tweets. Revolutionary, I know.</p>
+To make an already far-too-long story short, I’ve adopted IRC’s command syntax in my tweets. Revolutionary, I know.
 
-<h3>Here are some examples:</h3>
+### Here are some examples:
 
-<p><strong>/via</strong> – used for re-posting a link posted by someone else, but with original commentary</p>
+**/via** – used for re-posting a link posted by someone else, but with original commentary
 
-<blockquote>
-So you'll recognize the jQuery team at conferences: [http://tr.im/zx7M](http://tr.im/zx7M) /via @[reybango](http://twitter.com/reybango)
-</blockquote>
+> So you’ll recognize the jQuery team at conferences: [http://tr.im/zx7M](http://tr.im/zx7M) /via [@reybango](http://twitter.com/reybango)
 
-<p><strong>/by</strong> – used for posting a link for the first time, written by someone else</p>
+**/by** – used for posting a link for the first time, written by someone else
 
-<blockquote>
-Truly geeky (ftw) blog for professional JavaScript developers: [http://pmuellr.blogspot.com/](http://pmuellr.blogspot.com/) /by @[pmuellr](http://twitter.com/pmuellr)
-</blockquote>
+> Truly geeky (ftw) blog for professional JavaScript developers: [http://pmuellr.blogspot.com/](http://pmuellr.blogspot.com/) /by [@pmuellr](http://twitter.com/pmuellr)
 
-<p><strong>/cc</strong> – used for drawing someone's attention to the post</p>
+**/cc** – used for drawing someone’s attention to the post
 
-<blockquote>
-Visiting NZ? Here's everything you need know about kiwi culture: [http://segdeha.com/kiwiculture/](http://segdeha.com/kiwiculture/) /cc @[kvnbishop](http://twitter.com/kvnbishop)
-</blockquote>
+> Visiting NZ? Here’s everything you need know about kiwi culture: [http://segdeha.com/kiwiculture/](http://segdeha.com/kiwiculture/) /cc [@kvnbishop](http://twitter.com/kvnbishop)
 
-<p><strong>//</strong> – used for adding commentary to a RT</p>
+**//** – used for adding commentary to a RT
 
-<blockquote>
-RT @[reybango](http://twitter.com/reybango): @[rmurphey](http://twitter.com/rmurphey) Great talk! // Congrats, Rebecca!
-</blockquote>
+> RT [@reybango](http://twitter.com/reybango): [@rmurphey](http://twitter.com/rmurphey) Great talk! // Congrats, Rebecca!
 
-<p>You can <em>even</em> combine them! Amaze your friends!</p>
+You can _even_ combine them! Amaze your friends!
 
-<blockquote>
-NZ photography showcase: [http://www.eyeballnz.com/](http://www.eyeballnz.com/) /by @[eyeballnz](http://twitter.com/eyeballnz) /via @[audaciousgloop](http://twitter.com/audaciousgloop) /cc @[kvnbishop](http://twitter.com/kvnbishop)
-</blockquote>
+> NZ photography showcase: [http://www.eyeballnz.com/](http://www.eyeballnz.com/) /by [@eyeballnz](http://twitter.com/eyeballnz) /via [@audaciousgloop](http://twitter.com/audaciousgloop) /cc [@kvnbishop](http://twitter.com/kvnbishop)
 
-<p>That's about it. I'd love to hear what you do or if you have any additions to this in the comments!</p>
+That’s about it. I’d love to hear what you do or if you have any additions to this in the comments!
 
-<p>(Thanks @[mclaughj](http://twitter.com/mclaughj) for prodding me to commit this to electrons!)</p>
+(Thanks [@mclaughj](http://twitter.com/mclaughj) for prodding me to commit this to electrons!)
 
-<p><strong>Update:</strong> [Chris Messina](http://twitter.com/chrismessina/status/5545343421) independently came up with [some similar ideas](http://factoryjoe.com/blog/2009/11/08/new-microsyntax-for-twitter-three-pointers-and-the-slasher/) to the ones I posted here. He's added <strong>/thx</strong> which is nice, but more importantly has given these things a name: <em>slashtags.</em> I like it!</p>
+**Update:** [Chris Messina](http://twitter.com/chrismessina/status/5545343421) independently came up with [some similar ideas](http://factoryjoe.com/blog/2009/11/08/new-microsyntax-for-twitter-three-pointers-and-the-slasher/) to the ones I posted here. He’s added **/thx** which is nice, but more importantly has given these things a name: _slashtags._ I like it!

@@ -11,7 +11,7 @@
   "keywords": "apple, dashboard, widget, growl, growlhelperapp, applescript, javascript, notifications, mac, os x, hurler, trimit, osascript, url, shortener",
   "created_date": "2009-03-14 15:14:15",
   "short_url": "http://ahedg.es/67",
-  "published": false
+  "published": true
 }
 
 ========
@@ -20,13 +20,13 @@ Recently, on [Dashboard-Dev](http://lists.apple.com/mailman/listinfo/dashboard-d
 
 ========
 
-Growl, if you're not familiar, is a notification system for [Mac OS X](http://www.apple.com/macosx/). It allows any application to notify you when it has, for example, finished uploading a file or changed the currently playing music track. Growl supports [AppleScript](http://www.apple.com/applescript/), and that's all it takes to know we can use it within Dashboard.
+Growl, if you’re not familiar, is a notification system for [Mac OS X](http://www.apple.com/macosx/). It allows any application to notify you when it has, for example, finished uploading a file or changed the currently playing music track. Growl supports [AppleScript](http://www.apple.com/applescript/), and that’s all it takes to know we can use it within Dashboard.
 
-My use case was that users of my URL shortening widgets wanted to be able to exit Dashboard and be notified when the URL had been shortened and copied to the pasteboard. I didn't think of this initially because the process is quite fast, but Hurler user [Barry Briggs](http://twitter.com/quiffboy) contacted me on Twitter and asked for it because he happens to run about a gazillion virtual machines at a time which slows his system down quite a bit. A day later, Hurler (and tr.im.it) had Growl support.
+My use case was that users of my URL shortening widgets wanted to be able to exit Dashboard and be notified when the URL had been shortened and copied to the pasteboard. I didn’t think of this initially because the process is quite fast, but Hurler user [Barry Briggs](https://twitter.com/quiffboy) contacted me on Twitter and asked for it because he happens to run about a gazillion virtual machines at a time which slows his system down quite a bit. A day later, Hurler (and tr.im.it) had Growl support.
 
-**Note:** the code I share below isn't exactly what you'll find if you explore the current versions of my widgets. I have generalized the code to make it more immediately useful to other widget authors. It's all tested, though, and this code will go out in their next releases.
+**Note:** the code I share below isn’t exactly what you’ll find if you explore the current versions of my widgets. I have generalized the code to make it more immediately useful to other widget authors. It’s all tested, though, and this code will go out in their next releases.
 
-Here's an overview of what I'm about to show you.
+Here’s an overview of what I’m about to show you.
 
 1. Some JavaScript that checks for the presence of Growl, then executes the notification command
 2. The shell script I use to check for the presence of Growl
@@ -46,7 +46,7 @@ widget.system('growl-enabled.sh', function (obj) {
 });
 </pre>
 
-This script makes a <code>widget.system</code> call, running the <code>growl-enabled.sh</code> shell script. When the shell script returns, it's value is passed into the anonymous callback function.
+This script makes a <code>widget.system</code> call, running the <code>growl-enabled.sh</code> shell script. When the shell script returns, it’s value is passed into the anonymous callback function.
 
 The shell script is quite simple. It invokes the command-line utility <code>osascript</code> and runs a simple AppleScript asking for a count of the number of processes named "GrowlHelperApp". If Growl is enabled, the script returns a 1. Otherwise, the script returns a 0.
 
@@ -59,7 +59,7 @@ end tell
 END
 </pre>
 
-If Growl is enabled, the JavaScript goes on to compose the command that will make the Growl notification happen. The command consists of calling <code>osascript</code> and passing it the following 6 parameters, in order:
+If Growl is enabled, the JavaScript goes on to compose the command that will make the Growl notification happen. The command consists of calling `osascript` and passing it the following 6 parameters, in order:
 
 <dl>
   <dt><code>growl-notify.scpt</code></dt>
@@ -95,8 +95,8 @@ on run argv
 end run
 </pre>
 
-I won't explain this in too much detail as AppleScript is fairly self-explanatory and this script is largely lifted from the [Growl documentation](http://growl.info/documentation/applescript-support.php), where it is explained in detail. I will point out that <code>on run argv</code> sets up an array of the arguments passed to the script, which are then accessed by asking for <code>item 1 of argv</code> (<code>"URL shortened"</code>), <code>item 2 of argv</code> (<code>"Hurler Widget"</code>), and so on.
+I won’t explain this in too much detail as AppleScript is fairly self-explanatory and this script is largely lifted from the [Growl documentation](http://growl.info/documentation/applescript-support.php), where it is explained in detail. I will point out that `on run argv` sets up an array of the arguments passed to the script, which are then accessed by asking for `item 1 of argv` (`"URL shortened"`), `item 2 of argv` (`"Hurler Widget"`), and so on.
 
 > Download [growl-notify.scpt](http://segdeha.com/blog/assets/files/growl-notify.scpt.zip)
 
-That's it. I hope this is helpful. Post any questions or suggestions in the comments. Happy Growling!
+That’s it. I hope this is helpful. Post any questions or suggestions in the comments. Happy Growling!
