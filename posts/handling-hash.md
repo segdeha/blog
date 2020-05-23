@@ -18,7 +18,7 @@ No, I’m not talking about drug smuggling. I’m talking about the inconsistenc
 
 I know, I know, you can’t believe what you’re reading. But it’s true! [Firefox](http://mozilla.org/firefox/), [Internet Explorer](http://www.microsoft.com/windows/products/winfamily/ie/) and [Safari](http://www.apple.com/safari/) all behave differently in how they treat the [JavaScript](http://en.wikipedia.org/wiki/JavaScript) value `window.location.hash`. A stunning revelation, this.
 
-As the web gets more [AJAXy](http://en.wikipedia.org/wiki/AJAX), the need for preserving state in URLs has grown. A way to meet this requirement that has been [noticed](http://feedblog.org/2007/01/22/hash-mark-killed-the-question-mark-star-or-ajax-permalinks/) to be in use on both Google and Yahoo properties is to add parameters to the URL, not with the traditional query string delimiter (?), but with the hash (#) sign instead.
+As the web gets more [AJAXy](http://en.wikipedia.org/wiki/AJAX), the need for preserving state in URLs has grown. A way to meet this requirement that has been [noticed](http://feedblog.org/2007/01/22/hash-mark-killed-the-question-mark-star-or-ajax-permalinks/) to be in use on both Google and Yahoo properties is to add parameters to the URL, not with the traditional query string delimiter (`?`), but with the hash (`#`) sign instead.
 
 This has the advantage of being something you can manipulate via JavaScript without forcing a page reload. Add a history entry at the same time and, violá, you just [un-broke the back button](http://www.contentwithstyle.co.uk/Articles/38/fixing-the-back-button-and-enabling-bookmarking-for-ajax-apps)!
 

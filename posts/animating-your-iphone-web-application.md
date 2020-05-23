@@ -1,0 +1,54 @@
+{
+  "title": "Animating your iPhone web application",
+  "slug": "animating-your-iphone-web-application",
+  "topics": [
+    "Apple",
+    "JavaScript,
+    "Web Development"
+  ],
+  "keywords": "iphone, javascript, mobile, css, css transitions, webkit, safari, chrome, firefox",
+  "created_date": "2009-05-29 18:18:18",
+  "short_url": "http://ahedg.es/72",
+  "published": false
+}
+
+========
+
+Recently, <a href="http://www.rebeccamurphey.com/">Rebecca Murphey</a> asked on <a href="http://twitter.com/rmurphey/status/1932522734">Twitter</a> why she was seeing choppy animation of <a href="http://webkit.org/specs/CSSVisualEffects/CSSTransitions.html">CSS transitions</a> in her <a href="http://www.apple.com/iphone/">iPhone</a> web application. Initially, I had the same experience, but through some experimentation came to find the smoothness I craved.
+
+========
+
+<p class="outdent">I'm in the midst of some mobile web app development. Our first target platform is, of course, the iPhone. An issue of utmost importance when attempting to emulate a native application in an iPhone web view is rendering smooth animations for things like page transitions.</p>
+<p>I spent today experimenting with different techniques and am here to share what I've learned. Below, I review 2 JavaScript-based techniques for animations as well as the use of <a href="http://webkit.org/">WebKit</a> CSS <a href="http://webkit.org/specs/CSSVisualEffects/CSSTransitions.html">transitions</a> and <a href="http://webkit.org/specs/CSSVisualEffects/CSSTransforms.html">transforms</a>. Which is best? Read on...</p>
+<p><em>All of the animations use a duration of 250ms. Click the viewports (touch on your iPhone) to see the animations. Right-click on a viewport and select 'View source' to see how it's done. If the animations don't go, follow the link beside the viewport to see the stand-alone page.</em></p>
+<div style="clear: left;">
+<hr>
+<iframe class="iphone-viewport" name="mine" src="/experiments/iphone/animations/mine.html"></iframe>
+<p>The viewport to the left represents my custom attempt to provide a smooth animation experience. It combines a time-based, strictly linear animation algorithm with a small delay between invocations in an effort not to stress the wee iPhone CPU. It's OK, but the lack of easing looks unfinished.</p>
+<p><a href="/experiments/iphone/animations/mine.html">Stand-alone page</a></p>
+</div>
+<div style="clear: left;">
+<hr>
+<iframe class="iphone-viewport" name="js" src="/experiments/iphone/animations/js.html"></iframe>
+<p>This example uses the excellent <a href="http://www.berniecode.com/writing/animator.html">Animator</a> class to handle the animation. It includes an easing algorithm that makes the animation look a little nicer. Not bad, but it doesn't quite feel like a native application.</p>
+<p><a href="/experiments/iphone/animations/js.html">Stand-alone page</a></p>
+</div>
+<div style="clear: left;">
+<hr>
+<iframe class="iphone-viewport" name="css" src="/experiments/iphone/animations/css.html"></iframe>
+<p>This example leverages WebKit's native CSS transitions. Of the 3, this is the simplest to code and it also offers the best performance. The pages seem to 'snap' into place, unlike the other examples.</p>
+<p><a href="/experiments/iphone/animations/css.html">Stand-alone page</a></p>
+</div>
+<div style="font-size: 0;line-height: 0;height: 0;clear: left;"></div>
+<p>Honestly, I'm not sure what was vexing the examples Rebecca and I were looking at earlier. It could be that <a href="/experiments/css-transitions/">my first experiment with CSS transitions</a> was trying to do too much (moving 4 divs while changing the opacity on 2 of them). The above examples are extremely simple cases, so they're bound to perform better.</p>
+<p>It stands to reason that native code would perform better than interpreted JavaScript code. Based on my first experiment, I rendered a verdict of <a href="http://twitter.com/segdeha/status/1953270139">unusable 4 now</a>. After digging a little deeper, I stand corrected.</p>
+<h3>Update: CSS Transformations</h3>
+<div style="clear: left;">
+<hr>
+<iframe class="iphone-viewport" name="css-hw" src="/experiments/iphone/animations/css-hw.html"></iframe>
+<p>Based on comments below by Sean Gilligan, developer of <a href="http://code.google.com/p/iui/">iUI</a>, I have added a fourth example. This one uses <code>-webkit-transform: translateX</code> to achieve hardware acceleration on the iPhone. I've also slowed down the animations to 250ms to accentuate the differences between the various techniques.</p>
+<p>I'm not sure it's better, at least on my phone. What do you think?</p>
+<p><a href="/experiments/iphone/animations/css-hw.html">Stand-alone page</a></p>
+</div>
+<div style="clear: left;">
+
