@@ -16,7 +16,7 @@ I feel a little dirty when I blog about [Twitter](http://twitter.com/). I’m no
 
 ========
 
-Since its inception, Twitter has fostered in users a sense of ownership over the community, in part, by formally adopting conventions invented and propagated among the user base. The canonical example of this is @replies (now @mentions). If you put an @ sign followed immediately by someone’s Twitter handle, Twitter.com automagically links it up to that user’s profile.
+Since its inception, Twitter has fostered in users a sense of ownership over the community, in part, by formally adopting conventions invented and propagated among the user base. The canonical example of this is `@replies` (now `@mentions`). If you put an `@` sign followed immediately by someone’s Twitter handle, `Twitter.com` automagically links it up to that user’s profile.
 
 Tweeters use different syntax for quoting and referring to other people’s posts. E.g., if you saw a cool link and want to share it, but you want to give credit to the person who posted it first, you might do something like the following:
 
