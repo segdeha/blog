@@ -28,11 +28,11 @@ _For the uninitiated, the distinct lack of w’s in that line is_ supposed _to m
 
 Whatever the reason, Coda changed the files, which just happened to be the Subversion (SVN) reference versions of some of my repository files. The next time I tried to commit changes to my repository, I got an error message something like the following:
 
-    svn: Checksum mismatch for '.svn/text-base/blah.ext'; 
-    expected: 'f8d45250f7df5561635854165862fdd8', 
+    svn: Checksum mismatch for '.svn/text-base/blah.ext';
+    expected: 'f8d45250f7df5561635854165862fdd8',
     actual: '644f85c4befa671150c5c6ec5fad9885'
 
-The above is actually taken straight from an article called "[subversion checksum mismatch - easy workaround](http://glob.bushi.net.nz/glob/2007/02/14/subversion-checksum-mismatch-easy-workaround/)." I’m glad I found the article because it helped me fix the problem. Contrary to the title of the blog post, however, I didn’t find Chris’s instructions all that clear, so I thought I’d take a shot at explaining it in a way that is maybe a little easier to follow.
+The above is actually taken straight from an article called “[subversion checksum mismatch - easy workaround](http://glob.bushi.net.nz/glob/2007/02/14/subversion-checksum-mismatch-easy-workaround/).” I’m glad I found the article because it helped me fix the problem. Contrary to the title of the blog post, however, I didn’t find Chris’s instructions all that clear, so I thought I’d take a shot at explaining it in a way that is maybe a little easier to follow.
 
 ### A side trip down Background Lane
 
