@@ -22,7 +22,7 @@ Tweeters use different syntax for quoting and referring to other people’s post
 
 > 10 Cutest Cat Moments: [http://hurl.ws/5jbq](http://hurl.ws/5jbq) (via [@SaintLevi](http://twitter.com/saintlevi))
 
-There is some [controversy](http://blog.atebits.com/2009/01/rt-vs-via-round-2/) around whether (via ...) or RT (short for "retweet") is the better way to reference someone else’s post. Personally, I use them in different situations. I do vias if I’m saying something original about the link. I RT if I’m just repeating something someone else said.
+There is some [controversy](http://blog.atebits.com/2009/01/rt-vs-via-round-2/) around whether (via ...) or RT (short for “retweet”) is the better way to reference someone else’s post. Personally, I use them in different situations. I do vias if I’m saying something original about the link. I RT if I’m just repeating something someone else said.
 
 Anyway, I got to thinking about how some of these formats waste precious characters against the 140 limit. I was an [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) user back in the day, when you had to type in commands such as `/join #mindlessnattering` or `/me likes puppies` to do certain things. Now there’s all manner of GUI for IRC and those damn kids are on my lawn again.
 
