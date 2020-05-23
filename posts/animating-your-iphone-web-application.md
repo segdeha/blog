@@ -3,7 +3,7 @@
   "slug": "animating-your-iphone-web-application",
   "topics": [
     "Apple",
-    "JavaScript,
+    "JavaScript",
     "Web Development"
   ],
   "keywords": "iphone, javascript, mobile, css, css transitions, webkit, safari, chrome, firefox",
