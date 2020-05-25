@@ -82,7 +82,7 @@ The above code sets up our DIV to listen for click events. When you click the DI
 document
     .getElementById('mydiv')
     .addEventListener('click', function () {
-      this.className = 'faded' === this.className ? '' : 'faded';
+        this.className = 'faded' === this.className ? '' : 'faded';
 }, false);
 </script>
 
@@ -115,7 +115,7 @@ As promised, here is a little bonus technique: key-framed animations. This is sw
 document
     .getElementById('popper')
     .addEventListener('click', function () {
-      this.className = 'popping' === this.className ? '' : 'popping';
+        this.className = 'popping' === this.className ? '' : 'popping';
 }, false);
 </script>
 
@@ -150,7 +150,7 @@ The JavaScript is essentially the same as before. Only the `div` ID and class na
 document
     .getElementById('popper')
     .addEventListener('click', function () {
-      this.className = 'popping' === this.className ? '' : 'popping';
+        this.className = 'popping' === this.className ? '' : 'popping';
 }, false);
 </pre>
 
