@@ -46,18 +46,16 @@ widget.system('growl-enabled.sh', function (obj) {
 });
 </pre>
 
-This script makes a <code>widget.system</code> call, running the <code>growl-enabled.sh</code> shell script. When the shell script returns, it’s value is passed into the anonymous callback function.
+This script makes a `widget.system` call, running the `growl-enabled.sh` shell script. When the shell script returns, it’s value is passed into the anonymous callback function.
 
-The shell script is quite simple. It invokes the command-line utility <code>osascript</code> and runs a simple AppleScript asking for a count of the number of processes named "GrowlHelperApp". If Growl is enabled, the script returns a 1. Otherwise, the script returns a 0.
+The shell script is quite simple. It invokes the command-line utility `osascript` and runs a simple AppleScript asking for a count of the number of processes named "GrowlHelperApp". If Growl is enabled, the script returns a `1`. Otherwise, the script returns a `0`.
 
-<pre class="sh_sh">
-#!/bin/sh
-osascript<<END
-tell application "System Events"
-   return count of (every process whose name is "GrowlHelperApp")
-end tell
-END
-</pre>
+    #!/bin/sh
+    osascript<<END
+    tell application "System Events"
+       return count of (every process whose name is "GrowlHelperApp")
+    end tell
+    END
 
 If Growl is enabled, the JavaScript goes on to compose the command that will make the Growl notification happen. The command consists of calling `osascript` and passing it the following 6 parameters, in order:
 
@@ -78,25 +76,23 @@ If Growl is enabled, the JavaScript goes on to compose the command that will mak
 
 `osascript` runs `growl-notify.scpt` and passes the other parameters to it. The AppleScript to make the notification request is as follows:
 
-<pre class="sh_pascal">
-on run argv
-   tell application "GrowlHelperApp"
-      set the allNotificationsList to {item 1 of argv}
-      set the enabledNotificationsList to {item 1 of argv}
-      register as application ¬
-         item 2 of argv all notifications allNotificationsList ¬
-         default notifications enabledNotificationsList ¬
-         icon of application item 3 of argv
-      notify with name ¬
-         item 1 of argv title item 4 of argv ¬
-         description ¬
-         item 5 of argv application name item 2 of argv
-   end tell
-end run
-</pre>
+    on run argv
+       tell application "GrowlHelperApp"
+          set the allNotificationsList to {item 1 of argv}
+          set the enabledNotificationsList to {item 1 of argv}
+          register as application ¬
+             item 2 of argv all notifications allNotificationsList ¬
+             default notifications enabledNotificationsList ¬
+             icon of application item 3 of argv
+          notify with name ¬
+             item 1 of argv title item 4 of argv ¬
+             description ¬
+             item 5 of argv application name item 2 of argv
+       end tell
+    end run
 
 I won’t explain this in too much detail as AppleScript is fairly self-explanatory and this script is largely lifted from the [Growl documentation](http://growl.info/documentation/applescript-support.php), where it is explained in detail. I will point out that `on run argv` sets up an array of the arguments passed to the script, which are then accessed by asking for `item 1 of argv` (`"URL shortened"`), `item 2 of argv` (`"Hurler Widget"`), and so on.
 
 > Download [growl-notify.scpt](http://segdeha.com/blog/assets/files/growl-notify.scpt.zip)
 
-That’s it. I hope this is helpful. Post any questions or suggestions in the comments. Happy Growling!
+That’s it. I hope this is helpful. Happy Growling!
