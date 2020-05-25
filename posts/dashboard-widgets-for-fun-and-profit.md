@@ -22,7 +22,7 @@ I gave a presentation tonight to the [Auckland Web Design Meetup](http://www.mee
 
 The slides are a bit sparse. This was intentional as I wanted folks to focus on what I was saying and not be reading massive bulleted lists of text. I’ll try to fill in the gaps in my commentary after the slides themselves. Feel free to ask for clarification or more detail in the comments.
 
-<iframe width="400" height="500" src="http://280slides.com/Viewer/?user=17132&name=Dashboard%20widgets%20for%20fun%20%26%20profit" style="border: 1px solid black; margin: 0; padding: 0;margin-left: -160px;"></iframe>
+> Unfortunately, 280slides.com is no more and my slides are lost forever. This fact is not likely to make the list of [significant losses to humanity](https://listverse.com/2011/11/09/10-significant-losses-to-humanity/).
 
 There were 2 main points I wanted to get across in the presentation:
 
@@ -33,7 +33,7 @@ The following is a slide-by-slide annotation:
 
 1. Title slide
 2. Outline for the talk
-3. My credentials as a widget builder—I mentioned that the number of downloads I list here is a conservative estimate because Apple.com doesn’t expose download statistics. Otherwise, I touted publicity my widgets have received, that some have been distributed on CD-ROMs with print magazines and that I’ve been interviewed on a couple of [podcasts](/widgets/#articles) on the topic of widgets. My kids think I’m famous because my name has been in magazines. :-)
+3. My credentials as a widget builder—I mentioned that the number of downloads I list here is a conservative estimate because Apple.com doesn’t expose download statistics. Otherwise, I touted publicity my widgets have received, that some have been distributed on CD-ROMs with print magazines and that I’ve been interviewed on a couple of [podcasts](https://andrew.hedges.name/widgets/#articles) on the topic of widgets. My kids think I’m famous because my name has been in magazines. :-)
 4. Transition slide to “What is a widget?” section
 5. Graphic showing several of the default widgets that ship with Mac OS X—I made the point that widgets are simple, single-purpose mini-applications.
 6. Dashboard is the name for the platform upon which widgets are built.
