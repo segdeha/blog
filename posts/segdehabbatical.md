@@ -5,6 +5,7 @@
   "keywords": "sabbatical, apple, work, life, travel, camping, costa rica, tamarindo, arenal, spanish, steens mountain, kings canyon, ada developers academy, jeeps, frenchglen, hanging bridges, bernie sanders, portland, seattle, hooten hallers, music on the mounds, aust",
   "created_date": "2015-08-20 08:20:00",
   "short_url": "http://ahedg.es/108",
+  "gallery": true,
   "published": false
 }
 
@@ -113,8 +114,11 @@ Call me crazy. I quit what was in many ways a dream job at <a href="http://www.a
 <p class="byline">
 All photos © Andrew Hedges 2015. All rights reserved.<br>
 Image gallery code available on <a href="https://github.com/segdeha/Gallery">Github</a>.</p>
-<script defer>
-var gallery1 = new Gallery({ selector : '#gallery-1' })
-var gallery2 = new Gallery({ selector : '#gallery-2' })
-var gallery3 = new Gallery({ selector : '#gallery-3' })
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+	const gallery1 = new Gallery({ selector : '#gallery-1' })
+	const gallery2 = new Gallery({ selector : '#gallery-2' })
+	const gallery3 = new Gallery({ selector : '#gallery-3' })
+})
 </script>
