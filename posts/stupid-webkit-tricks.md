@@ -30,23 +30,23 @@ I quickly ran through examples of [CSS gradients](http://segdeha.com/experiments
 
 The basic pattern for all of the above mentioned animations is the following:
 
-1. In CSS, tell WebKit that, for an element or group of elements, when a specific property changes, it should _transition_ from one state to another over a set duration and using a particular timing function (also called an "easing algorithm").</li>
-2. Also in CSS, set the initial state of the element and the state to which the element is to transition.</li>
-3. Either in CSS (using the `:hover` pseudo-class) or in JavaScript (by toggling a class name), initiate the transition by setting a new state for the property in question.</li>
+1. In CSS, tell WebKit that, for an element or group of elements, when a specific property changes, it should _transition_ from one state to another over a set duration and using a particular timing function (also called an “easing algorithm”).
+2. Also in CSS, set the initial state of the element and the state to which the element is to transition.
+3. Either in CSS (using the `:hover` pseudo-class) or in JavaScript (by toggling a class name), initiate the transition by setting a new state for the property in question.
 
 
 Here’s a simple example. First, the CSS:
 
 <pre class="sh_css">
 #mydiv {
-  -webkit-transition-property: opacity;
-  -webkit-transition-duration: 1500ms;
-  -webkit-transition-timing-function: ease;
-  opacity: 1.0;
+    -webkit-transition-property: opacity;
+    -webkit-transition-duration: 1500ms;
+    -webkit-transition-timing-function: ease;
+    opacity: 1.0;
 }
 
 #mydiv.faded {
-  opacity: 0.0;
+    opacity: 0.0;
 }
 </pre>
 
@@ -56,9 +56,9 @@ Next, the JavaScript:
 
 <pre class="sh_javascript">
 document
-  .getElementById('mydiv')
-  .addEventListener('click', function () {
-  this.className = 'faded' === this.className ? '' : 'faded';
+    .getElementById('mydiv')
+    .addEventListener('click', function () {
+        this.className = 'faded' === this.className ? '' : 'faded';
 }, false);
 </pre>
 
@@ -66,22 +66,23 @@ The above code sets up our DIV to listen for click events. When you click the DI
 
 <style type="text/css">
 #mydiv {
-  -webkit-transition-property: opacity;
-  -webkit-transition-duration: 1500ms;
-  -webkit-transition-timing-function: ease;
-  opacity: 1.0;
+    -webkit-transition-property: opacity;
+    -webkit-transition-duration: 1500ms;
+    -webkit-transition-timing-function: ease;
+    opacity: 1.0;
 }
-
 #mydiv.faded {
-  opacity: 0.0;
+    opacity: 0.0;
 }
 </style>
+
 <div style="border:solid 1px black;margin: 1em 0;padding: 1em;background: navy;color: white;font-weight: bold;width: 200px;text-align: center;" id="mydiv">Click me!</div>
+
 <script type="text/javascript">
 document
-  .getElementById('mydiv')
-  .addEventListener('click', function () {
-  this.className = 'faded' === this.className ? '' : 'faded';
+    .getElementById('mydiv')
+    .addEventListener('click', function () {
+      this.className = 'faded' === this.className ? '' : 'faded';
 }, false);
 </script>
 
