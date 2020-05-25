@@ -5,7 +5,7 @@
   "keywords": "apple, mac, texas instruments, ti-99/4A, basic, ibook, powerbook, powermac, power computing, powertower, clone, macbook, macbook pro, retina, mac mini, digg, hypercard",
   "created_date": "2014-01-26 14:15:24",
   "short_url": "http://ahedg.es/106",
-  "published": false
+  "published": true
 }
 
 ========
