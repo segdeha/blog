@@ -6,29 +6,31 @@
   "created_date": "2015-08-20 08:20:00",
   "short_url": "http://ahedg.es/108",
   "gallery": true,
-  "published": false
+  "published": true
 }
 
 ========
 
-Call me crazy. I quit what was in many ways a dream job at <a href="http://www.apple.com/">The Cupertino Fruit Company</a> to take 6 months off to recharge, reset, and reassess what&#8217;s next. I&#8217;m 2 months in. Let&#8217;s take stock of how it&#8217;s going, shall we?
+Call me crazy. I quit what was in many ways a dream job at [The Cupertino Fruit Company](http://www.apple.com/) to take 6 months off to recharge, reset, and reassess what’s next. I’m 2 months in. Let’s take stock of how it’s going, shall we?
 
 ========
 
-<p>One way to take stock would be just to send you to this and let you judge for yourself: <a href="https://instagram.com/explore/tags/segdehabbatical/">#segdehabbatical</a></p>
-<p>But, that would be cheating. So, instead, let&#8217;s start with a review of the highlights to-date….</p>
+One way to take stock would be just to send you to this and let you judge for yourself: [#segdehabbatical](https://instagram.com/explore/tags/segdehabbatical/)
+
+But, that would be cheating. So, instead, let’s start with a review of the highlights to-date….
+
 <ul id="gallery-1" class="gallery">
 	<li>
 		<img src="/-/img/segdehabbatical/kings-canyon.jpg" alt="">
-		<p>Camped with Valerie and her family in <a href="http://www.nps.gov/seki/">King&#8217;s Canyon</a>. Who knew California had so many 14ers? OK, lots of people. Still impressive!</p>
+		<p>Camped with Valerie and her family in <a href="http://www.nps.gov/seki/">King’s Canyon</a>. Who knew California had so many 14ers? OK, lots of people. Still impressive!</p>
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/alvord-jeeps.jpg" alt="">
-		<p>Camped for a week in the <a href="http://www.blm.gov/or/districts/burns/recreation/steens-mtn.php">Steens Mountain Wilderness</a> with my family. The <a href="https://en.wikipedia.org/wiki/Frenchglen,_Oregon">closest town</a> was 35 miles away, population 12. Add &#8220;race Jeeps across a dry lake bed&#8221; to your bucket list. You&#8217;ll thank me later.</p>
+		<p>Camped for a week in the <a href="http://www.blm.gov/or/districts/burns/recreation/steens-mtn.php">Steens Mountain Wilderness</a> with my family. The <a href="https://en.wikipedia.org/wiki/Frenchglen,_Oregon">closest town</a> was 35 miles away, population 12. Add “race Jeeps across a dry lake bed” to your bucket list. You’ll thank me later.</p>
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/arenal-hanging-bridge.jpg" alt="">
-		<p>Spent 2 weeks in Costa Rica, mostly in the lovely beach town of Tamarindo, sightseeing and visiting with my longtime freelance client who runs <a href="http://isls.com">Spanish language schools and camps</a> there. Spent a weekend in Arenal, including a hike through the rainforest canopy on <em>los puentes colgantes</em> (hanging bridges). Spectacular! I can&#8217;t recommend Costa Rica highly enough. It&#8217;s also <a href="https://medium.com/@dana_98871/5-reasons-costa-rica-is-a-great-destination-for-your-family-vacation-84da0af2b02b">great for families</a>!</p>
+		<p>Spent 2 weeks in Costa Rica, mostly in the lovely beach town of Tamarindo, sightseeing and visiting with my longtime freelance client who runs <a href="http://isls.com">Spanish language schools and camps</a> there. Spent a weekend in Arenal, including a hike through the rainforest canopy on <em>los puentes colgantes</em> (hanging bridges). Spectacular! I can’t recommend Costa Rica highly enough. It’s also <a href="https://medium.com/@dana_98871/5-reasons-costa-rica-is-a-great-destination-for-your-family-vacation-84da0af2b02b">great for families</a>!</p>
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/portland-bernie-rally.jpg" alt="">
@@ -39,22 +41,25 @@ Call me crazy. I quit what was in many ways a dream job at <a href="http://www.a
 		<p>Spent a fantastic long weekend in and around Seattle that included catching up with old friends, seeing <a href="http://www.thehootenhallers.com/">one of the best shows of my life</a> at <a href="http://musiconthemounds.com/">Music on the Mounds</a>, jamming with my sister on her back patio, and speaking to a group of women developers at the <a href="http://adadevelopersacademy.org/">Ada Developers Academy</a>.</p>
 	</li>
 </ul>
-<p>In short, I have had a series of great experiences that I would not have had I been toiling away at my day job this whole time. For that, I am so grateful. It is a privilege to be in a position where I can take this time for myself.</p>
-<p>Still, I can&#8217;t help but feel a little antsy a third of the way through my time off. I&#8217;m feeling the need to start turning my attention to the growing list of ideas and projects on the whiteboard in my apartment. I know I&#8217;ll be in Portland, Oregon, by the end of the year. I just don&#8217;t yet know what I&#8217;ll be doing for work. Time to figure that out!</p>
-<p>After I spend spend a few days in Austin next week, that is….</p>
 
-<h3>Update: November 3, 2015</h3>
+In short, I have had a series of great experiences that I would not have had I been toiling away at my day job this whole time. For that, I am so grateful. It is a privilege to be in a position where I can take this time for myself.
 
-<p>I&#8217;m back to share what I&#8217;ve been up to over the 10½ weeks since I first posted this. <strong>TL;dr:</strong> More travel, plus adventures closer to home, and the beginnings of me poking my head up to survey possibilities in the world of the working.</p>
+Still, I can’t help but feel a little antsy a third of the way through my time off. I’m feeling the need to start turning my attention to the growing list of ideas and projects on the whiteboard in my apartment. I know I’ll be in Portland, Oregon, by the end of the year. I just don’t yet know what I’ll be doing for work. Time to figure that out!
+
+After I spend spend a few days in Austin next week, that is….
+
+### Update: November 3, 2015
+
+I’m back to share what I’ve been up to over the 10½ weeks since I first posted this. **TL;dr:** More travel, plus adventures closer to home, and the beginnings of me poking my head up to survey possibilities in the world of the working.
 
 <ul id="gallery-2" class="gallery">
 	<li>
 		<img src="/-/img/segdehabbatical/austin-toni-price.jpg" alt="">
-		<p>I dragged <a href="https://twitter.com/craigalimo">Craig</a> and <a href="https://twitter.com/_jjphillips">Jayson</a> (kicking and screaming, I assure you) to Austin for a few days for some great music and food. <a href="http://toniprice.net/">Toni Price</a> (pictured above) did not disappoint, 18 years after the first and only other time I saw her live. <a href="http://www.labarbecue.com/">la Barbecue</a> also did not disappoint, though that was more for Craig&#8217;s and Jayson&#8217;s sakes since I&#8217;m <a href="https://instagram.com/p/624S27p5l_/">vegetarian</a> and all.</p>
+		<p>I dragged <a href="https://twitter.com/craigalimo">Craig</a> and <a href="https://twitter.com/_jjphillips">Jayson</a> (kicking and screaming, I assure you) to Austin for a few days for some great music and food. <a href="http://toniprice.net/">Toni Price</a> (pictured above) did not disappoint, 18 years after the first and only other time I saw her live. <a href="http://www.labarbecue.com/">la Barbecue</a> also did not disappoint, though that was more for Craig’s and Jayson’s sakes since I’m <a href="https://instagram.com/p/624S27p5l_/">vegetarian</a> and all.</p>
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/oakland-bgc.jpg" alt="">
-		<p>I volunteered as a technical assistant for a coding day for girls ages 8–18 through <a href="http://www.blackgirlscode.com/">Black Girls Code</a>. The task was to build <a href="http://segdeha.com/bgc/mygame/">a simple game</a>. Preparing for the day, I searched around and wasn&#8217;t able to find any game sprites of Black girl heroes. So, I commissioned <a href="http://musiamure.daportfolio.com/">a designer</a> to create one. We used it in the course and I&#8217;ve <a href="https://github.com/segdeha/black-girl-hero-game-sprite">released it for others to use</a>, free of charge.</p>
+		<p>I volunteered as a technical assistant for a coding day for girls ages 8–18 through <a href="http://www.blackgirlscode.com/">Black Girls Code</a>. The task was to build <a href="http://segdeha.com/bgc/mygame/">a simple game</a>. Preparing for the day, I searched around and wasn’t able to find any game sprites of Black girl heroes. So, I commissioned <a href="http://musiamure.daportfolio.com/">a designer</a> to create one. We used it in the course and I’ve <a href="https://github.com/segdeha/black-girl-hero-game-sprite">released it for others to use</a>, free of charge.</p>
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/paris-eiffel-tower.jpg" alt="">
@@ -62,7 +67,7 @@ Call me crazy. I quit what was in many ways a dream job at <a href="http://www.a
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/sf-highland-games.jpg" alt="">
-		<p>Closer to home, I went with friends to the <a href="http://www.thescottishgames.com/">150th Scottish Highland Games</a> in Pleasanton where I met the pictured pup, a &#8220;Lurcher&#8221; which is a cross between a Greyhound and a Scottish Deer Hound. Lovely animal!</p>
+		<p>Closer to home, I went with friends to the <a href="http://www.thescottishgames.com/">150th Scottish Highland Games</a> in Pleasanton where I met the pictured pup, a “Lurcher” which is a cross between a Greyhound and a Scottish Deer Hound. Lovely animal!</p>
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/sf-calibrate.jpg" alt="">
@@ -70,7 +75,7 @@ Call me crazy. I quit what was in many ways a dream job at <a href="http://www.a
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/sf-back-to-the-future-day.jpg" alt="">
-		<p>I&#8217;m guessing it&#8217;s not news that October 21, 2015, was <a href="http://www.october212015.com/">Back to the Future Day</a>, the day to which Doc and Marty travel in <a href="http://www.imdb.com/title/tt0096874/">Back to the Future, Part II</a>. I went with some of Valerie&#8217;s friends to an &#8220;interruption&#8221; of the movie put on by <a href="http://sfsketchfest.com/">SF Sketchfest</a> at the <a href="http://www.castrotheatre.com/">Castro Theatre</a>. They had 4 comedians sitting in the front row with microphones, talking and making jokes over the movie while it played. It was pretty hilarious.</p>
+		<p>I’m guessing it’s not news that October 21, 2015, was <a href="http://www.october212015.com/">Back to the Future Day</a>, the day to which Doc and Marty travel in <a href="http://www.imdb.com/title/tt0096874/">Back to the Future, Part II</a>. I went with some of Valerie’s friends to an “interruption” of the movie put on by <a href="http://sfsketchfest.com/">SF Sketchfest</a> at the <a href="http://www.castrotheatre.com/">Castro Theatre</a>. They had 4 comedians sitting in the front row with microphones, talking and making jokes over the movie while it played. It was pretty hilarious.</p>
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/ashland-horse.jpg" alt="">
@@ -78,13 +83,13 @@ Call me crazy. I quit what was in many ways a dream job at <a href="http://www.a
 	</li>
 </ul>
 
-<p>In addition to the above, for the last 5 weeks or so, I&#8217;ve been doing some freelance web development work. It&#8217;s been challenging in some ways being an individual contributor again after having been a manager for the last 5 years. But, I&#8217;ve learned a ton and am able to tick off as completed another of the goals I set for myself when I started this whole sabbatical thing.</p>
+In addition to the above, for the last 5 weeks or so, I’ve been doing some freelance web development work. It’s been challenging in some ways being an individual contributor again after having been a manager for the last 5 years. But, I’ve learned a ton and am able to tick off as completed another of the goals I set for myself when I started this whole sabbatical thing.
 
-<p>What comes next? Good question. The goal all along has been to be in Portland, Oregon, by the end of the year. That&#8217;s fast approaching, so that will be probably my main focus over the next couple of months. Once I&#8217;m there, I&#8217;m still not sure what I&#8217;m going to do. And that&#8217;s…OK.</p>
+What comes next? Good question. The goal all along has been to be in Portland, Oregon, by the end of the year. That’s fast approaching, so that will be probably my main focus over the next couple of months. Once I’m there, I’m still not sure what I’m going to do. And that’s…OK.
 
-<h3>Update: December 12, 2015</h3>
+### Update: December 12, 2015
 
-<p>Exactly 6 months after I left Apple, I hereby declare #segdehabbatical over. Nothing really changes tomorrow, it&#8217;s just that it&#8217;ll be called &#8220;life&#8221; instead of &#8220;sabbatical.&#8221; The last 5½ weeks have been eventful, as has the whole 6 months.</p>
+Exactly 6 months after I left Apple, I hereby declare #segdehabbatical over. Nothing really changes tomorrow, it’s just that it’ll be called “life” instead of “sabbatical.” The last 5½ weeks have been eventful, as has the whole 6 months.
 
 <ul id="gallery-3" class="gallery">
 	<li>
@@ -97,7 +102,7 @@ Call me crazy. I quit what was in many ways a dream job at <a href="http://www.a
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/oakland-starbucks-cup.jpg" alt="">
-		<p>I (obviously) won the Starbucks cup decorating contest at our friends&#8217; holiday party.</p>
+		<p>I (obviously) won the Starbucks cup decorating contest at our friends’ holiday party.</p>
 	</li>
 	<li>
 		<img src="/-/img/segdehabbatical/burlingame-party-totchos.jpg" alt="">
@@ -105,15 +110,16 @@ Call me crazy. I quit what was in many ways a dream job at <a href="http://www.a
 	</li>
 </ul>
 
-<p>I wish I had some deep revelations to reveal here after my 6 month break. The time has flown by, to be honest, so maybe insight will come with a little more time to process it all. One thing I didn&#8217;t realize is how many people I know have done something similar. I&#8217;ve heard many tales of purpose-full breaks of 3 months to a year or more from folks I didn&#8217;t expect to have taken that leap.</p>
+I wish I had some deep revelations to reveal here after my 6 month break. The time has flown by, to be honest, so maybe insight will come with a little more time to process it all. One thing I didn’t realize is how many people I know have done something similar. I’ve heard many tales of purpose-full breaks of 3 months to a year or more from folks I didn’t expect to have taken that leap.
 
-<p>We only get one shot at this life, so I applaud anyone who can and does take some time to slow down and reassess. You can&#8217;t focus on what&#8217;s important to you if you don&#8217;t take time to figure out what it is!</p>
+We only get one shot at this life, so I applaud anyone who can and does take some time to slow down and reassess. You can’t focus on what’s important to you if you don’t take time to figure out what it is!
 
-<p><a href="http://valeriewitte.com">Valerie</a> and I are now busily packing up our little apartment for the move north. We roll out on 12/31, so time&#8217;s a wastin&#8217; if you want to get together. Hit us up! Otherwise, we&#8217;ll see you in Portland when you come to visit! 😉</p>
+[Valerie](http://valeriewitte.com) and I are now busily packing up our little apartment for the move north. We roll out on 12/31, so time’s a wastin’ if you want to get together. Hit us up! Otherwise, we’ll see you in Portland when you come to visit! 😉
 
-<p class="byline">
-All photos © Andrew Hedges 2015. All rights reserved.<br>
-Image gallery code available on <a href="https://github.com/segdeha/Gallery">Github</a>.</p>
+<p class="photo-credits">
+	All photos © Andrew Hedges 2015. All rights reserved.<br>
+	Image gallery code available on <a href="https://github.com/segdeha/Gallery">Github</a>.
+</p>
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
