@@ -10,7 +10,7 @@
 
 ========
 
-On a recent freelance gig, I needed to integrate a <a href="http://tumblr.com">Tumblr</a> feed that included <a href="http://youtube.com">YouTube</a> videos into a fully responsive website. The videos are contained in&#8230;wait for it&#8230;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe"><iframes></a>. Lovely. 
+On a recent freelance gig, I needed to integrate a <a href="http://tumblr.com">Tumblr</a> feed that included <a href="http://youtube.com">YouTube</a> videos into a fully responsive website. The videos are contained in&#8230;wait for it&#8230;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe">&lt;iframes&gt;</a>. Lovely.
 
 ========
 
