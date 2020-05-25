@@ -20,7 +20,7 @@ It came with a manual that included a tutorial on how to program. I dove in and 
 
 I wrote a TRON cycle game, a maze game where you got chased by baddies, and a psychologist’s couch thing where you answered canned questions with canned responses. (None of these were particularly compelling, but I learned a lot!)
 
-I didn’t buy myself a Mac until 1990, but as soon as I did the same excitement I felt learning BASIC on my TI-99/4A came rushing back. This was pre-web, so what I got into was desktop publishing. [Aldus](http://en.wikipedia.org/wiki/Aldus) [PageMaker](http://en.wikipedia.org/wiki/Adobe_PageMaker). _[The Mac is not a typewriter](https://openlibrary.org/books/OL1855631M/The_Mac_is_not_a_typewriter)._ So fun. I’m no designer, but I made hay with my Mac. Posters, brochures, training materials, resumes. I was a digital type master thanks to my Mac.
+I didn’t buy myself a Mac until 1990, but as soon as I did the same excitement I felt learning BASIC on my TI-99/4A came rushing back. This was pre-web, so what I got into was desktop publishing. [Aldus](http://en.wikipedia.org/wiki/Aldus) [PageMaker](http://en.wikipedia.org/wiki/Adobe_PageMaker). <em>[The Mac is not a typewriter](https://openlibrary.org/books/OL1855631M/The_Mac_is_not_a_typewriter).</em> So fun. I’m no designer, but I made hay with my Mac. Posters, brochures, training materials, resumes. I was a digital type master thanks to my Mac.
 
 A couple of years later, I saw the [World Wide Web](http://en.wikipedia.org/wiki/World_Wide_Web) for the first time. I remember thinking it was nice and all, but [Gopher](http://en.wikipedia.org/wiki/Gopher_(protocol)) was going to win because that’s where the content was!
 
