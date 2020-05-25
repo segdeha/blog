@@ -94,9 +94,9 @@ As promised, here is a little bonus technique: key-framed animations. This is sw
 
 <style type="text/css">
 @-webkit-keyframes pop {
-  0%   { -webkit-transform: scale(0.5); }
-  70%  { -webkit-transform: scale(2.0); }
-  100% { -webkit-transform: scale(1.0); }
+    0%   { -webkit-transform: scale(0.5); }
+    70%  { -webkit-transform: scale(2.0); }
+    100% { -webkit-transform: scale(1.0); }
 }
 #popper {
   -webkit-transform: scale(0.5);
@@ -108,48 +108,50 @@ As promised, here is a little bonus technique: key-framed animations. This is sw
   -webkit-animation-timing-function: ease-in-out;
 }
 </style>
+
 <div style="border:solid 1px black;margin: 1em 0;padding: 1em;background: maroon;color: white;font-weight: bold;width: 200px;text-align: center;" id="popper">Click me!</div>
+
 <script type="text/javascript">
 document
-  .getElementById('popper')
-  .addEventListener('click', function () {
-  this.className = 'popping' === this.className ? '' : 'popping';
+    .getElementById('popper')
+    .addEventListener('click', function () {
+      this.className = 'popping' === this.className ? '' : 'popping';
 }, false);
 </script>
 
-In a WebKit-based browser, you should see the DIV grow to about twice it's "normal" size, then pop back to actual size. The code for this animation is only a little more complex than the previous example, and it builds on what we already know.
+In a WebKit-based browser, you should see the DIV grow to about twice its “normal” size, then pop back to actual size. The code for this animation is only a little more complex than the previous example, and it builds on what we already know.
 
-Here's the CSS:
+Here’s the CSS:
 
 <pre class="sh_css">
 @-webkit-keyframes pop {
-  0%   { -webkit-transform: scale(0.5); }
-  70%  { -webkit-transform: scale(2.0); }
-  100% { -webkit-transform: scale(1.0); }
+    0%   { -webkit-transform: scale(0.5); }
+    70%  { -webkit-transform: scale(2.0); }
+    100% { -webkit-transform: scale(1.0); }
 }
 #popper {
-  -webkit-transform: scale(0.5);
+    -webkit-transform: scale(0.5);
 }
 #popper.popping {
-  -webkit-transform: scale(1.0);
-  -webkit-animation-name: pop;
-  -webkit-animation-duration: 250ms;
-  -webkit-animation-timing-function: ease-in-out;
+    -webkit-transform: scale(1.0);
+    -webkit-animation-name: pop;
+    -webkit-animation-duration: 250ms;
+    -webkit-animation-timing-function: ease-in-out;
 }
 </pre>
 
-In the CSS, the first thing we're doing is creating an animation (`@-webkit-keyframes`) with the name "pop". Our animation has three states: 0%, our starting state; 70%, the state we want our element in when 70% of the duration has elapsed; and, 100%, our ending state.
+In the CSS, the first thing we’re doing is creating an animation (`@-webkit-keyframes`) with the name `pop`. Our animation has three states: `0%`, our starting state; `70%`, the state we want our element in when 70% of the duration has elapsed; and, `100%`, our ending state.
 
-Next, we set the initial state for the element to be scaled down to 50% of "actual" size (`-webkit-transform: scale(0.5);`) and declare that when the class "popping" is added to the element we will use the "pop" animation sequence to transition to our ending state (`-webkit-transform: scale(1.0);`) over 250 milliseconds and using the `ease-in-out` timing function.
+Next, we set the initial state for the element to be scaled down to 50% of "actual" size (`-webkit-transform: scale(0.5);`) and declare that when the class `popping` is added to the element we will use the `pop` animation sequence to transition to our ending state (`-webkit-transform: scale(1.0);`) over 250 milliseconds and using the `ease-in-out` timing function.
 
-The JavaScript is essentially the same as before. Only the DIV ID and class names have been changed.
+The JavaScript is essentially the same as before. Only the `div` ID and class names have been changed.
 
 <pre class="sh_javascript">
 document
-  .getElementById('popper')
-  .addEventListener('click', function () {
-  this.className = 'popping' === this.className ? '' : 'popping';
+    .getElementById('popper')
+    .addEventListener('click', function () {
+      this.className = 'popping' === this.className ? '' : 'popping';
 }, false);
 </pre>
 
-So, that's it. Pretty cool what WebKit can do. I mentioned earlier that other browsers will hopefully implement these techniques as well. Apple have [proposed](http://webkit.org/specs/) all of the techniques I've used in my examples to the appropriate standards bodies. My guess is [Mozilla](http://www.mozilla.org/) and [Opera](http://www.opera.com/) will get on board relatively quickly. When [The Beast](http://www.microsoft.com/ie/) decides to grow a round tuit is anyone's guess. IE12, perhaps?
+So, that’s it. Pretty cool what WebKit can do. I mentioned earlier that other browsers will hopefully implement these techniques as well. Apple have [proposed](http://webkit.org/specs/) all of the techniques I’ve used in my examples to the appropriate standards bodies. My guess is [Mozilla](http://www.mozilla.org/) and [Opera](http://www.opera.com/) will get on board relatively quickly. When [The Beast](http://www.microsoft.com/ie/) decides to grow a round tuit is anyone’s guess. IE12, perhaps?
