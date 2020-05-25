@@ -88,4 +88,6 @@ With so much demand for programmers, it would be foolish for organizations to ig
 
 It can feel like a big ask with so many of us working under immense pressure to get the work out _yesterday_, but creating workplaces that have the capacity to support and grow junior developers will help you win now _and_ keep you competitive over the long term.
 
-_Many thanks to [Robyn](https://twitter.com/robyn_larsen), [Morgan](https://twitter.com/morganpyne), and [Valerie](https://twitter.com/shellthief) for reviewing this post prior to publication._
+❦
+
+<em>Many thanks to [Robyn](https://twitter.com/robyn_larsen), [Morgan](https://twitter.com/morganpyne), and [Valerie](https://twitter.com/shellthief) for reviewing this post prior to publication.</em>
