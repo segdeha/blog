@@ -26,23 +26,27 @@ _All of the animations use a duration of 250ms. Click the viewports (touch on yo
 
 ---
 
-<iframe style="width: 320px;height: 480px;float: left;clear: both;border: solid 1px black;margin: 0 1rem 1rem 0" title="My animation example" name="mine" src="/experiments/iphone/animations/mine.html"></iframe>
+<iframe style="width: 320px;height: 480px;float: left;border: solid 1px black;margin: 0 1rem 1rem 0" title="My animation example" name="mine" src="/experiments/iphone/animations/mine.html"></iframe>
 
 The viewport to the left represents my custom attempt to provide a smooth animation experience. It combines a time-based, strictly linear animation algorithm with a small delay between invocations in an effort not to stress the wee iPhone CPU. It’s OK, but the lack of easing looks unfinished.
 
 [Stand-alone page](/experiments/iphone/animations/mine.html)
 
+<div style="clear: both;"></div>
+
 ---
 
-<iframe style="width: 320px;height: 480px;float: left;clear: both;border: solid 1px black;margin: 0 1rem 1rem 0" title="Animation example using the Animator JavaScript library" name="js" src="/experiments/iphone/animations/js.html"></iframe>
+<iframe style="width: 320px;height: 480px;float: left;border: solid 1px black;margin: 0 1rem 1rem 0" title="Animation example using the Animator JavaScript library" name="js" src="/experiments/iphone/animations/js.html"></iframe>
 
 This example uses the excellent [Animator](http://www.berniecode.com/writing/animator.html) class to handle the animation. It includes an easing algorithm that makes the animation look a little nicer. Not bad, but it doesn’t quite feel like a native application.
 
 [Stand-alone page](/experiments/iphone/animations/js.html)
 
+<div style="clear: both;"></div>
+
 ---
 
-<iframe style="width: 320px;height: 480px;float: left;clear: both;border: solid 1px black;margin: 0 1rem 1rem 0" title="Example using CSS to animate the `left` property" name="css" src="/experiments/iphone/animations/css.html"></iframe>
+<iframe style="width: 320px;height: 480px;float: left;border: solid 1px black;margin: 0 1rem 1rem 0" title="Example using CSS to animate the `left` property" name="css" src="/experiments/iphone/animations/css.html"></iframe>
 
 This example leverages WebKit’s native CSS transitions. Of the 3, this is the simplest to code and it also offers the best performance. The pages seem to “snap” into place, unlike the other examples.
 
@@ -54,9 +58,11 @@ It stands to reason that native code would perform better than interpreted JavaS
 
 ### Update: CSS Transformations
 
+<div style="clear: both;"></div>
+
 ---
 
-<iframe style="width: 320px;height: 480px;float: left;clear: both;border: solid 1px black;margin: 0 1rem 1rem 0" title="Example using CSS to animate a `transform`" name="css-hw" src="/experiments/iphone/animations/css-hw.html"></iframe>
+<iframe style="width: 320px;height: 480px;float: left;border: solid 1px black;margin: 0 1rem 1rem 0" title="Example using CSS to animate a `transform`" name="css-hw" src="/experiments/iphone/animations/css-hw.html"></iframe>
 
 Based on comments below by Sean Gilligan, developer of [iUI](http://code.google.com/p/iui/), I have added a fourth example. This one uses `-webkit-transform: translateX` to achieve hardware acceleration on the iPhone. I’ve also slowed down the animations to 250ms to accentuate the differences between the various techniques.
 
