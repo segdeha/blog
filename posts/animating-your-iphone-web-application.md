@@ -56,9 +56,9 @@ Honestly, I’m not sure what was vexing the examples Rebecca and I were looking
 
 It stands to reason that native code would perform better than interpreted JavaScript code. Based on my first experiment, I rendered a verdict of [unusable 4 now](http://twitter.com/segdeha/status/1953270139). After digging a little deeper, I stand corrected.
 
-### Update: CSS Transformations
-
 <div style="clear: both;"></div>
+
+### Update: CSS Transforms
 
 ---
 
