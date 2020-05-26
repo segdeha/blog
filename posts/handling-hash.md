@@ -7,6 +7,7 @@
   "keywords": "javascript, hash, firefox, safari, internet explorer, ie6, ie7, window.location, window.location.hash, location.hash, location.hash.slice, query string, querystring",
   "created_date": "2008-02-12 14:12:00",
   "short_url": "http://ahedg.es/15",
+  "deprecated": true,
   "published": true
 }
 
