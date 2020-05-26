@@ -7,6 +7,7 @@
   "keywords": "merge, folders, macintosh, mac, two, folders, awesome, utility, folder, merging, feature, transmit, panic, preferences",
   "created_date": "2007-01-16 16:16:16",
   "short_url": "http://ahedg.es/7",
+  "deprecated": true,
   "published": true
 }
 
