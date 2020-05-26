@@ -36,7 +36,7 @@ Today, my hard drive filled up. I guess it was the combination of the new [camer
 
 My first stop on the merging folders express was FileMerge, a utility included with Apple’s [Xcode](http://www.apple.com/macosx/features/xcode/). It looked like it might do the trick (and was even [recommended](http://www.macworld.com/weblogs/macosxhints/2006/03/cmpfldr/) by a prominent Mac mag), but apparently it compares not only the contents of two folders, but the contents of the _files_ in two folders. (Which makes sense, considering it is used by programmers to find differences between source files.)
 
-Needless to say, my PowerBook’s meager 1GHz G4 processor was quickly overwhelmed trying to compare a couple thousand big, binary MP3 and AAC files.
+Not surprisingly, my PowerBook’s meager 1GHz G4 processor was quickly overwhelmed trying to compare a couple thousand big, binary MP3 and AAC files.
 
 After force quitting FileMerge, I thought to myself, “Self, all I need is something like Transmit’s merge folders feature.” Then it struck me. Why not use my Mac’s built-in ftp server to fool Transmit into thinking it’s connected to a remote server? Then, I **can** use the merge folders feature!
 
