@@ -9,6 +9,7 @@
   "keywords": "coda, visualsvn, svn, subversion, operation, not, permitted, neon, chflags, nouchg, tigris, ra_neon, webdav, http",
   "created_date": "2009-02-19 19:19:19",
   "short_url": "http://ahedg.es/64",
+  "deprecated": true,
   "published": true
 }
 
