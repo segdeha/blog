@@ -34,4 +34,4 @@ W3Schools keeps things relatively simple to start off and includes demos where y
 
 Surely there is something out there that caters to total beginners, but is high quality. Share it in the comments if you know of a site that does this better!
 
-**Update:** A late entry from [Richard Paul](https://twitter.com/rapaul) is Opera’s [Web Standards Curriculum (WSC)](http://www.opera.com/company/education/curriculum/). Created in association with the [Yahoo! Developer Network](http://developer.yahoo.com/), this looks like an _excellent_ set of guided resources for everyone from the complete beginner to the seasoned professional. Thanks, Richard!
+**Update:** A late entry from [Richard Paul](https://twitter.com/rapaul) is ~~Opera’s [Web Standards Curriculum (WSC)](http://www.opera.com/company/education/curriculum/)~~. Created in association with the [Yahoo! Developer Network](http://developer.yahoo.com/), this looks like an _excellent_ set of guided resources for everyone from the complete beginner to the seasoned professional. Thanks, Richard!
