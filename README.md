@@ -1,3 +1,5 @@
+![Publish Website](https://github.com/segdeha/blog/workflows/Publish%20Website/badge.svg)
+
 # blog
 
 Because…why not build your own blog software in 2020? ¯\\\_(ツ)_/¯
