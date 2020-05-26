@@ -8,6 +8,7 @@
   "keywords": "dom, manipulation, quick, speed, fast, faster, time, innerhtml, javascript, ecmascript, safari, opera, firefox, internet explorer, ie6, ie7, windows, mac, macintosh, optimized, clonenode, appendchild, parentnode, replacechild, documentfragment",
   "created_date": "2007-07-03 21:21:21",
   "short_url": "http://ahedg.es/2",
+  "deprecated": true,
   "published": true
 }
 
