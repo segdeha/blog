@@ -9,6 +9,7 @@
   "keywords": "webkit, safari, chrome, iphone, palm pre, css, transitions, transforms, opacity, barcamp, android, apple",
   "created_date": "2009-07-19 19:19:09",
   "short_url": "http://ahedg.es/73",
+  "deprecated": true,
   "published": true
 }
 
@@ -44,7 +45,6 @@ Here’s a simple example. First, the CSS:
     -webkit-transition-timing-function: ease;
     opacity: 1.0;
 }
-
 #mydiv.faded {
     opacity: 0.0;
 }
