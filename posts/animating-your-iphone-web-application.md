@@ -9,6 +9,7 @@
   "keywords": "iphone, javascript, mobile, css, css transitions, webkit, safari, chrome, firefox",
   "created_date": "2009-05-29 18:18:18",
   "short_url": "http://ahedg.es/72",
+  "deprecated": true,
   "published": true
 }
 
@@ -70,3 +71,4 @@ I’m not sure it’s better, at least on my phone. What do you think?
 
 [Stand-alone page](/experiments/iphone/animations/css-hw.html)
 
+<div style="clear: both;"></div>
