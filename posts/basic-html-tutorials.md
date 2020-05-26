@@ -26,7 +26,7 @@ I got a good range of responses, most of which I had seen before. After looking 
 * [HTMLHelp.com](http://htmlhelp.com/) — suggested by [@easton](https://twitter.com/easton)
 * [NETTUTS](http://nettuts.com/) — suggested by [@ksuyin](https://twitter.com/ksuyin)
 * [Sitepoint’s HTML Reference](http://reference.sitepoint.com/html/) — suggested by [@InkodeR](https://twitter.com/InkodeR)
-* [LVS Online](http://www.lvsassociates.com/) & [EclecticAcademy](http://www.eclecticacademy.com/) — suggested by [@zoonini](https://twitter.com/zoonini)
+* ~~[LVS Online](http://www.lvsassociates.com/) & [EclecticAcademy](http://www.eclecticacademy.com/)~~ — suggested by [@zoonini](https://twitter.com/zoonini)
 
 Of these, I sent my co-worker to W3Schools. I wasn’t particularly impressed with any of them, most for the production qualities, but some for the fact they started users right out having to look at complex DOCTYPE declarations. NETTUTS  looks like a great resource, but only offers more advanced tutorials.
 
