@@ -21,20 +21,20 @@ Today, my hard drive filled up. I guess it was the combination of the new [camer
 
 <div class="photo-left">
 	<p>
-		<img src="https://segdeha.com/blog/assets/imgs/system_prefs.png" alt="Sharing preference pane">
+		<img src="https://segdeha.com/blog/assets/img/system_prefs.png" alt="Sharing preference pane">
 		Step 1 Turn on "FTP Access"<br>
 		(if it’s not already)<br>
 		in the Sharing preference pane<br>
 		of the System Preferences.
 	</p>
 	<p>
-		<img src="https://segdeha.com/blog/assets/imgs/transmit.png" alt="Transmit interface">
+		<img src="https://segdeha.com/blog/assets/img/transmit.png" alt="Transmit interface">
 		Step 2 Use Transmit to connect<br>
 		to your Mac as if it were a<br>
 		remote server.
 	</p>
 	<p>
-		<img src="https://segdeha.com/blog/assets/imgs/merge_panel.png" alt="Transmit’s merge files dialog">
+		<img src="https://segdeha.com/blog/assets/img/merge_panel.png" alt="Transmit’s merge files dialog">
 		Step 3 Start your download.<br>
 		When presented with the option,<br>
 		choose to "Merge" the folders.
