@@ -11,6 +11,7 @@
   "keywords": "apple, dashboard, widget, growl, growlhelperapp, applescript, javascript, notifications, mac, os x, hurler, trimit, osascript, url, shortener",
   "created_date": "2009-03-14 15:14:15",
   "short_url": "http://ahedg.es/67",
+  "deprecated": true,
   "published": true
 }
 
