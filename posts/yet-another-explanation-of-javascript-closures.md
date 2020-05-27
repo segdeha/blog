@@ -19,6 +19,7 @@ I won’t pretend this is anything other than documentation of my current unders
 My lay explanation is the following:
 
 > A closure is like a crystal ball that can only see into where it was created.
+
 If you already understand closures, that probably makes sense. If not, don’t worry, I’m just setting up the mental model for you. Let’s get into the meat of it, starting with an example.
 
 <pre class="sh_javascript">
