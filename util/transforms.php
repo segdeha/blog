@@ -48,6 +48,7 @@ $simple_replacements = array(
     '&#224;' => 'à',
     '&#241;' => 'ñ',
     '&#8212;' => '—',
+    '&#8482;' => '™',
 );
 
 foreach ($simple_replacements as $search => $replace) {
