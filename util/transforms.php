@@ -1,6 +1,6 @@
 <?php
 
-// % php util/transforms.php posts/
+// blog/posts% php ../util/transforms.php fn
 
 // var_dump($argc); //number of arguments passed
 // var_dump($argv); //the arguments passed
@@ -11,7 +11,7 @@ $filename = $argv[1];
 $contents = file_get_contents($filename);
 
 // save the original file in case this goes sideways
-file_put_contents($filename . '-original', $contents);
+file_put_contents('originals/' . $filename, $contents);
 
 $regex_replacements = array(
     '/<a href="([^"]+)">([^<]+)<\/a>/' => '[$2]($1)',
@@ -29,7 +29,7 @@ $simple_replacements = array(
     '</strong>' => '**',
     '<em>' => '_',
     '</em>' => '_',
-    '<h3>' => '###',
+    '<h3>' => '### ',
     '</h3>' => "\n",
     '<p>' => '',
     '<p class="outdent">' => '',
@@ -47,6 +47,7 @@ $simple_replacements = array(
     '&#8230;' => '…',
     '&#224;' => 'à',
     '&#241;' => 'ñ',
+    '&#8212;' => '—',
 );
 
 foreach ($simple_replacements as $search => $replace) {
@@ -54,5 +55,5 @@ foreach ($simple_replacements as $search => $replace) {
 }
 
 // save new file
-file_put_contents('originals/' . $filename, $contents);
+file_put_contents($filename, $contents);
 // file_put_contents($filename . '-altered', $contents);
