@@ -28,7 +28,7 @@ Again, you should see a hover state when you mouseover the nav items. And, you s
 
 <div class="photo-left">
 	<p>
-		<img src="/blog/assets/imgs/dr_evil_laser.jpg" alt="Dr. Evil">
+		<img src="/blog/assets/img/dr_evil_laser.jpg" alt="Dr. Evil">
 	</p>
 </div>
 
