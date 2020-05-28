@@ -7,12 +7,13 @@
   "keywords": "freelancing",
   "created_date": "2007-01-08 23:23:23",
   "short_url": "http://ahedg.es/10",
+  "background_image": "/blog/assets/img/arena-rock.jpg",
   "published": true
 }
 
 ========
 
-Driving to work this morning, Boston’s [arena rock](http://en.wikipedia.org/wiki/Arena_rock) classic [Don’t Look Back](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=15959587&s=143441&i=62434129) came on the radio. I broke into a grin, thinking about how much my life has changed in the last few weeks. I have so much to look forward to for 2007. The whole freelance thing got a big boost tonight. I think this is going to be a great year.
+Driving to work this morning, Boston’s [arena rock](http://en.wikipedia.org/wiki/Arena_rock) classic [Don’t Look Back](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=15959587&s=143441&i=62434129) came on the radio. I broke into a grin, thinking about how much my life has changed in the last few weeks. I have so much to look forward to in 2007. The whole freelance thing got a big boost tonight. I think this is going to be a great year.
 
 ========
 
