@@ -5,7 +5,6 @@
   "keywords": "twitter, facebook, pinterest, foursquare, google, social media, intimacy, friendship, connection",
   "created_date": "2012-06-21 12:12:00",
   "short_url": "http://ahedg.es/97",
-  "background_image": "/blog/assets/img/stop-drop-and-roll.jpg",
   "published": true
 }
 
