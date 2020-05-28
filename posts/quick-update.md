@@ -8,6 +8,7 @@
   "keywords": "new zealand",
   "created_date": "2007-06-09 06:09:00",
   "short_url": "http://ahedg.es/4",
+  "background_image": "/blog/assets/img/nz.png",
   "published": true
 }
 
