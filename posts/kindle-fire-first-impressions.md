@@ -5,7 +5,7 @@
   "keywords": "kindle, kindle fire, ipad, amazon, tablet, touchpad",
   "created_date": "2011-11-15 20:20:20",
   "short_url": "http://ahedg.es/95",
-  "published": false
+  "published": true
 }
 
 ========
