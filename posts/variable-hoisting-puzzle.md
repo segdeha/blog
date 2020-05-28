@@ -5,6 +5,7 @@
   "keywords": "javascript, hoisting, execution context, function",
   "created_date": "2012-11-27 12:28:13",
   "short_url": "http://ahedg.es/102",
+  "background_image": "/blog/assets/img/puzzle.jpg",
   "published": true
 }
 
