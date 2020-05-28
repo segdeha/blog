@@ -31,7 +31,7 @@ When I was growing up, my step-dad (the kindest man I know) used to make big pot
 
 <div class="photo-left">
 	<p>
-		<img src="http://images.instagram.com/media/2011/04/02/23f4ebfd8ed9458691154611f4c737fc_7.jpg" alt="Mmm…soup!">
+		<img src="/blog/assets/img/soup.jpg" alt="Mmm…soup!">
 	</p>
 
 </div>
