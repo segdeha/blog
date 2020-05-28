@@ -14,7 +14,7 @@
 
 ========
 
-I helped build [Travelbug](https://www.travelbug.co.nz/), [Trade Me’s](https://www.trademe.co.nz/) online accommodation booking site. We launched Travelbug on 9 September, 2007. Today, it came to my attention that a direct competitor has, essentially, lifted a major feature of the site.
+I helped build [Travelbug](https://www.travelbug.co.nz/), [Trade Me’s](https://www.trademe.co.nz/) online accommodation booking site. We launched Travelbug on 9 September 2007. Today, it came to my attention that a direct competitor has, essentially, lifted a major feature of the site.
 
 The feature in question (coded primarily by me, coincidentally) is the booking calendar. You can see it in action by visiting any [location page](https://www.travelbug.co.nz/visit/19160#book) on the Travelbug site. It shows about a week’s worth of availability at a time, giving you the ability to scroll ahead and back, and allows you to start the booking process using a neat-o, visual interface.
 
