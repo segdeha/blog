@@ -25,11 +25,11 @@ I’m not one of them.
 But, after the following [tweet](http://twitter.com/segdeha/status/1046412429) and subsequent exchange, I thought I’d put to protons how I’ve built my network, to-date:
 
 <dl>
-  <dt>[@segdeha](http://twitter.com/segdeha) (that's me)</dt>
+  <dt><a href="http://twitter.com/segdeha">@segdeha</a> (that’s me)</dt>
   <dd>Closing in on the mark of the beast! Follower number 666 gets a special prayer said in her/his name!<br><br></dd>
-  <dt>[@aremsan](http://twitter.com/aremsan)</dt>
-  <dd>[@segdeha](http://twitter.com/segdeha) how’d you get so many so fast?<br><br></dd>
-  <dt>[@segdeha](http://twitter.com/segdeha)</dt>
+  <dt><a href="http://twitter.com/aremsan">@aremsan</a></dt>
+  <dd>how’d you get so many so fast?<br><br></dd>
+  <dt><a href="http://twitter.com/segdeha">@segdeha</a></dt>
   <dd>In the immortal words on [Inigo Montoya](http://en.wikipedia.org/wiki/Inigo_Montoya), “Let me explain. No, there is too much. Let me sum up.”</dd>
 </dl>
 
