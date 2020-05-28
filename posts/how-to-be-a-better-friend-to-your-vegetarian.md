@@ -5,6 +5,7 @@
   "keywords": "vegetarian, vegan, carnivore, carnism, factory farm, meat, eggs, yes totally, memphis, mongolia, pie hole, ignorance",
   "created_date": "2013-09-09 21:09:13",
   "short_url": "http://ahedg.es/105",
+  "background_image": "/blog/assets/img/soybeans.jpg",
   "published": true
 }
 
@@ -60,7 +61,7 @@ The problem is, 99% of the time, the conversation comes up over a meal. Why is t
 
 <dl>
 	<dt>Them:</dt><dd>Why’d you decide to be a vegetarian? Was it a health thing?</dd>
-	<dt>Me:</dt><dd>No. Pie is vegetarian, as is [3 pies wrapped in cake](http://www.charlesphoenix.com/2012/10/it-lives/).</dd>
+	<dt>Me:</dt><dd>No. Pie is vegetarian, as is <a href="http://www.charlesphoenix.com/2012/10/it-lives/">3 pies wrapped in cake</a>.</dd>
 </dl>
 
 —alternately—
@@ -72,7 +73,7 @@ The problem is, 99% of the time, the conversation comes up over a meal. Why is t
 Here’s a decision point. Is the person satisfied with my (so far) superficial response? Do they appear to want to engage more seriously with me on the topic? It’s something I’ve thought about for 8 years and—chances are—they haven’t. They’re serious? OK, we’ll take it one step further.
 
 <dl>
-	<dt>Me:</dt><dd>Actually, it’s for a variety of reasons. It started as an environmental thing. (Did you know [it takes 3 kilograms of plant protein to produce 1 kilo of beef](http://itsthelittlethings.info/2009/07/14/eat-less-meat/)?) But, over the years, as I’ve learned more about the subject, it’s become more and more of an ethical decision.</dd>
+	<dt>Me:</dt><dd>Actually, it’s for a variety of reasons. It started as an environmental thing. (Did you know <a href="http://itsthelittlethings.info/2009/07/14/eat-less-meat/">it takes 3 kilograms of plant protein to produce 1 kilo of beef</a>?) But, over the years, as I’ve learned more about the subject, it’s become more and more of an ethical decision.</dd>
 </dl>
 
 I usually try to leave it at that because on my plate is a bunch of vegetables (pie is a vegetable, remember), maybe some tofu, maybe some eggs and cheese. On the other person’s plate is likely a chunk of someone’s charred flesh. Chances are, even from my limited response, they’re already feeling a little chagrined. Maybe they think I judge them. Maybe they’re judging themselves. I don’t know. All I know is some percentage of people get a little quiet at this stage of the conversation.
