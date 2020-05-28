@@ -72,7 +72,7 @@ The biggest difference between the two is that variables (that is, ones declared
 
 Was this helpful? Let me know in the comments if you’d like me to post more articles like this one.
 
-**Update (9 April 2010):** As Dmitry, himself, points out in the comments, there is one other case to consider. The `eval` statement constructs variables without the _{DontDelete}_ attribute, even using the `var` statement. Consider the following:
+**Update (9 April 2010):** As Dmitry, himself, points out in the comments, there is one other case to consider. The `eval` statement constructs variables without the `{DontDelete}` attribute, even using the `var` statement. Consider the following:
 
 <pre class="sh_javascript">var x = 10;
 
