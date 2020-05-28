@@ -42,7 +42,6 @@ Rocket scientists (I am not making this up) have found that [human speed percept
 
 > A moving grating is judged slower than an otherwise identical grating of higher contrast moving at the same speed. However, the uncertainty in this type of speed judgment is largely independent of the contrast ratio. … [T]his effect appears robust to changes in spatial frequency, temporal frequency, and even absolute contrast.
 
-
 What does this mean? Does it mean a zebra will appear faster than a horse going the same speed? I have _no idea._
 
 In any case, back to the subject at hand, most CSS nav has the following 3 states:
@@ -121,4 +120,3 @@ That’s the code I use in the demo, but you should know it only works in recent
 });</pre>
 
 So, there you have it, _CSS Fast Nav._ I know what you’re thinking, “That was a helluva lot of words to tell me just to set the nav item to selected when the user clicks.” Sorry if I wasted your time. I guess I just got excited.
-
