@@ -98,4 +98,4 @@ The [Albuquerque Journal](http://www.abqjournal.com/) story neglected to mention
 
 **Update:** I was interviewed about the sprint a couple of weeks after it took place. Here is the video of the interview on Albuquerque local TV:
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/r9RgAmGI-g8&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/r9RgAmGI-g8&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r9RgAmGI-g8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
