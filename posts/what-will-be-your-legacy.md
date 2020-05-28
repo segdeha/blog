@@ -40,7 +40,7 @@ Me, I wish I could say I’m creating a more worthwhile legacy. I’m building s
 <div class="photo-left">
   <p>
     <img src="/blog/assets/img/a-n-e.jpg" alt="Allie and Erin"><br>
-    These two deserve the best I have to give,<br>maybe better.
+    These two deserve the best I have to give, maybe better.
   </p>
 </div>
 
