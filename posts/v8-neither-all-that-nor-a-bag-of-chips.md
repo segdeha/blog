@@ -28,7 +28,7 @@ Now, like [some](https://ejohn.org/blog/javascript-performance-rundown/) [others
 
 <div class="photo-left">
   <p>
-    <img src="/blog/assets/imgs/chrome-0.2.149.29-vs-webkit-r36309.png" alt="Chrome versus WebKit"><br>
+    <img src="/blog/assets/img/chrome-0.2.149.29-vs-webkit-r36309.png" alt="Chrome versus WebKit"><br>
     Chrome versus WebKit
   </p>
 </div>
