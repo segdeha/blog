@@ -22,9 +22,7 @@ I always find it a little thrilling when I release software. It’s like being a
 <div class="photo-left">
 	<p>
 		<img src="/blog/assets/img/phpfr-front.png" alt="PHP Function Reference interface"><br>
-		Visit [my widgets page](http://andrew.hedges.name/widgets/#phpfr) for more information<br>
-		and to download. Visit the [project home](http://code.google.com/p/phpfr/)<br>
-		to report bugs and request features.
+		Visit <a href="https://andrew.hedges.name/widgets/#phpfr">my widgets page</a> for more information and to download. Visit the <a href="https://code.google.com/p/phpfr/">project home</a> to report bugs and request features.
 	</p>
 </div>
 
