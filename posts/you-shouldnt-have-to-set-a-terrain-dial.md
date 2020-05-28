@@ -5,6 +5,7 @@
   "keywords": "jeep, traction, gription, grand cherokee, sand, mud, terrain dial, doug bird",
   "created_date": "2012-07-06 01:07:06",
   "short_url": "http://ahedg.es/98",
+  "background_image": "/blog/assets/img/jeeps.jpg",
   "published": true
 }
 
