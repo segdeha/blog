@@ -7,6 +7,7 @@
   "keywords": "freelancing",
   "created_date": "2007-01-01 09:00:00",
   "short_url": "http://ahedg.es/9",
+  "background_image": "/blog/assets/img/pirate-ship.jpg",
   "published": true
 }
 
