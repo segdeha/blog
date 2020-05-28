@@ -66,28 +66,28 @@ And, the CSS might start with something like this:
 
 <pre class="sh_css">/* CSS */
 ul {
-   list-style: none;
+    list-style: none;
 }
 
 li {
-   display: block;
-   float: left;
+    display: block;
+    float: left;
 }
 
 li a {
-   display: inline-block;
-   background: #999;
-   color: black;
+    display: inline-block;
+    background: #999;
+    color: black;
 }
 
 li a:hover {
-   background: #666;
-   color: #ccc;
+    background: #666;
+    color: #ccc;
 }
 
 li a.selected {
-   background: #333;
-   color: white;
+    background: #333;
+    color: white;
 }</pre>
 
 _Fast Nav™_ adds the following 4<sup>th</sup> state (no, “Fast Nav” is not actually trademarked, that was just for effect):
@@ -96,11 +96,13 @@ _Fast Nav™_ adds the following 4<sup>th</sup> state (no, “Fast Nav” is not
 
 To get that 4<sup>th</sup> state, the obvious thing to do would be to add the following declaration to our CSS:
 
-<pre class="sh_css">/* CSS */
+<pre class="sh_css">
+/* CSS */
 li a:active {
-   background: #333;
-   color: white;
-}</pre>
+    background: #333;
+    color: white;
+}
+</pre>
 
 That’s not actually enough. The problem is that the request for the new page doesn’t fire until the user has released her mouse. So, there is invariably a noticeable lag after the nav has gone back to the “at rest” state and before the next page loads.
 
@@ -108,15 +110,19 @@ Not to worry! We can add a little JavaScript to get the behavior we want. What w
 
 Here’s some code to do that:
 
-<pre class="sh_javascript">(document.querySelector('nav > ul'))
-   .addEventListener('click', function (evt) {
-   evt.target.className = 'selected';
-}, false);</pre>
+<pre class="sh_javascript">
+(document.querySelector('nav > ul'))
+    .addEventListener('click', function (evt) {
+        evt.target.className = 'selected';
+}, false);
+</pre>
 
 That’s the code I use in the demo, but you should know it only works in recent, standards-compliant browsers ([Safari](http://www.apple.com/safari/), [Chrome](http://www.google.com/chrome/), [Firefox](http://mozilla.org/firefox/), [Opera](http://opera.com/)). If you stubbornly insist on catering to the other [54% of web users](http://en.wikipedia.org/wiki/Usage_share_of_web_browsers), the [jQuery](http://jquery.com) equivalent might be something like this:
 
-<pre class="sh_javascript">$('nav > ul').live('click', function (evt) {
-   $(this).addClass('selected');
-});</pre>
+<pre class="sh_javascript">
+$('nav > ul').live('click', function (evt) {
+    $(this).addClass('selected');
+});
+</pre>
 
 So, there you have it, _CSS Fast Nav._ I know what you’re thinking, “That was a helluva lot of words to tell me just to set the nav item to selected when the user clicks.” Sorry if I wasted your time. I guess I just got excited.
