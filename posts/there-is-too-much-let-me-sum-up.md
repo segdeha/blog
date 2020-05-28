@@ -9,7 +9,7 @@
   "keywords": "twitter, followers, law of attraction, wealth building, coach, protons, indigo montoya, ben young, armesan, segdeha",
   "created_date": "2008-12-10 10:12:00",
   "short_url": "http://ahedg.es/56",
-  "published": false
+  "published": true
 }
 
 ========
@@ -53,12 +53,12 @@ I’ve gone about building my own network in a few different ways as my understa
 
 Some follow me back. Some don’t. As [Stuart Smalley](http://en.wikipedia.org/wiki/Stuart_Smalley) would say, “…and that's…OK.”
 
-I’ve remarked before that as the number of people you follow increases, the difference between Twitter and <span class="tooltip" title="Internet Relay Chat">IRC</span> approaches zero. I go through and prune my list of follows every so often as well in an effort to reduce the noise to signal ratio. [FriendOrFollow.com](http://friendorfollow.com/) is quite helpful in this regard.
+I’ve remarked before that as the number of people you follow increases, the difference between Twitter and <acronym class="tooltip" title="Internet Relay Chat">IRC</acronym> approaches zero. I go through and prune my list of follows every so often as well in an effort to reduce the noise to signal ratio. [FriendOrFollow.com](http://friendorfollow.com/) is quite helpful in this regard.
 
 Beyond following others, there are a small handful of other things I’ve done to build goodwill:
 
 * Re-tweet other people’s tweets (people love this)
-* Send @replies and <span class="tooltip" title="Direct Messages">DMs</span> (real ones, _not_ automated ones) when following and being followed to make an initial connection
+* Send @replies and <acronym class="tooltip" title="Direct Messages">DMs</acronym> (real ones, _not_ automated ones) when following and being followed to make an initial connection
 * I organized a [Tweetup](http://www.momentile.com/showMomentile/198/4094) using the arrival in New Zealand of [@natobasso](http://twitter.com/natobasso) as an excuse. There's nothing like actually meeting face-to-face to cement online connections.
 
 The other thing you can do to gain followers is to link to your Twitter profile and, when appropriate, ask people to follow you. I link to mine from [my LinkedIn profile](http://www.linkedin.com/in/andrewhedges) and, of course, [my personal website](http://andrew.hedges.name).
