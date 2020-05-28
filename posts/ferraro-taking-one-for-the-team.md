@@ -10,7 +10,7 @@
 
 ========
 
-OK, I know in <a href="http://andrew.hedges.name/blog/2008/03/11/spitzer-shot-across-the-bow" title="Spitzer: Shot across the bow?">my last post</a> I said I rarely blog about politics, but here is another case where I feel the need to chime in. I suspect that Geraldine Ferraro&#8217;s recent comments about Barack Obama&#8217;s race and her subsequent <a href="http://news.yahoo.com/s/ap/20080312/ap_on_el_pr/obama_ferraro_17" title=" Ferraro leaves Clinton campaign post">&#8220;resignation&#8221;</a> from her &#8220;honorary&#8221; post with the Clinton campaign was all a calculated political maneuver. 
+OK, I know in <a href="http://andrew.hedges.name/blog/2008/03/11/spitzer-shot-across-the-bow" title="Spitzer: Shot across the bow?">my last post</a> I said I rarely blog about politics, but here is another case where I feel the need to chime in. I suspect that Geraldine Ferraro&#8217;s recent comments about Barack Obama&#8217;s race and her subsequent <a href="http://news.yahoo.com/s/ap/20080312/ap_on_el_pr/obama_ferraro_17" title=" Ferraro leaves Clinton campaign post">&#8220;resignation&#8221;</a> from her &#8220;honorary&#8221; post with the Clinton campaign was all a calculated political maneuver.
 
 ========
 
