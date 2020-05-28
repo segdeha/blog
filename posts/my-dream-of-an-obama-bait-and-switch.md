@@ -5,6 +5,7 @@
   "keywords": "climate change, global warming, lawrence lessig, republic lost, obama",
   "created_date": "2012-09-01 21:01:12",
   "short_url": "http://ahedg.es/100",
+  "background_image": "/blog/assets/img/climate.jpg",
   "published": true
 }
 
