@@ -7,17 +7,18 @@
   ],
   "keywords": "google, 2001, ego surfing",
   "created_date": "2008-10-10 10:10:08",
-  "short_url": "http://ahedg.es/39",
-  "published": false
+  "short_url": "https://ahedg.es/39",
+  "published": true
 }
 
 ========
 
-In honor of their 10th anniversary, Google have made available <a href="http://www.google.com/search2001.html">search as it was in 2001</a> (love the exclamation point on the logo, guys!).
+In honor of their 10th anniversary, Google have made available [search as it was in 2001](https://www.google.com/search2001.html) (love the exclamation point on the logo, guys!).
 
 ========
 
-<p class="outdent">So, I did what probably 90% of people did upon hearing this news: <a href="http://www.google.com/search2001/search?hl=en&q=andrew+hedges&btnG=Google+Search">I Googled my name!</a></p>
-<p>On the 2001 web, I came up #2 out of the 22,400 results. That compares to <a href="http://www.google.com/search?client=safari&rls=en-au&q=andrew+hedges&ie=UTF-8&oe=UTF-8">now</a> where I come up #1 out of 1,090,000 results.</p>
-<p>I'm pretty sure I didn't author those additional 1,067,600 pages. Where did they all come from?</p>
+So, I did what probably 90% of people did upon hearing this news: [I Googled my name!](https://www.google.com/search2001/search?hl=en&q=andrew+hedges&btnG=Google+Search)
 
+On the 2001 web, I came up #2 out of the 22,400 results. That compares to [now](https://www.google.com/search?client=safari&rls=en-au&q=andrew+hedges&ie=UTF-8&oe=UTF-8) where I come up #1 out of 1,090,000 results.
+
+I’m pretty sure I didn’t author those additional 1,067,600 pages. Where did they all come from?
