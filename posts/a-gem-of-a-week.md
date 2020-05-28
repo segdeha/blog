@@ -19,11 +19,13 @@ Time compresses when you are in the flow. Musicians know this, as do athletes, a
 
 I won’t try to recall every detail of last Sunday’s sprint because others have already done so with aplomb. I do want to talk a little about an area that hasn’t been explored in as much depth: the technology behind what we did. It ended up being a huge part of my entire week, not just that one, wonderful day.
 
+<!--
 <div class="photo-left">
 	<p>
 		<img src="http://static.zooomr.com/images/688986_0b43c0c834.jpg" alt="Obligatory Artsy Shot">
 	</p>
 </div>
+-->
 
 For the backstory, check out [Mark Bixby](http://markbixby.com/)’s excellent [blog post](http://www.methodarts.com/blog/post/the_sprint/) on the [Method Arts](http://methodarts.com/) website. (Kelly Patrick Robinson also wrote [a great summary](http://kellypatrickrobinson.com/), but his site changes so often, I’m almost afraid to link to it.) Reid Givens also [blogged](http://www.reidgivens.com/roi_blog/2007/02/04/10-professionals-12-hours-1-big-task-the-method-arts-sprint/) about it and put together two [great](http://www.reidgivens.com/roi_blog/2007/02/04/method-arts-sprint-podcast-brian-warren/) [podcasts](http://www.reidgivens.com/roi_blog/2007/02/04/method-arts-sprint-podcast/) where you can meet the team and hear a little more about what we did. **Update:** Brian Warren has now put [his thoughts](http://bw.watchtan.com/article/358/the-sprint) up on his blog as well.
 
@@ -37,11 +39,13 @@ I had barely touched Ruby on Rails before that Sunday, but ended up spending all
 
 Rails is optimized for building web applications. It is an incredibly well thought out framework for implementing what is understood to be the best practices of circa 2007, rapid, agile methodology web development. It seems obvious in hindsight, but we were building a web app and we had to build it fast. Hence, Ruby on Rails.
 
+<!--
 <div class="photo-left">
 	<p>
 		<img src="http://static.zooomr.com/images/688994_f6d655237d.jpg" alt="Daniel and Lance">
 	</p>
 </div>
+-->
 
 What Rails allowed us to do was separate the work we had to do on the _plumbing_ of the site from the work on the _faucets_ from the work on the _wash basins_ (the model, controllers, and views, for those following along at home). Also of great help that day was [Subversion](http://en.wikipedia.org/wiki/Subversion_%28software%29), killer revision control software. Thanks to Rails’ separation of model, controllers, and views and Subversion’s ability to seemingly intuit what we intended, Daniel, Lance Sanchez, and I were able to commit 63 revisions to the repository that day while only having to manually fix one conflict. Pretty smooth. This combination of software did what good software is supposed to do: get out of the way and let users solve problems.
 
@@ -55,11 +59,13 @@ Just like the sprint, we were building a data-driven web application and speed w
 
 [We did it.](http://apexed.storytotell.org/) We built a complex, database driven web application in one work week. I am convinced that if we had used any other framework and any other language, we would have made it half as far with half the fun and twice the stress.
 
+<!--
 <div class="photo-left">
 	<p>
 		<img src="http://static.zooomr.com/images/688993_78228c2043.jpg" alt="Christopher Anderton">
 	</p>
 </div>
+-->
 
 You may have noticed that I’ve mentioned “fun” a couple of times now. Some might complain that if it’s fun, it must not be work. I guess they’re right. It doesn’t feel like work when you’re having that much fun. Thing is, when you enjoy what you do, you don’t even notice the passing of the hours. All you know is that you’re getting things done at a rate you never thought possible. You’re in the flow. I don’t see anything wrong with that.
 
@@ -69,11 +75,13 @@ The sprint has garnered some attention in the <a href="/assets/files/abqjournals
 
 The [Albuquerque Journal](http://www.abqjournal.com/) story neglected to mention everyone who participated in The Sprint. So, for the record, here it is, the official list of participants with the role(s) they filled that day:
 
+<!--
 <div class="photo-left">
 	<p>
 		<img src="http://static.zooomr.com/images/688987_8b778ddbce.jpg" alt="From left: Brian Warren, Mark Bixby, and Kelly Patrick Robinson">
 	</p>
 </div>
+-->
 
 * Christopher Anderton, Videographer
 * [Mark Bixby](http://markbixby.com/), Visual Designer
