@@ -6,6 +6,7 @@
   "created_date": "2015-08-20 08:20:00",
   "short_url": "http://ahedg.es/108",
   "gallery": true,
+  "background_image": "/blog/assets/img/kings-canyon.jpg",
   "published": true
 }
 
