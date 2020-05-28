@@ -5,6 +5,7 @@
   "keywords": "spam, comment spam, web development, blogging",
   "created_date": "2012-12-22 23:22:11",
   "short_url": "http://ahedg.es/104",
+  "background_image": "/blog/assets/img/honeycomb.jpg",
   "published": true
 }
 
