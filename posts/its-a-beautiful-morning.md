@@ -13,7 +13,7 @@
 
 ========
 
-Starting today, I am master of my destiny. Captain of my ship of fate. Today, I launch [Newfangled Telegraph](http://www.newfangledtelegraph.com/) and throw my lot out upon the entrepreneurial seas. Starting today, for better or worse, I will ride the waves of fortune (hopefully) and adventure (no doubt!) to distant shores not yet imagined.
+Starting today, I am master of my destiny. Captain of my ship of fate. Today, I launch [Newfangled Telegraph](http://www.newfangledtelegraph.com/) and throw my lot out upon the entrepreneurial seas. Starting today, for better or worse, I will ride the waves of fortune (hopefully!) and adventure (no doubt!) to distant shores not yet imagined.
 
 ========
 
