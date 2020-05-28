@@ -5,6 +5,7 @@
   "keywords": "hbo, true detective, music, t bone burnett",
   "created_date": "2014-02-25 21:47:02",
   "short_url": "http://ahedg.es/107",
+  "background_image": "/blog/assets/img/true-detective.jpg",
   "published": true
 }
 
