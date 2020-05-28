@@ -51,7 +51,7 @@ I’ve gone about building my own network in a few different ways as my understa
 2. Next, I went on a bit of a following binge. I followed anyone and everyone who either, a) had any kind of connection to my field (web development), or b) followed heaps of people (on the theory they’d be more likely to follow me back).
 3. More recently, I’ve been more selective in whom I follow, but I still make an effort to follow a few new people a day. The difference is that now, I am more choosy. I follow people for whom it looks like connecting could be of some mutual benefit.
 
-Some follow me back. Some don’t. As [Stuart Smalley](http://en.wikipedia.org/wiki/Stuart_Smalley) would say, “…and that's…OK.”
+Some follow me back. Some don’t. As [Stuart Smalley](http://en.wikipedia.org/wiki/Stuart_Smalley) would say, “…and that’s…OK.”
 
 I’ve remarked before that as the number of people you follow increases, the difference between Twitter and <acronym class="tooltip" title="Internet Relay Chat">IRC</acronym> approaches zero. I go through and prune my list of follows every so often as well in an effort to reduce the noise to signal ratio. [FriendOrFollow.com](http://friendorfollow.com/) is quite helpful in this regard.
 
