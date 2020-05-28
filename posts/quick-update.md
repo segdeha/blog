@@ -25,3 +25,5 @@ Moving here took a lot of mental space. Maybe it’s not that way for everyone, 
 Anyway, I don’t want to make any promises, but I hope to be blogging occasionally again now that I am settling in in my new home, New Zealand!
 
 PS: We’re hiring!
+
+_Don’t you just love the background image on this post? I made it for this little article I wrote about [Kiwi Culture](https://segdeha.com/kiwiculture/)._
