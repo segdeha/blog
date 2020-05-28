@@ -5,6 +5,7 @@
   "keywords": "junior developer, entry level developer, web development, code school, coding bootcamp, ada developers academy, black girls code, pdx code guild, code fellows, hack schools, career accellerators",
   "created_date": "2016-03-14 15:14:16",
   "short_url": "http://ahedg.es/110",
+  "background_image": "/blog/assets/img/mima-mounds.jpg",
   "published": true
 }
 
