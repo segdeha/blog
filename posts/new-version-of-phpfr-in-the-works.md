@@ -21,16 +21,15 @@ About a year ago, I [open sourced](https://code.google.com/p/phpfr/) it, hoping 
 
 Honestly, I don’t know what’s come over me in the last week. I really am too busy to be spending this kind of time on a _free_ widget. I guess this truly is a labour of love.
 
-<div class="photo-left">
-	<p>
-		<img src="/blog/assets/img/phpfr0962b.png" alt="PHPfr 0.9.6.2b (yes, the version number is a joke)"><br>
-		PHPfr 0.9.6.2b (yes, the version number is a joke)
-	</p>
-	<p>
-		<img src="/blog/assets/img/phpfr10.png" alt="PHPfr 1.0"><br>
-		PHPfr 1.0
-	</p>
-</div>
+<figure>
+    <img src="/blog/assets/img/phpfr0962b.png" alt="PHPfr 0.9.6.2b interface">
+    <figcaption>PHPfr 0.9.6.2b (yes, the version number is a joke)</figcaption>
+</figure>
+
+<figure>
+    <img src="/blog/assets/img/phpfr10.png" alt="PHPfr 1.0 interface">
+    <figcaption>PHPfr 1.0</figcaption>
+</figure>
 
 In human development circles, they talk about things happening spontaneously when there is a “readiness” for them. I think that’s a part of why this is coming together now. I’m twice the programmer I was a year ago, having worked on more complex projects over that time than I ever had before. Features that would have been a hard slog a year ago have come together in a matter of hours this time around.
 

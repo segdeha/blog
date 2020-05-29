@@ -19,20 +19,20 @@ Maybe I missed it, but I don’t see a good solution on the Mac for merging fold
 
 Today, my hard drive filled up. I guess it was the combination of the new [camera](http://www.dpreview.com/news/0607/06071905panasonicfz50.asp) I got for Christmas, the [two-disc best of Pink Floyd set](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=75022496&s=143441) I ripped recently, and the 1.2GB video podcast I downloaded of the recent [iPhone](http://www.apple.com/iphone/) unveiling that did it. Whatever the cause, I needed to archive some bytes and didn’t want to spend all day doing it.
 
-<div class="photo-left">
-    <p>
-        <img src="https://segdeha.com/blog/assets/img/system_prefs.png" alt="Sharing preference pane">
-        Step 1 Turn on “FTP Access” (if it’s not already) in the Sharing preference pane of the System Preferences.
-    </p>
-    <p>
-        <img src="https://segdeha.com/blog/assets/img/transmit.png" alt="Transmit interface">
-        Step 2 Use Transmit to connect to your Mac as if it were a remote server.
-    </p>
-    <p>
-        <img src="https://segdeha.com/blog/assets/img/merge_panel.png" alt="Transmit’s merge files dialog">
-        Step 3 Start your download. When presented with the option, choose to “Merge” the folders.
-    </p>
-</div>
+<figure>
+    <img src="/blog/assets/img/system_prefs.png" alt="Sharing preference pane">
+    <figcaption>Step 1 Turn on “FTP Access” (if it’s not already) in the Sharing preference pane of the System Preferences.</figcaption>
+</figure>
+
+<figure>
+    <img src="/blog/assets/img/transmit.png" alt="Transmit interface">
+    <figcaption>Step 2 Use Transmit to connect to your Mac as if it were a remote server.</figcaption>
+</figure>
+
+<figure>
+    <img src="/blog/assets/img/merge_panel.png" alt="Transmit’s merge files dialog">
+    <figcaption>Step 3 Start your download. When presented with the option, choose to “Merge” the folders.</figcaption>
+</figure>
 
 My first stop on the merging folders express was FileMerge, a utility included with Apple’s [Xcode](http://www.apple.com/macosx/features/xcode/). It looked like it might do the trick (and was even [recommended](http://www.macworld.com/weblogs/macosxhints/2006/03/cmpfldr/) by a prominent Mac mag), but apparently it compares not only the contents of two folders, but the contents of the _files_ in two folders. (Which makes sense, considering it is used by programmers to find differences between source files.)
 

@@ -26,12 +26,10 @@ Coda takes this elegance a step further by combining an excellent text editor wi
 
 Now, Coda 1.5 is here. It fixes a couple of niggles I had with previous versions and adds some new features that make it even more useful. The #1 feature everyone [is](https://www.downloadsquad.com/2008/08/26/coda-1-5-released/) [talking](https://getsatisfaction.com/panic/topics/coda_svn_booya) [about](https://twitter.com/MikeBucks/statuses/899735440) is integrated support for [SVN](https://en.wikipedia.org/wiki/Subversion_(software)).
 
-<div class="photo-left">
-  <p>
+<figure>
     <img src="/blog/assets/img/coda-svn.png" alt="Coda’s SVN support">
-    Coda’s SVN support
-  </p>
-</div>
+    <figcaption>Coda’s SVN support</figcaption>
+</figure>
 
 I used to develop in [Eclipse](https://www.eclipse.org/). One of the things I liked most about it was the visual integration of SVN functionality. I like Coda’s approach way better. It’s simple, elegant, and easy-to-use; everything you’d expect from great Mac software.
 

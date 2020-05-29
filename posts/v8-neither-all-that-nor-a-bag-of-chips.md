@@ -26,12 +26,10 @@ Now, like [some](https://ejohn.org/blog/javascript-performance-rundown/) [others
 
 [Run the tests for yourself.](/blog/assets/files/js-unit-tests/)
 
-<div class="photo-left">
-  <p>
-    <img src="/blog/assets/img/chrome-0.2.149.29-vs-webkit-r36309.png" alt="Chrome versus WebKit"><br>
-    Chrome versus WebKit
-  </p>
-</div>
+<figure>
+    <img src="/blog/assets/img/chrome-0.2.149.29-vs-webkit-r36309.png" alt="Chrome versus WebKit">
+    <figcaption>Chrome versus WebKit</figcaption>
+</figure>
 
 Did you run the tests? Did you notice the little line at the bottom of the results that said “Elapsed time”? On <span class="tooltip" title="MacBook Pro, 2.4GHz, 4GB RAM, running VMWare with Windows XP SP2">my system</span>, Google Chrome ran this collection of JavaScript **significantly** slower than did last night’s build of WebKit, which includes the brand new [SquirrelFish Extreme](https://www.tangerinesmash.com/writings/2008/sep/08/squirrelfish-extreme/) JavaScript engine.
 

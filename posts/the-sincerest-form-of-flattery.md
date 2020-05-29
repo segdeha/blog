@@ -18,16 +18,15 @@ I helped build [Travelbug](https://www.travelbug.co.nz/), [Trade Me’s](https:/
 
 The feature in question (coded primarily by me, coincidentally) is the booking calendar. You can see it in action by visiting any [location page](https://www.travelbug.co.nz/visit/19160#book) on the Travelbug site. It shows about a week’s worth of availability at a time, giving you the ability to scroll ahead and back, and allows you to start the booking process using a neat-o, visual interface.
 
-<div class="photo-left">
-	<p>
-		<img src="/blog/assets/img/admirals-travelbug.png" alt="Admiral’s View Lodge, Travelbug Style">
-		Admiral’s View Lodge, Travelbug Style
-	</p>
-	<p>
-		<img src="/blog/assets/img/admirals-jasons.png" alt="Admiral’s View Lodge, Jasons Style">
-		Admiral’s View Lodge, Jasons Style
-	</p>
-</div>
+<figure>
+    <img src="/blog/assets/img/admirals-travelbug.png" alt="Admiral’s View Lodge, Travelbug Style">
+    <figcaption>Admiral’s View Lodge, Travelbug Style</figcaption>
+</figure>
+
+<figure>
+    <img src="/blog/assets/img/admirals-jasons.png" alt="Admiral’s View Lodge, Jasons Style">
+    <figcaption>Admiral’s View Lodge, Jasons Style</figcaption>
+</figure>
 
 Location pages also contain basic info like name and address, amenities, photos, and a Google Map of the location. Makes sense.
 
@@ -45,4 +44,3 @@ Compare for yourself:
 
 * [Admiral’s View Lodge, Travelbug style](https://www.travelbug.co.nz/visit/20564)
 * [Admiral’s View Lodge, Jasons style](https://www.jasons.com/New-Zealand/Paihia/Admirals-View-Lodge)
-

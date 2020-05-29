@@ -18,11 +18,10 @@ Today’s was a crisp, Spring, New Mexico morning, cold with bright shining sun,
 
 People were out cycling, running, horseback riding, and, like me, walking. I noticed Canada geese and a few varieties of ducks as I crossed the Rio Grande.
 
-<div class="photo-left">
-	<p>
-		<img src="/blog/assets/img/rio-grande-y-sandias.jpg" alt="The Rio Grande with the Sandia Mountains looking on">
-	</p>
-</div>
+<figure>
+    <img src="/blog/assets/img/rio-grande-y-sandias.jpg" alt="">
+    <figcaption>The Rio Grande with the Sandia Mountains in the background</figcaption>
+</figure>
 
 As I was walking back across the wide, pedestrian bridge that runs parallel to busy Alameda Avenue, I passed a man, around my age, by himself, with a pair of large binoculars around his neck. It appeared to me that he was out to do some bird watching. And, what a great day to do so! I tried making eye contact with him to say “good morning,” but he deftly avoided my glances. I wondered if he was self-conscious about what he was up to. That got me thinking.
 

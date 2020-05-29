@@ -52,12 +52,10 @@ The problem is, 99% of the time, the conversation comes up over a meal. Why is t
 	<dt>Me:</dt><dd>I don’t eat fish, despite [Nirvana’s blessing](http://www.youtube.com/watch?v=aXap5hZaqZ8). [Wink wink.] I eat cheese sometimes, but I don’t drink cow juice. Eggs are a mainstay for me, probably my primary source of protein.</dd>
 </dl>
 
-<div class="photo-right">
-	<p>
-		<a href="https://www.instagram.com/p/QiNHD7J5l6JEuLr2DVqinfPpjau5W_hFVbvCk0/"><img style="width: 306px; height: auto;" src="https://segdeha.com/assets/imgs/cherpumple-closeup.jpg" alt=""></a><br>
-		Cherpumple, the turducken of desserts.<br>Totally vegetarian.
-	</p>
-</div>
+<figure>
+    <a href="https://www.instagram.com/p/QiNHD7J5l6JEuLr2DVqinfPpjau5W_hFVbvCk0/"><img src="/blog/assets/img/cherpumple-closeup.jpg" alt="Cherpumple is 3 pies baked into 3 cakes coated in frosting"></a>
+    <figcaption>Cherpumple, the turducken of desserts. Totally vegetarian.</figcaption>
+</figure>
 
 <dl>
 	<dt>Them:</dt><dd>Why’d you decide to be a vegetarian? Was it a health thing?</dd>

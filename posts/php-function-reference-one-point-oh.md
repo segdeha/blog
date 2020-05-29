@@ -19,12 +19,10 @@ Two years in the making, PHPfr has spent way more time _not_ in development than
 
 I always find it a little thrilling when I release software. It’s like being an expectant father, the nervousness, the anticipation. Will everything turn out all right? Will others think it’s as beautiful as I do?
 
-<div class="photo-left">
-	<p>
-		<img src="/blog/assets/img/phpfr-front.png" alt="PHP Function Reference interface"><br>
-		Visit <a href="https://andrew.hedges.name/widgets/#phpfr">my widgets page</a> for more information and to download. Visit the <a href="https://code.google.com/p/phpfr/">project home</a> to report bugs and request features.
-	</p>
-</div>
+<figure>
+    <img src="/blog/assets/img/phpfr-front.png" alt="PHP Function Reference interface">
+    <figcaption>Visit <a href="https://andrew.hedges.name/widgets/#phpfr">my widgets page</a> for more information and to download. Visit the <a href="https://code.google.com/p/phpfr/">project home</a> to report bugs and request features.</figcaption>
+</figure>
 
 1.0 is up on [VersionTracker](https://www.versiontracker.com/dyn/moreinfo/macosx/29415) now and I’m seeing a pretty good flow of downloads come through. It should get through Apple’s vetting process in the next day or so. Then the real fun begins!
 

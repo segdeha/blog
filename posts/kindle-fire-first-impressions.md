@@ -14,16 +14,15 @@ I work with a bunch of [iPhone](http://www.apple.com/iphone/) geeks. After all, 
 
 ========
 
-<div class="photo-right">
-	<p>
-		<img src="/blog/assets/img/kindle-brand-spankin.jpg" alt="Kindle Fire, brand spankin'"><br>
-		Purty, and set to Greenwich Mean Time
-	</p>
-	<p>
-		<img src="/blog/assets/img/kindle-versus-iphone.jpg" alt="Fire versus iPhone"><br>
-		Fire versus iPhone
-	</p>
-</div>
+<figure>
+    <img src="/blog/assets/img/kindle-brand-spankin.jpg" alt="Kindle Fire, brand spankin’">
+    <figcaption>Purty, and set to Greenwich Mean Time</figcaption>
+</figure>
+
+<figure>
+    <img src="/blog/assets/img/kindle-versus-iphone.jpg" alt="Fire versus iPhone">
+    <figcaption>Fire versus iPhone</figcaption>
+</figure>
 
 This isn’t going to be an exhaustive review. I just don’t have the time. (Didn’t you just read that I work for a games company?!) But, I wanted to write a quick post with my first impressions because just as many of my coworkers wanted to see the Fire, I’ve had a bunch more requests for comment on [teh Twitterz](http://twitter.com/segdeha) since posting [a photo of my new toy](https://www.instagram.com/p/UVnEjm81Lg1uhpXpVS5mKbg7WzMx4rj00/). So, here goes…
 

@@ -26,11 +26,9 @@ Now, click around [my demo page](/blog/assets/files/nav/). (View source, too, be
 
 Again, you should see a hover state when you mouseover the nav items. And, you should see the nav item look depressed when you click on one (don’t worry, we’ll get him some counseling or something). The difference between my nav and Apple’s is that mine sticks in that pressed-in state until the new page loads.
 
-<div class="photo-left">
-	<p>
-		<img src="/blog/assets/img/dr_evil_laser.jpg" alt="Dr. Evil">
-	</p>
-</div>
+<figure>
+    <img src="/blog/assets/img/dr_evil_laser.jpg" alt="Dr. Evil">
+</figure>
 
 That’s the point I want to focus in on, like a _frickin’ laser._ It’s how to make your nav feel really fast. It’s not _actually_ any faster, mind you. It just _feels_ faster. Faster—whether real or perceived—makes users happier.
 

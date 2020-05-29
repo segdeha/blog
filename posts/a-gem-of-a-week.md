@@ -20,6 +20,11 @@ Time compresses when you are in the flow. Musicians know this, as do athletes, a
 I won’t try to recall every detail of last Sunday’s sprint because others have already done so with aplomb. I do want to talk a little about an area that hasn’t been explored in as much depth: the technology behind what we did. It ended up being a huge part of my entire week, not just that one, wonderful day.
 
 <!--
+<figure>
+    <img src="" alt="">
+    <figcaption></figcaption>
+</figure>
+
 <div class="photo-left">
 	<p>
 		<img src="http://static.zooomr.com/images/688986_0b43c0c834.jpg" alt="Obligatory Artsy Shot">
@@ -40,6 +45,11 @@ I had barely touched Ruby on Rails before that Sunday, but ended up spending all
 Rails is optimized for building web applications. It is an incredibly well thought out framework for implementing what is understood to be the best practices of circa 2007, rapid, agile methodology web development. It seems obvious in hindsight, but we were building a web app and we had to build it fast. Hence, Ruby on Rails.
 
 <!--
+<figure>
+    <img src="" alt="">
+    <figcaption></figcaption>
+</figure>
+
 <div class="photo-left">
 	<p>
 		<img src="http://static.zooomr.com/images/688994_f6d655237d.jpg" alt="Daniel and Lance">
@@ -60,6 +70,11 @@ Just like the sprint, we were building a data-driven web application and speed w
 [We did it.](http://apexed.storytotell.org/) We built a complex, database driven web application in one work week. I am convinced that if we had used any other framework and any other language, we would have made it half as far with half the fun and twice the stress.
 
 <!--
+<figure>
+    <img src="" alt="">
+    <figcaption></figcaption>
+</figure>
+
 <div class="photo-left">
 	<p>
 		<img src="http://static.zooomr.com/images/688993_78228c2043.jpg" alt="Christopher Anderton">
@@ -76,6 +91,11 @@ The sprint has garnered some attention in the <a href="/assets/files/abqjournals
 The [Albuquerque Journal](http://www.abqjournal.com/) story neglected to mention everyone who participated in The Sprint. So, for the record, here it is, the official list of participants with the role(s) they filled that day:
 
 <!--
+<figure>
+    <img src="" alt="">
+    <figcaption></figcaption>
+</figure>
+
 <div class="photo-left">
 	<p>
 		<img src="http://static.zooomr.com/images/688987_8b778ddbce.jpg" alt="From left: Brian Warren, Mark Bixby, and Kelly Patrick Robinson">

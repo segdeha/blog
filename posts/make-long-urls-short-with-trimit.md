@@ -14,7 +14,7 @@
 
 ========
 
-The best [Dashboard widgets](https://www.apple.com/downloads/dashboard/) scratch an itch. I’m a big fan of [tr.im](https://tr.im) for URL shortening, but even their excellent <span class="tooltip" title="JavaScript bookmark that acts on the current page">bookmarklet</span> wasn't quite convenient enough for me. Lucky for me that a) tr.im publish a public [API](https://tr.im/api/), and b) I know how to build widgets.
+The best [Dashboard widgets](https://www.apple.com/downloads/dashboard/) scratch an itch. I’m a big fan of [tr.im](https://tr.im) for URL shortening, but even their excellent <span class="tooltip" title="JavaScript bookmark that acts on the current page">bookmarklet</span> wasn’t quite convenient enough for me. Lucky for me that a) tr.im publish a public [API](https://tr.im/api/), and b) I know how to build widgets.
 
 ========
 
@@ -23,11 +23,9 @@ For a while, I ran my own URL shortening service. I had to shut it down after sp
 1. **Sending long links in emails -** many email clients are steaming piles that break long URLs into multiple lines, rendering them unclickable
 2. **Posting links to Twitter or SMS messages -** both of these services limit you to around 140 characters; a long URL can take up most of that limit
 
-<div class="photo-left">
-  <p>
-    <img style="border: none;" src="/blog/assets/img/trimit-front.png" alt="tr.im.it interface">
-  </p>
-</div>
+<figure>
+    <img src="/blog/assets/img/trimit-front.png" alt="tr.im.it interface">
+</figure>
 
 Yesterday, I released [tr.im.it](https://tr.im/trimit), a widget for Mac OS X’s Dashboard that makes it super-duper simple to create short URLs. Here’s how it works:
 

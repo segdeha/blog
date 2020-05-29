@@ -20,12 +20,10 @@ I was fortunate to be able to travel back to the States for 2 weeks before my mo
 
 I have known for a long time, though she did not talk about it much, that mom had a lot of regrets and bitterness about her life not turning out how she’d hoped. I [wrote about it](/1998/handsindirt.txt) 10 years ago, and I think it remained true until her final days.
 
-<div class="photo-left">
-  <p>
-    <img src="/blog/assets/img/most-of-us.jpg" alt="Mom’s legacy"><br>
-    Mom’s legacy
-  </p>
-</div>
+<figure>
+    <img src="/blog/assets/img/most-of-us.jpg" alt="Mom’s legacy">
+    <figcaption>Mom’s legacy</figcaption>
+</figure>
 
 One of the last things I said to my mother was that she should feel proud of her legacy. The Saturday I was home, we gathered most of her children and grandchildren for a barbecue at the house. She was leaving behind 4 kids who made it to adulthood relatively sane and intact, 11 beautiful, healthy grandkids, and her first great-grandchild on the way. I hope reminding her of her legacy gave my mother some measure of comfort as the curtain was closing on her life.
 
@@ -37,12 +35,10 @@ One way we all live on is in the influence we have had on others, a kind of ripp
 
 Me, I wish I could say I’m creating a more worthwhile legacy. I’m building software, which has the [shelf life of a banana.](https://www.quotedb.com/quotes/3862) I take some [photographs](https://www.zooomr.com/photos/newfangledtelegraph/), but nothing notorious. That leaves my ripple effect.
 
-<div class="photo-left">
-  <p>
-    <img src="/blog/assets/img/a-n-e.jpg" alt="Allie and Erin"><br>
-    These two deserve the best I have to give, maybe better.
-  </p>
-</div>
+<figure>
+    <img src="/blog/assets/img/a-n-e.jpg" alt="Allie and Erin">
+    <figcaption>These two deserve the best I have to give, maybe better.</figcaption>
+</figure>
 
 Mid-way through my 40th year, I feel disappointed. I’m disappointed that I’m not doing nearly the job I thought myself capable of with my relationships. Life is teaching me that I am so much less capable, so much less resilient than I imagined even 10 years ago when I still believed what my mother had told me growing up, that there was nothing I couldn’t do.
 

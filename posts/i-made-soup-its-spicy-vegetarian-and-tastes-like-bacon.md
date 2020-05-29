@@ -29,12 +29,9 @@ When I was growing up, my step-dad (the kindest man I know) used to make big pot
 * Salt and pepper to taste (don’t be shy, this makes the soup, in my opinion)
 * A teaspoon or so of chopped rosemary (just because I had it lying around)
 
-<div class="photo-left">
-	<p>
-		<img src="/blog/assets/img/soup.jpg" alt="Mmm…soup!">
-	</p>
-
-</div>
+<figure>
+    <img src="/blog/assets/img/soup.jpg" alt="Mmm…soup!">
+</figure>
 
 Serves: er…I don’t know, a [fireteam](http://en.wikipedia.org/wiki/Fireteam)?
 

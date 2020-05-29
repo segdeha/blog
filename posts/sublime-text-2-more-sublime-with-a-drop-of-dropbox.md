@@ -38,16 +38,14 @@ The following steps (which are for OS X, please add how to do this on Windows & 
     * `ln -s ~/Dropbox/Sublime\ Text\ 2/Pristine\ Packages ./Pristine\ Packages`
 10. There is no step 10.
 
-<div class="photo-left">
-	<p>
-		<img src="/blog/assets/img/sublime-dropbox.png" alt="End result">
-		When you’re done, you should end up with something like this.
-	</p>
-</div>
+<figure>
+    <img src="/blog/assets/img/sublime-dropbox.png" alt="End result">
+    <figcaption>When you’re done, you should end up with something like this.</figcaption>
+</figure>
 
 That should do it. Fire up ST2 and make sure you have the list of packages you expect to. Just to be sure, install another package and make sure it shows up in `~/Dropbox/Sublime Text 2/Packages/`.
 
-<span class="tooltip" title="Worked For Me">WFM</span> <span class="tooltip" title="Your Mileage May Vary">YMMV</span> <span class="tooltip" title="Smile">:-)</span>
+<acronym class="tooltip" title="Worked For Me">WFM</acronym> <acronym class="tooltip" title="Your Mileage May Vary">YMMV</acronym> <span class="tooltip" title="Smile">:-)</span>
 
 For good measure, here are the packages I have installed. Feel free to recommend others in the comments!
 

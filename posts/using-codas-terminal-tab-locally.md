@@ -24,28 +24,30 @@ If you haven't checked out [Panic's](https://www.panic.com) excellent web develo
 
 One of Coda's features allows you to work in a terminal window from within the IDE. While this is quite excellent for tweaking server settings and such, by default it appears to work only for remote connections. The good news is that it's really simple to set it up to work with local files as well.
 
-<div class="photo-left">
-  <p>
+<figure>
     <img src="/blog/assets/img/sharing.png" alt="Sharing Preference Pane">
-    Sharing Pref Pane
-  </p>
-  <p>
+    <figcaption>Sharing Preference Pane</figcaption>
+</figure>
+
+<figure>
     <img src="/blog/assets/img/coda-terminal.png" alt="Coda Terminal Login Screen">
-    Coda Terminal Login
-  </p>
-  <p>
+    <figcaption>Coda Terminal Login Screen</figcaption>
+</figure>
+
+<figure>
     <img src="/blog/assets/img/coda-terminal-session.png" alt="Coda Terminal Session">
-    Voilà!
-  </p>
-  <p>
+    <figcaption>Voilà!</figcaption>
+</figure>
+
+<figure>
     <img src="/blog/assets/img/coda-local-shell-select.png" alt="Select Shell Source">
-    Select Shell Source
-  </p>
-  <p>
+    <figcaption>Select Shell Source</figcaption>
+</figure>
+
+<figure>
     <img src="/blog/assets/img/coda-local-shell-connect.png" alt="Coda Local Terminal Session">
-    Coda _Local_ Terminal Session
-  </p>
-</div>
+    <figcaption>Coda Local Terminal Session</figcaption>
+</figure>
 
 What you do is go to your Sharing preference pane, found in System Preferences (see image to the right) and turn on Remote Login, if it's not already enabled.
 
