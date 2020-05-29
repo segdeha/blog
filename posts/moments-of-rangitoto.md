@@ -23,97 +23,97 @@ Below is my compleat chronicling of Rangitoto (from afar.) Photos were taken bet
 **Update (Feb 27, 2012):** Apparently, Momentile is on its last legs. After emailing the creators, I managed to get my ’tiles back and am now serving them from my web server.
 
 <figure>
-    <img src="/blog/img/tiles/2009-09-02.jpg" alt="Rangitoto - 2 Sep 2009">
+    <img src="/blog/assets/img/tiles/2009-09-02.jpg" alt="Rangitoto - 2 Sep 2009">
     <figcaption>2 Sep 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-09-04.jpg" alt="Rangitoto - 4 Sep 2009">
+    <img src="/blog/assets/img/tiles/2009-09-04.jpg" alt="Rangitoto - 4 Sep 2009">
     <figcaption>4 Sep 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-09-07.jpg" alt="Rangitoto - 7 Sep 2009">
+    <img src="/blog/assets/img/tiles/2009-09-07.jpg" alt="Rangitoto - 7 Sep 2009">
     <figcaption>7 Sep 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-09-13.jpg" alt="Rangitoto - 13 Sep 2009">
+    <img src="/blog/assets/img/tiles/2009-09-13.jpg" alt="Rangitoto - 13 Sep 2009">
     <figcaption>13 Sep 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-09-16.jpg" alt="Rangitoto - 16 Sep 2009">
+    <img src="/blog/assets/img/tiles/2009-09-16.jpg" alt="Rangitoto - 16 Sep 2009">
     <figcaption>16 Sep 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-09-20.jpg" alt="Rangitoto - 20 Sep 2009">
+    <img src="/blog/assets/img/tiles/2009-09-20.jpg" alt="Rangitoto - 20 Sep 2009">
     <figcaption>20 Sep 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-09-21.jpg" alt="Rangitoto - 21 Sep 2009">
+    <img src="/blog/assets/img/tiles/2009-09-21.jpg" alt="Rangitoto - 21 Sep 2009">
     <figcaption>21 Sep 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-09-26.jpg" alt="Rangitoto - 26 Sep 2009">
+    <img src="/blog/assets/img/tiles/2009-09-26.jpg" alt="Rangitoto - 26 Sep 2009">
     <figcaption>26 Sep 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-09-27.jpg" alt="Rangitoto - 27 Sep 2009">
+    <img src="/blog/assets/img/tiles/2009-09-27.jpg" alt="Rangitoto - 27 Sep 2009">
     <figcaption>27 Sep 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-09-30.jpg" alt="Rangitoto - 30 Sep 2009">
+    <img src="/blog/assets/img/tiles/2009-09-30.jpg" alt="Rangitoto - 30 Sep 2009">
     <figcaption>30 Sep 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-10-09.jpg" alt="Rangitoto - 9 Oct 2009">
+    <img src="/blog/assets/img/tiles/2009-10-09.jpg" alt="Rangitoto - 9 Oct 2009">
     <figcaption>9 Oct 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-10-10.jpg" alt="Rangitoto - 10 Oct 2009">
+    <img src="/blog/assets/img/tiles/2009-10-10.jpg" alt="Rangitoto - 10 Oct 2009">
     <figcaption>10 Oct 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-10-11.jpg" alt="Rangitoto - 11 Oct 2009">
+    <img src="/blog/assets/img/tiles/2009-10-11.jpg" alt="Rangitoto - 11 Oct 2009">
     <figcaption>11 Oct 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-10-14.jpg" alt="Rangitoto - 14 Oct 2009">
+    <img src="/blog/assets/img/tiles/2009-10-14.jpg" alt="Rangitoto - 14 Oct 2009">
     <figcaption>14 Oct 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-10-17.jpg" alt="Rangitoto - 17 Oct 2009">
+    <img src="/blog/assets/img/tiles/2009-10-17.jpg" alt="Rangitoto - 17 Oct 2009">
     <figcaption>17 Oct 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-10-20.jpg" alt="Rangitoto - 20 Oct 2009">
+    <img src="/blog/assets/img/tiles/2009-10-20.jpg" alt="Rangitoto - 20 Oct 2009">
     <figcaption>20 Oct 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-10-23.jpg" alt="Rangitoto - 23 Oct 2009">
+    <img src="/blog/assets/img/tiles/2009-10-23.jpg" alt="Rangitoto - 23 Oct 2009">
     <figcaption>23 Oct 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-10-26.jpg" alt="Rangitoto - 26 Oct 2009">
+    <img src="/blog/assets/img/tiles/2009-10-26.jpg" alt="Rangitoto - 26 Oct 2009">
     <figcaption>26 Oct 2009</figcaption>
 </figure>
 
 <figure>
-    <img src="/blog/img/tiles/2009-10-28.jpg" alt="Rangitoto - 28 Oct 2009">
+    <img src="/blog/assets/img/tiles/2009-10-28.jpg" alt="Rangitoto - 28 Oct 2009">
     <figcaption>28 Oct 2009</figcaption>
 </figure>
 
