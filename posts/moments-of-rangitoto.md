@@ -118,3 +118,5 @@ Below is my compleat chronicling of Rangitoto (from afar.) Photos were taken bet
     <img src="https://static.zooomr.com/images/8435850_782e889139.jpg" alt="View from Rangitoto - 30 Oct 2009">
     <figcaption>30 Oct 2009 - View from Rangitoto</figcaption>
 </figure>
+
+☝️ Unfortunately, Zoomr went belly up long ago and I haven’t figured out a way to recover my photos from it. 😭
