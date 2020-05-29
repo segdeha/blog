@@ -98,11 +98,6 @@ Below is my compleat chronicling of Rangitoto (from afar.) Photos were taken bet
 </figure>
 
 <figure>
-    <img src="/blog/assets/img/tiles/2009-10-20.jpg" alt="Rangitoto - 20 Oct 2009">
-    <figcaption>20 Oct 2009</figcaption>
-</figure>
-
-<figure>
     <img src="/blog/assets/img/tiles/2009-10-23.jpg" alt="Rangitoto - 23 Oct 2009">
     <figcaption>23 Oct 2009</figcaption>
 </figure>
