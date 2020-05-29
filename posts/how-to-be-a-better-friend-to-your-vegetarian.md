@@ -49,7 +49,7 @@ The problem is, 99% of the time, the conversation comes up over a meal. Why is t
 
 <dl>
 	<dt>Them:</dt><dd>Do you eat fish? Milk? Eggs?</dd>
-	<dt>Me:</dt><dd>I don’t eat fish, despite [Nirvana’s blessing](http://www.youtube.com/watch?v=aXap5hZaqZ8). [Wink wink.] I eat cheese sometimes, but I don’t drink cow juice. Eggs are a mainstay for me, probably my primary source of protein.</dd>
+	<dt>Me:</dt><dd>I don’t eat fish, despite <a href="http://www.youtube.com/watch?v=aXap5hZaqZ8">Nirvana’s blessing</a>. [Wink wink.] I eat cheese sometimes, but I don’t drink cow juice. Eggs are a mainstay for me, probably my primary source of protein.</dd>
 </dl>
 
 <figure>
