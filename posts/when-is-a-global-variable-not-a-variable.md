@@ -33,10 +33,10 @@ I recommend studying each of them and trying to predict the result of each befor
 <iframe name="runner" src="about:blank" style="width: 0;height: 0;border: none !important;margin: 0;padding: 0;"></iframe>
 
 <pre class="sh_javascript">try {
-   alert(a);
+    alert(a);
 }
 catch (e) {
-   alert(e);
+    alert(e);
 }
 
 var a = 10;
@@ -46,10 +46,10 @@ alert(a);</pre>
 <a target="runner" href="/blog/assets/files/global-variable.html">Run it</a>
 
 <pre class="sh_javascript">try {
-   alert(b);
+    alert(b);
 }
 catch (e) {
-   alert(e);
+    alert(e);
 }
 
 b = 20;
@@ -79,10 +79,10 @@ Was this helpful? Let me know in the comments if you’d like me to post more ar
 alert(delete x);
 
 try {
-   alert(x);
+    alert(x);
 }
 catch (e) {
-   alert(e);
+    alert(e);
 }</pre>
 
 <a target="runner" href="/blog/assets/files/dontdelete-var.html">Run it</a>
@@ -92,10 +92,10 @@ catch (e) {
 alert(delete y);
 
 try {
-   alert(y);
+    alert(y);
 }
 catch (e) {
-   alert(e);
+    alert(e);
 }</pre>
 
 <a target="runner" href="/blog/assets/files/dontdelete-eval.html">Run it</a>
