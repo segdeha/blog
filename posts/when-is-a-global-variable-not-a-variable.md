@@ -32,7 +32,8 @@ I recommend studying each of them and trying to predict the result of each befor
 
 <iframe name="runner" src="about:blank" style="width: 0;height: 0;border: none !important;margin: 0;padding: 0;"></iframe>
 
-<pre class="sh_javascript">try {
+<pre class="sh_javascript">
+try {
     alert(a);
 }
 catch (e) {
@@ -41,11 +42,13 @@ catch (e) {
 
 var a = 10;
 
-alert(a);</pre>
+alert(a);
+</pre>
 
 <a target="runner" href="/blog/assets/files/global-variable.html">Run it</a>
 
-<pre class="sh_javascript">try {
+<pre class="sh_javascript">
+try {
     alert(b);
 }
 catch (e) {
@@ -54,7 +57,8 @@ catch (e) {
 
 b = 20;
 
-alert(b);</pre>
+alert(b);
+</pre>
 
 <a target="runner" href="/blog/assets/files/global-property.html">Run it</a>
 
@@ -74,7 +78,8 @@ Was this helpful? Let me know in the comments if you’d like me to post more ar
 
 **Update (9 April 2010):** As Dmitry, himself, points out in the comments, there is one other case to consider. The `eval` statement constructs variables without the `{DontDelete}` attribute, even using the `var` statement. Consider the following:
 
-<pre class="sh_javascript">var x = 10;
+<pre class="sh_javascript">
+var x = 10;
 
 alert(delete x);
 
@@ -83,11 +88,13 @@ try {
 }
 catch (e) {
     alert(e);
-}</pre>
+}
+</pre>
 
 <a target="runner" href="/blog/assets/files/dontdelete-var.html">Run it</a>
 
-<pre class="sh_javascript">eval('var y = 20');
+<pre class="sh_javascript">
+eval('var y = 20');
 
 alert(delete y);
 
@@ -96,7 +103,8 @@ try {
 }
 catch (e) {
     alert(e);
-}</pre>
+}
+</pre>
 
 <a target="runner" href="/blog/assets/files/dontdelete-eval.html">Run it</a>
 
