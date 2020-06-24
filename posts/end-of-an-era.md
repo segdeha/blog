@@ -46,7 +46,7 @@ From [the home of my widgets on my website](https://andrew.hedges.name/widgets/)
 > 
 > My widgets have been distributed with magazines on CD-ROM in France, [Germany](http://www.macup.com) and [Taiwan](http://www.pcuser.com.tw), [written about in MacWorld](https://web.archive.org/web/20051025155600/http://www.macworld.com/weblogs/macgems/2005/06/widgetsoftheweek005/) and other online [publications](https://www.engadget.com/2007-07-07-enwidget-ten-useful-apple-dashboard-widgets.html), and been the subject of several [podcasts](https://web.archive.org/web/20060211034538/http://www.jonbrown.org/flipside.html) and blog posts.
 
-This post runs a risk of going on for days, so I’ll cut it short by saying that that damn badge finally got to me. I’m relenting. By the time you, dear reader, have seen this post, I’ll have upgraded to macOS Catalina and my 15 year flirtation with Dashboard Widgets will be done.
+This post runs a risk of going on for days (I could talk at length about the unit testing framework I built for my Widgets or the system I devised to handle notifying users of new versions or how I localized a Widget and ended up managing translators in various countries, etc. etc.), so I’ll cut it short by saying that that damn badge finally got to me. I’m relenting. By the time you, dear reader, have seen this post, I’ll have upgraded to macOS Catalina and my 15 year flirtation with Dashboard Widgets will be done.
 
 One of the amazing things about Dashboard Widgets is how—because they’re [based on plain old HTML, CSS, and JavaScript](https://andrew.hedges.name/widgets/dev/)—they opened up the world of app development to anyone who could cobble together the equivalent of a web page.
 
