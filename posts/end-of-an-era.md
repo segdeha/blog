@@ -37,7 +37,7 @@ That damn badge on my System Preferences icon has been taunting me ever since th
 
 There are 2 reasons I hold on so dearly to my Widgets.
 
-1. They’re useful! Most of the widgets I’ve built, I built because I had a need for them. In particular, I’ve used Make-A-Pass and PHP Function Reference at least a few days per week since I built them.
+1. They’re useful! Most of the widgets I’ve built, I built because I had a need for them. In particular, I’ve used [Make-A-Pass](/widgets/#makeapass) and [PHP Function Reference](/widgets/#phpfr) at least a few times per week since I built them.
 2. As I say in [one](https://andrew.hedges.name/blog/so-many-widgets-so-little-time) [of](https://andrew.hedges.name/blog/new-version-of-phpfr-in-the-works) [my](https://andrew.hedges.name/blog/php-function-reference-one-point-oh) [many](https://andrew.hedges.name/blog/the-first-48-hours-of-php-function-reference-by-the-numbers) [blog](https://andrew.hedges.name/blog/widget-javascript-the-un-series-part-0) [posts](https://andrew.hedges.name/blog/make-long-urls-short-with-trimit) [about](https://andrew.hedges.name/blog/sending-growl-notifications-from-dashboard-widgets) [Widgets](https://andrew.hedges.name/blog/dashboard-widgets-for-fun-and-profit), “They’ve brought me minor fame and even more minor fortune. It’s been a lot of fun and I’ve learned a lot through the process.”
 
 From [the home of my widgets on my website](https://andrew.hedges.name/widgets/):
