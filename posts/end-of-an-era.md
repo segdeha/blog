@@ -7,7 +7,7 @@
   "keywords": "apple, mac os x, dashboard, widgets",
   "created_date": "2020-06-24 01:02:03",
   "short_url": "http://ahedg.es/",
-  "background_image": "/blog/assets/img/end-of-an-era/my-widgets.png",
+  "background_image": "/blog/assets/img/end-of-an-era/my-widgets.jpg",
   "published": false
 }
 
