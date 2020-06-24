@@ -1,33 +1,15 @@
-{
-  "title": "End of an Era",
-  "slug": "end-of-an-era",
-  "topics": [
-    "Widgets"
-  ],
-  "keywords": "apple, mac os x, dashboard, widgets",
-  "created_date": "2020-06-24 01:02:03",
-  "short_url": "http://ahedg.es/",
-  "published": false
-}
-
-========
-
-Pour one out for Dashboard Widgets. You had a good run!
-
-========
-
 Relative to [everything else](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) [going on](https://en.wikipedia.org/wiki/George_Floyd_protests) [in the world](https://en.wikipedia.org/wiki/Global_warming), this is an insignificant thing. But in a small way, I’m mourning the end of the era of Dashboard Widgets in macOS.
 
 They never really caught on, so you can be forgiven if you have no idea what I’m talking about. Dashboard Widgets were [introduced along with Mac OS X 10.4](https://www.macworld.com/article/1044543/tigerdashboard.html) in April, 2005. They’re little utilities, built with HTML, CSS, and JavaScript (my fortés!) and invoked onto a semi-transparent black overlay by hitting `F12`.
 
-![Screenshot of the default Widgets on Mac OS X](/blog/assets/img/built-in-widgets.png)
+![Screenshot of the default Widgets on Mac OS X](/blog/assets/img/end-of-an-era/built-in-widgets.png)
 _Image courtesy of [Mac For Beginners](https://www.macforbeginners.com/osx-guide/dashboard-widgets/)_
 
 Like an athlete past his prime, I’ve held on arguably a little too long. I’ve literally put off upgrading my work laptop to the latest version of macOS for the sole reason that I wasn’t willing to give up my widgets.
 
 That damn badge on my System Preferences icon has been taunting me ever since the release of macOS Catalina 8½ months ago. I googled around for [how to suppress the daily upgrade notifications](https://apple.stackexchange.com/questions/342869/is-there-a-way-to-disable-update-notifications-in-mojave), but the badge, that damn badge…it persisted.
 
-![That damn badge.](that-damn-badge.png)
+![That damn badge.](/blog/assets/img/end-of-an-era/that-damn-badge.png)
 
 There are 2 reasons I hold on so dearly to my Widgets.
 
@@ -52,4 +34,4 @@ I’ll close with a screenshot of most of the Widgets I built over the last deca
 
 This truly is the end of an era.
 
-![Most of the Dashboard Widgets I built over the years](/blog/assets/img/my-widgets.png)
+![Most of the Dashboard Widgets I built over the years](/blog/assets/img/end-of-an-era/my-widgets.png)
