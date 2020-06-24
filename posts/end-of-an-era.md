@@ -8,7 +8,7 @@
   "created_date": "2020-06-24 01:02:03",
   "short_url": "http://ahedg.es/",
   "background_image": "/blog/assets/img/end-of-an-era/my-widgets.png",
-  "published": false
+  "published": true
 }
 
 ========
