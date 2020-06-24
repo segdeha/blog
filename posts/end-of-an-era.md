@@ -1,3 +1,22 @@
+{
+  "title": "End of an Era",
+  "slug": "end-of-an-era",
+  "topics": [
+    "Widgets"
+  ],
+  "keywords": "apple, mac os x, dashboard, widgets",
+  "created_date": "2020-06-24 01:02:03",
+  "short_url": "http://ahedg.es/",
+  "background_image": "/blog/assets/img/end-of-an-era/my-widgets.png",
+  "published": false
+}
+
+========
+
+Pour one out for Dashboard Widgets. You had a good run!
+
+========
+
 Relative to [everything else](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) [going on](https://en.wikipedia.org/wiki/George_Floyd_protests) [in the world](https://en.wikipedia.org/wiki/Global_warming), this is an insignificant thing. But in a small way, I’m mourning the end of the era of Dashboard Widgets in macOS.
 
 They never really caught on, so you can be forgiven if you have no idea what I’m talking about. Dashboard Widgets were [introduced along with Mac OS X 10.4](https://www.macworld.com/article/1044543/tigerdashboard.html) in April, 2005. They’re little utilities, built with HTML, CSS, and JavaScript (my fortés!) and invoked onto a semi-transparent black overlay by hitting `F12`.
