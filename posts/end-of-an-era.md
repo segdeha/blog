@@ -48,7 +48,7 @@ From [the home of my widgets on my website](https://andrew.hedges.name/widgets/)
 
 This post runs a risk of going on for days, so I’ll cut it short by saying that that damn badge finally got to me. I’m relenting. By the time you, dear reader, have seen this post, I’ll have upgraded to macOS Catalina and my 15 year flirtation with Dashboard Widgets will be done.
 
-One of the amazing things about Dashboard Widgets is how—because they’re based on plain old HTML, CSS, and JavaScript—they opened up the world of app development to anyone who could cobble together the equivalent of a web page.
+One of the amazing things about Dashboard Widgets is how—because they’re [based on plain old HTML, CSS, and JavaScript](https://andrew.hedges.name/widgets/dev/)—they opened up the world of app development to anyone who could cobble together the equivalent of a web page.
 
 Building software has become both easier and harder in the time since Widgets were introduced. The frameworks and tools we have to work with are so much better and easier to use, but the expectations users have are way higher and navigating the various app store ecosystems to try to make a living is at best a precarious proposition.
 
