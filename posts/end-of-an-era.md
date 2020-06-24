@@ -23,7 +23,7 @@ They never really caught on, so you can be forgiven if you have no idea what I�
 
 <figure>
     <img src="/blog/assets/img/end-of-an-era/built-in-widgets.png" alt="Screenshot of the default Widgets on Mac OS X">
-    <figcaption>Image courtesy of [Mac For Beginners](https://www.macforbeginners.com/osx-guide/dashboard-widgets/)</figcaption>
+    <figcaption>Image courtesy of <a href="https://www.macforbeginners.com/osx-guide/dashboard-widgets/">Mac For Beginners</a></figcaption>
 </figure>
 
 Like an athlete past his prime, I’ve held on arguably a little too long. I’ve literally put off upgrading my work laptop to the latest version of macOS for the sole reason that I wasn’t willing to give up my widgets.
