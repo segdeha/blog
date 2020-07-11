@@ -15,7 +15,7 @@ The Mac just turned [30](https://web.archive.org/web/20140207044840/www.apple.co
 
 ========
 
-My first computer wasn’t a Mac. It was a [TI-99/4A](http://en.wikipedia.org/wiki/File:TI99-IMG_1680.jpg). I perplexed my non-techie parents by saving up $230 working odd jobs during the summer of 1983 to buy it. I loved that thing. 16 colors, you hooked it up to your TV and when you turned it on you got nothing but  a [BASIC](http://en.wikipedia.org/wiki/BASIC) prompt.
+My first computer wasn’t a Mac. It was a [TI-99/4A](http://en.wikipedia.org/wiki/File:TI99-IMG_1680.jpg). I perplexed my non-techie parents by saving up $230 working odd jobs during the summer of 1982 to buy it. I loved that thing. 16 colors, you hooked it up to your TV and when you turned it on you got nothing but  a [BASIC](http://en.wikipedia.org/wiki/BASIC) prompt.
 
 It came with a manual that included a tutorial on how to program. I dove in and pretty soon was writing simple games and saving the programs to cassettes that sounded like modem chatter when you played them back.
 
