@@ -1,20 +1,18 @@
-{ "title": "We mentor early-career developers. Here’s what they need to succeed.", "slug": "what-early-career-developers-need-to-succeed", "topics": [ "Web Development" ], "keywords": "junior developer, entry level developer, web development, code school, coding bootcamp, early career engineer, structure, process, interdependence, context, encouragement, the collab lab", "created_date": "2020-08-19 01:02:03", "short_url": "", "background_image": "/blog/assets/img/end-of-an-era/my-widgets.jpg", "published": false }
+{ "title": "We mentor early-career developers. Here’s what they need to succeed.", "slug": "what-early-career-developers-need-to-succeed", "topics": [ "Web Development" ], "keywords": "junior developer, entry level developer, web development, code school, coding bootcamp, early career engineer, structure, process, interdependence, context, encouragement, the collab lab", "created_date": "2020-08-19 01:02:03", "published": false }
 
 ========
-
-
 
 ========
 
 Knowing how to code is just one aspect of being a professional web developer. Another super important skill is knowing how to collaborate effectively on a software team. Most coding bootcamps don’t teach this skill or don’t teach it effectively. This leads early-career developers to stumble in interviews and require a lot of ramp up time in their first tech jobs. [The Collab Lab](https://the-collab-lab.codes/) is a program [Stacie Taylor](https://www.linkedin.com/in/stacietaylorcima/) and I created to help solve this problem.
 
-### The Collab Lab Turns One
+## The Collab Lab Turns One
 
 In the year since we launched, The Collab Lab has helped 44 early-career web developers learn how to work on software teams. We provide remote, collaborative project practice for developers who have worked to develop a baseline of technical skills, but who haven’t yet had the experience of working on a technical team.
 
 Our two dozen volunteer mentors are all professional web developers and engineering leaders. We structure our projects to be simplified, but otherwise very real-world in how they’re run. Participants employ pair programming to complete stories managed on a project board. They present weekly demos of their progress and participate in learning modules and retrospectives. Participants report feeling more confident in interviews and more prepared for their first developer job.
 
-### What helps early-career developers?
+## What helps early-career developers?
 
 Through the course of running [12 projects of 8 weeks each over this last year](https://dev.to/the-collab-lab), we’ve learned a ton about how to make early-career developers successful. It boils down to the following 5 themes:
 
@@ -26,7 +24,7 @@ Through the course of running [12 projects of 8 weeks each over this last year](
 
 Sure, call it SPICE if it helps you remember it. 😅
 
-#### Structure
+### Structure
 
 Early-career developers benefit from **clear guardrails** and easy-to-consume **written documentation** on processes and requirements.
 
@@ -34,13 +32,13 @@ At The Collab Lab, that takes the form of a [project brief](https://github.com/t
 
 Some senior developers might find it overkill, but I’d argue that even experienced teams benefit from having this information clearly documented.
 
-#### Process
+### Process
 
 In any organization, but especially in a remote one, written documentation of processes helps developers understand what to expect—and what is expected—day-to-day.
 
 [That project brief I mentioned before](https://github.com/the-collab-lab/smart-shopping-list/blob/main/PROJECT-BRIEF.md) clearly outlines how our developers will know what to work on as well as the steps for determining when a [user story](https://www.mountaingoatsoftware.com/agile/user-stories) is done. For many of our participants, this is their first experience working on a software team. By documenting the code review and approval process, they can refer to the expectations when things get confusing.
 
-#### Interdependence
+### Interdependence
 
 The Collab Lab has been a distributed endeavor from the outset. We use Slack and GitHub to coordinate our projects at a distance. On these remote teams, we encourage interdependence. We emphasize that this isn’t school. Our participants are not being judged or graded. They’re a team working together to get something done.
 
@@ -48,7 +46,7 @@ Each week, our teams of 4 break into 2 pairs. The expectation is that each pair 
 
 Another practice we emphasize that encourages interdependence is working in the open. This transparency is a core value at [Zapier](https://zapier.com/), where I’m an engineering manager. Being “noisy” in Slack helps everyone feel more connected and keeps the team up-to-date on both progress and blockers as the weeks progress.
 
-#### Context
+### Context
 
 When we kick off new projects, we ask each participant to watch [a video run-through of a previous team’s working application](https://youtu.be/uWgkwY_VBPo). This is possible because we do the same project each time, but for most organizations the equivalent could take the form of a click-through prototype or even just design mock-ups.
 
@@ -66,7 +64,7 @@ For example, the following is one of the stories from the smart shopping list pr
 
 This format is helpful to early-career developers because it’s not just a to-do list of requirements. It provides a description of the value being provided to the end user, including the “why” of the feature. This empowers our developers to come up with creative solutions to the problems presented to them.
 
-#### Encouragement
+### Encouragement
 
 When we train our Collab Lab mentors, we literally tell them to be cheerleaders for their teams. Their more formal role is a hybrid of senior developer and product owner, but the most important thing they do most weeks is help the people on their team have confidence they can do the thing.
 
@@ -76,7 +74,7 @@ Connection and encouragement—including the praxis of [growth mindset](https://
 
 > Increasing the diversity of your team by hiring bootcamp grads only works in the long term if you do the hard work of creating an inclusive, supportive working environment.
 
-### Is it worth the effort?
+## Is it worth the effort?
 
 There are myriad benefits to hiring early-career developers. The enthusiasm they bring to a team is contagious, and they can serve as motivation to better document requirements, systems, and processes. It’s also a group that tends to include more people from groups underrepresented in tech, so it’s a great way to increase diversity on your teams.
 
