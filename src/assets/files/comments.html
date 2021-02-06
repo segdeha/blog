@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Comment Spam</title>
+		<meta name="viewport" content="initial-scale=1.0; width=320.1">
+		<link class="include" rel="stylesheet" type="text/css" href="../js/jqplot/jquery.jqplot.css">
+		<style type="text/css">
+		body {
+			background: white;
+			margin: 0;
+		}
+		.container, .container > div {
+			height: 300px;
+			width: 450px;
+		}
+			.narrow .container, .narrow .container > div {
+				height: 200px;
+				width: 300px;
+			}
+		.container {
+			background: rgba(0,0,0,0.05);
+			border: solid 1px rgba(0,0,0,0.75);
+			box-shadow: rgba(0,0,0,0.5) 0 4px 8px;
+			float: left;
+			margin: 10px;
+			padding: 20px;
+		}
+			.narrow .container {
+				box-shadow: none;
+				margin: 0 0 10px 0;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div id="comments-per-day"></div>
+		</div>
+		<div class="container">
+			<div id="comments-cumulative"></div>
+		</div>
+		<script type="text/javascript" src="../js/jqplot/jquery.js"></script>
+		<script type="text/javascript" src="../js/jqplot/jquery.jqplot.js"></script>
+		<script type="text/javascript" src="../js/jqplot/plugins/jqplot.canvasTextRenderer.js"></script>
+		<script type="text/javascript" src="../js/jqplot/plugins/jqplot.canvasAxisLabelRenderer.js"></script>
+		<script type="text/javascript" src="../js/jqplot/plugins/jqplot.dateAxisRenderer.js"></script>
+		<script type="text/javascript" src="../js/jqplot/plugins/jqplot.pointLabels.js"></script>
+		<script type="text/javascript" src="../js/jqplot/plugins/jqplot.trendline.js"></script>
+		<script class="code" type="text/javascript">
+
+		var opts = {
+			axesDefaults : {
+				labelRenderer : $.jqplot.CanvasAxisLabelRenderer
+			},
+			axes : {
+				xaxis : {
+					label       : 'Days',
+					pad         : 0,
+					renderer    : $.jqplot.DateAxisRenderer,
+					tickOptions : {
+						formatString : '%b %#d'
+					}
+				},
+				yaxis : {
+					label : 'Spam',
+					pad   : 0
+				}
+			},
+			grid : {
+				background : 'white'
+			},
+			seriesDefaults  : {
+				color : 'rgba(0,0,0,0.25)',
+				lineWidth : 5,
+				pointLabels : {
+					show          : true,
+					edgeTolerance : -10
+				},
+				trendline :{
+					show  : true,
+					color : 'rgba(255,0,0,0.5)'
+				}
+			},
+			title : {}
+		};
+
+		if (document.body.clientWidth < 481) {
+		// if (1) {
+			document.body.className = 'narrow';
+			$.extend(opts, opts, { title : { fontSize : '16px' } });
+		}
+
+		var data = [
+			['2012-12-22',   3,   3],
+			['2012-12-23',   8,  11],
+			['2012-12-24',   8,  19],
+			['2012-12-25',   8,  27],
+			['2012-12-26',  16,  43],
+			['2012-12-27', 128, 171],
+			['2012-12-28',   8, 179],
+			['2012-12-29',  24, 203],
+			['2012-12-30',   8, 211],
+			['2012-12-31',  38, 249],
+			['2013-01-01', 175, 424],
+			['2013-01-02', 170, 594],
+			['2013-01-03',  72, 666]
+		];
+
+		function getData(data) {
+			var indices, result, i, il, j, jl;
+			indices = Array.prototype.slice.call(arguments, 1);
+			result  = [];
+			for (var i = 0, il = data.length; i < il; ++i) {
+				result[i] = [];
+				for (var j = 0, jl = indices.length; j < jl; ++j) {
+					result[i].push(data[i][indices[j]]);
+				}
+			}
+			return [result];
+		}
+
+		$(function(){
+			var elid_per_day = 'comments-per-day';
+			var data_per_day = getData(data, 0, 1);
+			var opts_per_day = $.extend({}, opts, { title : { text : 'Number of spam comments per day', fontSize : opts.title.fontSize } });
+
+			var elid_cumulative = 'comments-cumulative';
+			var data_cumulative = getData(data, 0, 2);
+			var opts_cumulative = $.extend({}, opts, { title : { text : 'Cumulataive number of spam comments by day', fontSize : opts.title.fontSize  } });
+
+			$.jqplot(elid_per_day, data_per_day, opts_per_day);
+			$.jqplot(elid_cumulative, data_cumulative, opts_cumulative);
+		});
+
+		</script>
+	</body>
+</html>

@@ -1,0 +1,11 @@
+@font-face{
+    font-display: 'swap';
+    font-family: 'CartographCF Light';
+    src:url('./font/cartograph-light.woff2') format('woff2'),url('./font/cartograph-light.woff') format('woff');
+}
+
+@font-face{
+    font-display: 'swap';
+    font-family: 'New Old English W05 Regular';
+    src:url('./font/new-old-english.woff2') format('woff2'),url('./font/new-old-english.woff') format('woff');
+}

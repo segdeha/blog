@@ -1,0 +1,15 @@
+<?php
+
+$promotes = array(
+    "<a href='https://developer.mozilla.org/en/JavaScript' title='JavaScript Reference, JavaScript Guide, JavaScript API, JS API, JS Guide, JS Reference, Learn JS, JS Documentation'><img src='http://static.jsconf.us/promotejshs.png' height='150' width='180' alt='JavaScript Reference, JavaScript Guide, JavaScript API, JS API, JS Guide, JS Reference, Learn JS, JS Documentation'></a>",
+    "<a href='https://developer.mozilla.org/en/JavaScript/Guide' title='JS Tutorial, JavaScript Tutorial, JavaScript Guide, Learn JavaScript JS, How To Learn JS, Learning JavaScript'><img src='http://static.jsconf.us/promotejshs.png' height='150' width='180' alt='JS Tutorial, JavaScript Tutorial, JavaScript Guide, Learn JavaScript JS, How To Learn JS, Learning JavaScript'></a>",
+    "<a href='https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array' title='JavaScript JS Documentation: JS Array lastIndexOf, JavaScript Array lastIndexOf, JS Array .lastIndexOf, JavaScript Array .lastIndexOf'><img src='http://static.jsconf.us/promotejshs.png' height='150' width='180' alt='JavaScript JS Documentation: JS Array lastIndexOf, JavaScript Array lastIndexOf, JS Array .lastIndexOf, JavaScript Array .lastIndexOf'></a>",
+    "<a href='https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Function' title='JavaScript JS Documentation: JS Function arguments, JavaScript Function arguments, JS Function .arguments, JavaScript Function .arguments'><img src='http://static.jsconf.us/promotejshs.png' height='150' width='180' alt='JavaScript JS Documentation: JS Function arguments, JavaScript Function arguments, JS Function .arguments, JavaScript Function .arguments'></a>",
+    "<a href='https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Number' title='JavaScript JS Documentation: JS Number valueOf, JavaScript Number valueOf, JS Number .valueOf, JavaScript Number .valueOf'><img src='http://static.jsconf.us/promotejshs.png' height='150' width='180' alt='JavaScript JS Documentation: JS Number valueOf, JavaScript Number valueOf, JS Number .valueOf, JavaScript Number .valueOf'></a>",
+    "<a href='https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/RegExp' title='JavaScript JS Documentation: JS RegExp test, JavaScript RegExp test, JS RegExp .test, JavaScript RegExp .test'><img src='http://static.jsconf.us/promotejshs.png' height='150' width='180' alt='JavaScript JS Documentation: JS RegExp test, JavaScript RegExp test, JS RegExp .test, JavaScript RegExp .test'></a>",
+    "<a href='https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String' title='JavaScript JS Documentation: JS String split, JavaScript String split, JS String .split, JavaScript String .split'><img src='http://static.jsconf.us/promotejshs.png' height='150' width='180' alt='JavaScript JS Documentation: JS String split, JavaScript String split, JS String .split, JavaScript String .split'></a>",
+);
+
+echo $promotes[rand(0, count($promotes) - 1)];
+
+?>

@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>innerHTML versus DOM: Can't we all just get along?</title>
+<style type="text/css">
+
+body {
+	background: white;
+	color: #ccc;
+	font: 16px/1.2em Helvetica, Arial, Sans-Serif;
+	margin: 0;
+	padding: 0;
+}
+
+div.button {
+	width: 195px;
+	padding: 5px 0;
+	margin: 0;
+	float: left;
+	text-align: center;
+}
+
+input.button {
+	margin: 0 8px 0 0;
+	font-size: 12px;
+}
+
+div.time {
+	border: solid 1px #666;
+	color: white;
+	font-weight: bold;
+	width: 175px;
+	padding: 5px;
+	margin: 0 10px 1px 0;
+	float: left;
+	background: #666;
+}
+
+div.result {
+	border: solid 1px #666;
+	background: #ccc;
+	color: white;
+	width: 175px;
+	padding: 5px;
+	margin: 0 10px 10px 0;
+	float: left;
+	height: 176px;
+	overflow: auto;
+}
+
+div.result div {
+	padding: 1px 4px;
+	margin: 0 2px 2px 2px;
+	border-right: solid 1px #666;
+	border-bottom: solid 1px #666;
+	font-size: 12px;
+}
+
+</style>
+</head>
+<body>
+
+<div style="clear: both;">
+	<div class="button"><input type="button" class="button" id="button-innerhtml" value="innerHTML"></div>
+	<div class="button"><input type="button" class="button" id="button-domreplace" value="DOM replace"></div>
+	<div class="button"><input type="button" class="button" id="button-domdestroy" value="innerHTML + DOM replace"></div>
+</div>
+
+<div style="clear: both;">
+	<div class="time" id="time-innerhtml">0ms</div>
+	<div class="time" id="time-domreplace">0ms</div>
+	<div class="time" id="time-domdestroy">0ms</div>
+</div>
+
+<div style="clear: both;">
+	<div class="result" id="result-innerhtml"></div>
+	<div class="result" id="result-domreplace"></div>
+	<div class="result" id="result-domdestroy"></div>
+</div>
+
+<script type="text/javascript" src="domdestroy.js"></script>
+
+</body>
+</html>

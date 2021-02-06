@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{DontDelete} eval</title>
+	</head>
+	<body>
+		<script type="text/javascript">
+		
+		eval('var y = 20');
+		
+		alert(delete y);
+		
+		try {
+			alert(y);
+		}
+		catch (e) {
+			alert(e);
+		}
+		
+		</script>
+	</body>
+</html>
