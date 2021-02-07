@@ -6,6 +6,8 @@
 
 Knowing how to code is just one aspect of being a professional web developer. Another super important skill is knowing how to collaborate effectively on a software team. Most coding bootcamps don’t teach this skill or don’t teach it effectively. This leads early-career developers to stumble in interviews and require a lot of ramp up time in their first tech jobs. [The Collab Lab](https://the-collab-lab.codes/) is a program [Stacie Taylor](https://www.linkedin.com/in/stacietaylorcima/) and I created to help solve this problem.
 
+_Note: I originally published [this post on LinkedIn](https://www.linkedin.com/pulse/we-mentor-early-career-developers-heres-what-need-succeed-hedges/)._
+
 ## The Collab Lab Turns One
 
 In the year since we launched, The Collab Lab has helped 44 early-career web developers learn how to work on software teams. We provide remote, collaborative project practice for developers who have worked to develop a baseline of technical skills, but who haven’t yet had the experience of working on a technical team.
