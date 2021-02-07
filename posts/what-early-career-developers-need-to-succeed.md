@@ -1,4 +1,4 @@
-{ "title": "We mentor early-career developers. Here’s what they need to succeed.", "slug": "what-early-career-developers-need-to-succeed", "topics": [ "Web Development" ], "keywords": "junior developer, entry level developer, web development, code school, coding bootcamp, early career engineer, structure, process, interdependence, context, encouragement, the collab lab", "created_date": "2020-08-19 01:02:03", "published": false }
+{ "title": "We mentor early-career developers. Here’s what they need to succeed.", "slug": "what-early-career-developers-need-to-succeed", "topics": [ "Web Development" ], "keywords": "junior developer, entry level developer, web development, code school, coding bootcamp, early career engineer, structure, process, interdependence, context, encouragement, the collab lab", "created_date": "2020-08-19 01:02:03", "background_image": "/blog/assets/img/landscape-arch.jpg", "published": false }
 
 ========
 
