@@ -27,9 +27,6 @@ This all makes sense from an economics standpoint. Projections point to 1.4M tec
 
 But, like so many things, all is not sunshine and daisies. Many recent (and not so recent) graduates of code schools are having a tough time finding work in the industry or are finding themselves stuck in jobs where their talents are undervalued or environments where they are not given the necessary structure and opportunities to improve.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thinking about ‘junior’ devs. Code schools are churning out grads, but companies for the most part aren’t equipped (willing?) to hire them.— Andrew Hedges 🏡 (@segdeha) <a href="https://twitter.com/segdeha/status/708535770793906176?ref_src=twsrc%5Etfw">March 12, 2016</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 To be clear, this is not a “[considered harmful](https://en.wikipedia.org/wiki/Considered_harmful)” post. Far from it, I’m a supporter of code schools. I’ve spoken at and volunteered for Ada, [Black Girls Code](http://www.blackgirlscode.com/), [PDX Code Guild](https://pdxcodeguild.com/), and [Code Fellows](http://www.codefellows.org/).
 
 Many graduates successfully make the transition from whatever previous job they were in to careers in programming. And, for those who don’t, there can be a variety of factors in play beyond what I address below.
