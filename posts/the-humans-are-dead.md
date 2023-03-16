@@ -21,7 +21,7 @@ With apologies to [Flight of the Conchords](https://www.youtube.com/watch?v=B1Bd
 
 ========
 
-One of the many things I do is to help lead [The Collab Lab](https://the-collab-lab.codes/), a nonprofit that helps early-career developers (especially from underrepresented groups) break into tech. It’s a labor of love. I hope it makes a difference in the world!
+One of the [many](https://assistivlabs.com/) [things](https://roadsendpress.com/) I do is to help lead [The Collab Lab](https://the-collab-lab.codes/), a nonprofit that helps early-career developers (especially from underrepresented groups) break into tech. It’s a labor of love. I hope it makes a difference in the world!
 
 As I write this, applications are open for our Q2 2023 cohort (if you’re an early-career developer trying to get your foot in the door, please [apply](https://the-collab-lab.codes/participate/#how-to-apply))!
 
