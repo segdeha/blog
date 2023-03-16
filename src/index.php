@@ -250,7 +250,6 @@ foreach ($head_css as $css_tag) {
 
         blockquote {
             border-left: solid 4px var(--lightest-gray-color);
-            font-size: var(--smaller-font-size);
             margin-left: 0;
             padding-left: 1.25rem;
         }
@@ -505,9 +504,6 @@ foreach ($head_css as $css_tag) {
 
         /* small screens */
         @media (max-width: 575px) {
-            blockquote {
-                font-size: 1rem;
-            }
             .video-iframe {
                 height: 180px;
                 width: 320px;
@@ -559,7 +555,7 @@ foreach ($head_js as $js_tag) {
     <?php
 
     $base = BASE_PATH;
-    
+
     $next = $prevnext['next']['slug'] === null ? '' :
         <<<EOT
                     <h1>Next</h1>
