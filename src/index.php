@@ -138,7 +138,7 @@ EOT;
     // show the post
     $html = <<<EOT
         {$jsonld}
-        
+
         <h1>{$title}</h1>
         <p class="published-date">{$published_display} &#183; <span class="tooltip" title="Calculated using an average reading speed of {$wpm} words per minute">Estimated reading time:</span> {$read_time} minutes</p>
         {$deprecated_html}
@@ -197,12 +197,12 @@ foreach ($head_css as $css_tag) {
             --link-color: blue;
             --smaller-font-size: 0.85rem;
         }
-        
+
         html {
             background-size: cover;
             background-attachment: fixed;
         }
-        
+
         body {
             background: white;
             box-shadow: rgba(0,0,0,0.5) 0 0 24px;
@@ -213,7 +213,7 @@ foreach ($head_css as $css_tag) {
             padding: 0 2rem;
             position: relative;
         }
-        
+
         header {
             margin: 0 -2rem;
             padding: 0.25rem 2rem 0 2rem;
@@ -225,17 +225,17 @@ foreach ($head_css as $css_tag) {
                 margin-top: 0;
                 padding-top: 0.67em;
             }
-        
+
         main h1 {
             line-height: 1.15;
             margin-bottom: 0.15rem;
         }
-        
+
         main h2 {
             font-weight: normal;
             line-height: 1.15;
         }
-        
+
         a {
             color: var(--link-color);
             text-decoration: none;
@@ -247,34 +247,34 @@ foreach ($head_css as $css_tag) {
                 border-bottom: none;
                 color: var(--text-color);
             }
- 
+
         blockquote {
             border-left: solid 4px var(--lightest-gray-color);
             font-size: var(--smaller-font-size);
             margin-left: 0;
             padding-left: 1.25rem;
         }
-        
+
         code, pre {
             background: var(--lightest-gray-color);
             font-family: "CartographCF Light", "source-code-pro", "Panic Sans", "Andale Mono", Monaco, Monospace;
             font-size: var(--smaller-font-size);
         }
-        
+
         code {
             display: inline-block;
             padding: 0.1em 0.5em;
         }
-        
+
         pre {
             overflow: auto;
             padding: 0.5em 1em;
         }
-        
+
         dt {
             font-weight: normal;
         }
-        
+
         table {
             font-size: var(--smaller-font-size);
             margin: 1rem 0;
@@ -294,16 +294,16 @@ foreach ($head_css as $css_tag) {
                     thead tr:hover th {
                         background: #f0f0f0;
                     }
-        
+
         .published-date {
             margin: 0 0 2rem 0;
         }
-        
+
         .tooltip {
             border-bottom: dotted 1px #ccc;
             cursor: help;
         }
-        
+
         .deprecated {
             background-image: url(/blog/assets/img/parchment.jpg);
             background-repeat: no-repeat;
@@ -318,18 +318,18 @@ foreach ($head_css as $css_tag) {
         .new-old {
             font-family: 'New Old English W05 Regular', cursive;
         }
-        
+
         .video-iframe {
             height: 333px;
             width: 592px;
         }
-        
+
         .clearfix:after {
             content: "";
             display: table;
             clear: both;
         }
-                
+
         header .content-progress {
             border-radius: 0;
             height: 0.25rem;
@@ -359,14 +359,14 @@ foreach ($head_css as $css_tag) {
             width: 0;
             z-index: 1;
         }
-                
+
         /* FIXME temporary styles to make images be not so broken */
         /* TODO restructure markup for images and apply appropriate styles */
        .photo-left img, .photo-right img {
            height: auto;
            width: 100%;
        }
-        
+
         figure {
             margin: 1rem 0;
         }
@@ -381,7 +381,7 @@ foreach ($head_css as $css_tag) {
                 font-size: var(--smaller-font-size);
                 font-style: italic;
             }
-        
+
         .related {
             border-top: solid 1px var(--lightest-gray-color);
             display: grid;
@@ -404,7 +404,7 @@ foreach ($head_css as $css_tag) {
             .related .selected:hover {
                 border-color: black;
             }
-        
+
         .author {
             background: var(--lightest-gray-color);
             font-size: var(--smaller-font-size);
@@ -425,16 +425,16 @@ foreach ($head_css as $css_tag) {
                 margin: 0.25rem 1rem 0 0;
                 width: auto;
             }
-        
+
         strong, th {
             font-weight: normal;
         }
-        
+
         .giant-404 {
             font-size: 10rem;
             margin: 1rem 0;
         }
-        
+
         footer {
             border-top: solid 1px var(--gray-color);
             font-size: var(--smaller-font-size);
@@ -455,13 +455,13 @@ foreach ($head_css as $css_tag) {
             footer .selected:hover {
                 border-color: black;
             }
-        
+
         /* used in the footer */
         .license {
             float: right;
             font-size: var(--smaller-font-size);
         }
-        
+
         /* used in the footer */
         .icon {
             display: inline-block;
@@ -481,13 +481,13 @@ foreach ($head_css as $css_tag) {
                 .icon:hover img {
                     transform: scale(1.5) rotate(360deg) translateZ(0);
                 }
-        
+
         /* gallery over-rides */
         .gallery li p {
             font-size: var(--smaller-font-size);
             line-height: 1.15;
         }
-        
+
         /* screens wide enough for the related elements to sit side by side */
         @media (min-width: 510px) {
             .related {
@@ -554,7 +554,7 @@ foreach ($head_js as $js_tag) {
                 </div>
 <?php if (isset($prevnext) && is_array($prevnext)): ?>
     <?php
-        
+
     $base = BASE_PATH;
     
     $next = $prevnext['next']['slug'] === null ? '' :
@@ -587,7 +587,7 @@ EOT;
                     </p>
                     <p>Summer of 2019, Andrew founded <a href="https://the-collab-lab.codes">The Collab Lab</a>, a nonprofit that provides remote, collaborative project practice for early career web developers. The program brings code school graduates and self-taught career switchers together with working web developers to work on software projects using agile practices used by professional software teams.</p>
                     <p>When he’s not working at Zapier or on Collab Lab, Andrew contributes as an advisor to <a href="https://pdxcodeguild.com">PDX Code Guild</a>, a Portland-based coding bootcamp. He also volunteers for <a href="https://pueblounidopdx.org">Pueblo Unido PDX</a>, an Oregon nonprofit that helps undocumented immigrants navigate the legal system, including contesting unlawful detention by ICE. Finally, Andrew also produces <a href="https://theslantandgo.com">The Slant and Go</a>, a podcast about the National Football League, a topic he acknowledges is far less social-justice oriented than some of his other activities. 😅</p>
-                    <p>Prior to his career in web development, Andrew worked in higher education administration, coordinating training programs for university staff. He holds a Masters of Education from the University of Maryland, College Park. In 1995, Andrew wrote his terminal paper for that degree on <a href="https://andrew.hedges.name/cmcandcsd.html">the potential effects of computer-mediated communication on college student identity development</a>.</p>
+                    <p>Prior to his career in web development, Andrew worked in higher education administration, coordinating training programs for university staff. He holds a Masters of Education from the University of Maryland, College Park. In 1995, Andrew wrote his terminal paper for that degree on <a href="https://img.hedges.name/cmcandcsd.html">the potential effects of computer-mediated communication on college student identity development</a>.</p>
                 </details>
             </aside>
         </main>

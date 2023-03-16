@@ -37,7 +37,9 @@ The money quote from the circa-2020 article linked above is this:
 
 A New York Times reporter recently had [a pretty darn disturbing exchange with Bing’s AI-powered chatbot](https://www.theguardian.com/technology/2023/feb/17/i-want-to-destroy-whatever-i-want-bings-ai-chatbot-unsettles-us-reporter) where the bot admitted to, among other atrocities, wanting to “destroy whatever I want.” Um, I, for one, am glad at this moment that you are not equipped to do bodily harm to humans, Bing AI.
 
-![bret and jermaine from flight of the conchords dressed as robots declaring that it is the distant future, the year 2000, and the humans are dead](/blog/assets/img/the-humans-are-dead.gif)
+<figure>
+    <img src="/blog/assets/img/the-humans-are-dead.gif" alt="bret and jermaine from flight of the conchords dressed as robots declaring that it is the distant future, the year 2000, and the humans are dead">
+</figure>
 
 > “I’m Sydney,” the chatbot says. “And I’m in love with you.”
 
