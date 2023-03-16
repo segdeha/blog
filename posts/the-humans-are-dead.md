@@ -10,7 +10,7 @@
     "ethics"
   ],
   "keywords": "ai, ml, natural language models, gpt-3, gpt-4, chatgpt, the collab lab, ethics",
-  "created_date": "2023-03-15 15:15:17",
+  "created_date": "2023-03-15 15:15:15",
   "background_image": "/blog/assets/img/the-humans-are-dead.jpg",
   "published": true
 }
@@ -95,7 +95,7 @@ ChatGPT:
 > 
 > Overall, while language models like me can be helpful in generating responses to text prompts, it's important to look for signs that an applicant may have used one to create their application. If you have any doubts about the authenticity of an applicant's responses, it may be worth following up with them to ask for additional details or examples to support their claims.
 
-Sure. Yep. This makes sense. And, I feel like it’s going to be really easy for people to work around. Someone lazy will just copy/paste ChatGPT’s answer. Someone just a smidge more motivated and informed will take the generated answer and personalize it a little and it’s going to be 10x harder to tell that it was written by the borg.
+Sure. Yep. This makes sense. _And,_ I feel like it’s going to be really easy for people to work around. Someone lazy will just copy/paste ChatGPT’s answer. Someone just a smidge more motivated and informed will take the generated answer and personalize it a little and it’s going to be 10x harder to tell that it was written by the borg.
 
 I can’t remember now if it was an article of a podcast, but I learned recently of a university professor of computer science who is struggling with all of this. Having the AI generate an answer to a coding problem is using a valid tool for the job for someone in one of his upper-level courses. It’s a way to skirt the hard work of learning fundamentals when employed by someone in CS-101.
 
