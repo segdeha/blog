@@ -205,7 +205,7 @@ foreach ($head_css as $css_tag) {
 
         body {
             background: white;
-            box-shadow: rgba(0,0,0,0.5) 0 0 24px;
+            box-shadow: rgba(0, 0, 0, 0.5) 0 0 24px;
             color: var(--text-color);
             font: 300 16px/1.67 'Roboto Slab', serif;
             margin: 0 auto;
@@ -386,7 +386,7 @@ foreach ($head_css as $css_tag) {
             border-top: solid 1px var(--lightest-gray-color);
             display: grid;
             grid-gap: 1rem;
-            grid-template-rows: fit-content();
+            grid-template-rows: fit-content;
             margin-top: 1.5rem;
         }
             .related h1 {
@@ -495,7 +495,7 @@ foreach ($head_css as $css_tag) {
             }
         }
 
-        /* small screens */
+        /* small-ish screens */
         @media (max-width: 656px) {
             .video-iframe {
                 height: 180px;
