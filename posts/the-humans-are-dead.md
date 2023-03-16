@@ -101,7 +101,7 @@ I can’t remember now if it was an article of a podcast, but I learned recently
 
 For how much I complain about technology, I am not actually a [Luddite](https://en.wikipedia.org/wiki/Luddite). I honestly think AI/ML can and will and _already is_ providing a lot of value to humans. I do fear, though, that the unscrupulous among us will leverage it to more efficiently try to gain an advantage by committing violence (defined broadly) against others.
 
-> Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should.
+> Your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.
 <br>
 > ~Dr Ian Malcolm in [Jurassic Park](https://www.imdb.com/title/tt0107290/)
 
