@@ -99,7 +99,7 @@ ChatGPT:
 
 Sure. Yep. This makes sense. _And,_ I feel like it’s going to be really easy for people to work around. Someone lazy will just copy/paste ChatGPT’s answer. Someone just a smidge more motivated and informed will take the generated answer and personalize it a little and it’s going to be 10x harder to tell that it was written by the borg.
 
-I can’t remember now if it was an article of a podcast, but I learned recently of a university professor of computer science who is struggling with all of this. Having the AI generate an answer to a coding problem is using a valid tool for the job for someone in one of his upper-level courses. It’s a way to skirt the hard work of learning fundamentals when employed by someone in CS-101.
+I can’t remember now if it was an article or a podcast, but I learned recently of a university professor of computer science who is struggling with all of this. Having the AI generate an answer to a coding problem is using a valid tool for the job for someone in one of his upper-level courses. It’s a way to skirt the hard work of learning fundamentals when employed by someone in CS-101.
 
 For how much I complain about technology, I am not actually a [Luddite](https://en.wikipedia.org/wiki/Luddite). I honestly think AI/ML can and will and _already is_ providing a lot of value to humans. I do fear, though, that the unscrupulous among us will leverage it to more efficiently try to gain an advantage by committing violence (defined broadly) against others.
 
