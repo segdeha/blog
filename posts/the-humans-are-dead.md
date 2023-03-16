@@ -29,7 +29,7 @@ As everyone who doesn’t live under a rock knows (and who knows, maybe [people 
 
 I say that in jest, but then again how much of a jester should I really be about it?
 
-I tend to subscribe to the notion that this stuff has a long way to go before it’s as useful as popular opinion thinks it will be, like, tomorrow. Toyota—a company with some solid engineers—has been [famously circumspect](https://www.forbes.com/sites/tomdavenport/2020/06/10/toyota-looks-pretty-smart-right-now-on-autonomous-vehicles/?sh=34b6631f7123) with respect to how long it’s going to take for computers to take over the task of driving, as one example I use to reassure myself that I, personally, won’t be obsolete before I’m ready to stop contributing to the world of work.
+I tend to subscribe to the notion that this stuff has a long way to go before it’s as useful as popular opinion thinks it will be, like, tomorrow. Toyota—a company with [some solid engineers](https://www.motortrend.com/features/rpm-toyota/)—has been [famously circumspect](https://www.forbes.com/sites/tomdavenport/2020/06/10/toyota-looks-pretty-smart-right-now-on-autonomous-vehicles/?sh=34b6631f7123) with respect to how long it’s going to take for computers to take over the task of driving, as one example I use to reassure myself that I, personally, won’t be obsolete before I’m ready to stop contributing to the world of work.
 
 The money quote from the circa-2020 article linked above is this:
 
