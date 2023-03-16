@@ -77,7 +77,7 @@ ChatGPT:
 > 
 > Overall, I believe that participating in The Collab Lab program will provide me with valuable experiences, knowledge, and skills that will help me become a better developer and team player. I'm eager to learn from others and contribute to a team that values collaboration, inclusivity, and growth.
 
-Dayum. Good answer, ChatGPT! 😐 My life is about to get harder.
+Dayum. Good answer, ChatGPT! My life is about to get harder. 😐
 
 Me:
 
