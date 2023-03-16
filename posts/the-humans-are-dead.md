@@ -53,7 +53,7 @@ Not so fast.
 
 [ChatGPT](https://chat.openai.com/) is a natural language model that’s being integrated into [coding environments](https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt), [automation tools](https://zapier.com/apps/chatgpt/integrations), and [Bing’s AI](https://www.tomsguide.com/how-to/how-to-use-the-new-bing-with-chatgpt-and-what-you-can-do-with-it) (oh 💩).
 
-This is where we come back to The Collab Lab. So, yeah, applications are open right now. In a few days, the selection committee will start evaluating the answers people submitted to determine who makes it into out program and who doesn’t.
+This is where we come back to The Collab Lab. So, yeah, applications are open right now. In a few days, the selection committee will start evaluating the answers people have submitted to determine who makes it into out program and who doesn’t.
 
 The first thing we look at is a couple of long form questions. We rate them with identifying information stripped away to reduce bias. Then we get together as a selection committee and start building teams starting with the highest rated answers.
 
