@@ -12,7 +12,7 @@
   "keywords": "ai, ml, natural language models, gpt-3, gpt-4, chatgpt, the collab lab, ethics",
   "created_date": "2023-03-15 15:15:17",
   "background_image": "/blog/assets/img/the-humans-are-dead.jpg",
-  "published": false
+  "published": true
 }
 
 ========
