@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: segdeha.pairserver.com
-        username: segdeha_kulupu
+        username: segdeha_blog
         password: ${{ secrets.FTP_PASSWORD }}
