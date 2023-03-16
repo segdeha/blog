@@ -505,6 +505,9 @@ foreach ($head_css as $css_tag) {
 
         /* small screens */
         @media (max-width: 575px) {
+            blockquote {
+                font-size: 1rem;
+            }
             .video-iframe {
                 height: 180px;
                 width: 320px;
