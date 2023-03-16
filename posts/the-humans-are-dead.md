@@ -31,7 +31,7 @@ I say that in jest, but then again how much of a jester should I really be about
 
 I tend to subscribe to the notion that this stuff has a long way to go before it’s as useful as popular opinion thinks it will be which is, like, tomorrow. Toyota is one company that has been [famously circumspect](https://www.forbes.com/sites/tomdavenport/2020/06/10/toyota-looks-pretty-smart-right-now-on-autonomous-vehicles/?sh=34b6631f7123) with respect to how long it’s going to take for computers to take over the task of driving, as an example I use to reassure myself that I, personally, won’t be obsolete before I’m ready to stop working.
 
-The money quote from the article linked above is this:
+The money quote from the circa-2020 article linked above is this:
 
 > The consensus in the industry seems to be that we are 80% of the way toward self-driving cars, but that the remaining 20% will take as long as the initial 80% did—which is about 40 years or so.
 
