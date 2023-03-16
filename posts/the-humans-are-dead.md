@@ -59,7 +59,7 @@ The first thing we look at is a couple of long form questions. We rate them with
 
 This process has served us well for the 2+ years we’ve used it. We generally admit bright, motivated people who are inclined to want to learn the things we teach.
 
-But what if people have the robots answer the questions for them?
+But what if people have the robots answer the questions for them? 🤔
 
 The following is copied/pasted directly fom an exchange I had today with ChatGPT.
 
