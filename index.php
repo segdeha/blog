@@ -599,11 +599,12 @@ EOT;
                     <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#110;&#100;&#114;&#101;&#119;&#64;&#104;&#101;&#100;&#103;&#101;&#115;&#46;&#110;&#97;&#109;&#101;">Contact</a>
                 </p>
                 <p>
-                    <a class="icon" href="http://github.com/segdeha"><img loading="lazy" src="/blog/assets/img/icon/github.png" alt="GitHub"></a>
-                    <a class="icon" href="http://instagram.com/segdeha"><img loading="lazy" src="/blog/assets/img/icon/instagram.png" alt="Instagram"></a>
-                    <a class="icon" href="http://www.linkedin.com/in/andrewhedges"><img loading="lazy" src="/blog/assets/img/icon/linkedin.png" alt="LinkedIn"></a>
-                    <a class="icon" href="http://stackoverflow.com/users/11577"><img loading="lazy" src="/blog/assets/img/icon/stackoverflow.png" alt="Stack Overflow"></a>
-                    <a class="icon" href="http://twitter.com/segdeha"><img loading="lazy" src="/blog/assets/img/icon/twitter.png" alt="Twitter"></a>
+                    <a class="icon" href="https://github.com/segdeha"><img loading="lazy" src="/blog/assets/img/icon/github.png" alt="GitHub"></a>
+                    <a class="icon" href="https://instagram.com/segdeha"><img loading="lazy" src="/blog/assets/img/icon/instagram.png" alt="Instagram"></a>
+                    <a class="icon" href="https://www.linkedin.com/in/andrewhedges"><img loading="lazy" src="/blog/assets/img/icon/linkedin.png" alt="LinkedIn"></a>
+				    <a class="icon" href="https://mastodon.social/@segdeha"><img src="/-/img/icons/mastodon.png" alt="Mastodon"></a>
+                    <a class="icon" href="https://stackoverflow.com/users/11577"><img loading="lazy" src="/blog/assets/img/icon/stackoverflow.png" alt="Stack Overflow"></a>
+                    <a class="icon" href="https://twitter.com/segdeha"><img loading="lazy" src="/blog/assets/img/icon/twitter.png" alt="Twitter"></a>
                 </p>
             </nav>
     		<p class="license">
