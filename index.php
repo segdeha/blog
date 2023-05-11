@@ -3,7 +3,7 @@
 // it is the concern of getContent() to determine whether to return content for
 // posts with the published flag set to false
 
-require_once('_app.php');
+require_once('./src/_app.php');
 
 $content = getContent();
 $preview = isPreview() ? '?preview' : '';
@@ -420,9 +420,9 @@ foreach ($head_css as $css_tag) {
             }
             .author img {
                 float: left;
-                height: 122px;
+                height: auto;
                 margin: 0.25rem 1rem 0 0;
-                width: auto;
+                width: 33%;
             }
 
         strong, th {
