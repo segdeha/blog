@@ -17,7 +17,7 @@
 
 ========
 
-With apologies to [Flight of the Conchords](https://www.youtube.com/watch?v=B1BdQcJ2ZYY), I hereby declare that the humans are dead. I confirmed that they’re dead.
+With apologies to [Flight of the Conchords](https://www.youtube.com/watch?v=B1BdQcJ2ZYY), I hereby declare that the humans are dead. I confirmed that they’re dead. 🤖
 
 ========
 
