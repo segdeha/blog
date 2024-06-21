@@ -331,7 +331,7 @@ foreach ($head_css as $css_tag) {
 
         header .content-progress {
             border-radius: 0;
-            height: 0.25rem;
+            height: 0.33rem;
             left: 0;
             position: fixed;
             right: 0;
@@ -351,7 +351,7 @@ foreach ($head_css as $css_tag) {
         header .max-progress {
             background-color: transparent;
             border-right: solid 0.25rem black;
-            height: 0.25rem;
+            height: 0.33rem;
             left: 0;
             position: fixed;
             top: 0;
@@ -581,7 +581,7 @@ EOT;
                         About the author
                     </summary>
                     <p>
-                        <img src="/<?=BASE_PATH?>/assets/img/andrew.jpg" alt="">
+                        <img src="/<?=BASE_PATH?>/assets/img/beatys-butte-beard.jpg" alt="In this photo, Andrew wears a Jeep baseball cap and sunglasses. The sky is bright blue behind him and his long, white beard is backlit by the sun.">
                         Andrew Hedges is an educator and technologist based in Portland, Oregon. A professional web developer since 1998, Andrew is the Cofounder of and COO for <a href="https://assistivlabs.com">Assistiv Labs</a>, a web accessibility testing platform. Prior to Assistiv Labs, Andrew provided engineering leadership to Disney, Apple, and Zapier.
                     </p>
                     <p>During the Summer of 2019, Andrew founded <a href="https://the-collab-lab.codes">The Collab Lab</a>, a nonprofit that provides remote, collaborative project practice for early career web developers. The program brings code school graduates and self-taught career switchers together with working web developers to work on software projects using agile practices used by professional software teams.</p>

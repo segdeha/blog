@@ -1,26 +1,26 @@
 header progress {
-    border-radius: 0;
-    height: 0.33rem;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100vw;
-    -webkit-appearance: none;
-       -moz-appearance: none;
-            appearance: none;
+	border-radius: 0;
+	height: 0.33rem;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	-webkit-appearance: none;
+	   -moz-appearance: none;
+	        appearance: none;
 }
-    header progress::-webkit-progress-bar {
-        background-color: silver;
-    }
-    header progress::-webkit-progress-value {
-        background: blue;
-    }
+	header progress::-webkit-progress-bar {
+		background-color: silver;
+	}
+	header progress::-webkit-progress-value {
+		background: blue;
+	}
 header .max-progress {
-    background-color: transparent;
-    border-right: solid 5px black;
-    height: 0.33rem;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 0;
+	background-color: transparent;
+	border-right: solid 5px black;
+	height: 0.33rem;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 0;
 }
