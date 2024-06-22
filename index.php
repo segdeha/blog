@@ -173,6 +173,7 @@ foreach ($years_with_posts as $year) {
         <!-- font loading technique borrowed from https://csswizardry.com/2020/05/the-fastest-google-fonts/ -->
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link rel="preload" as="style" href="//fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&family=Source+Code+Pro&display=swap&display=swap">
+        <link rel="alternate" type="application/rss+xml" title="andrew.hedges.name/blog" href="/blog/rss.xml">
         <link rel="stylesheet" media="print" onload="this.media='all'" href="//fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&family=Source+Code+Pro&display=swap&display=swap">
         <link rel="stylesheet" media="print" onload="this.media='all'" href="/<?=BASE_PATH?>/assets/fonts.css">
         <link rel="stylesheet" media="print" onload="this.media='all'" href="/<?=BASE_PATH?>/assets/shjs/css/sh_coda.css">
