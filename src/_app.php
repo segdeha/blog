@@ -311,3 +311,25 @@ function getYearsWithPosts() {
     rsort($years, SORT_NUMERIC);
     return $years;
 }
+
+function getAllPosts() {
+    // order by created_date, descending
+	function cmp($a, $b) {
+        return strcmp($b['metadata']->created_date, $a['metadata']->created_date);
+    }
+	$entries = array();
+    if ($handle = opendir(PATH_TO_POSTS)) {
+        while (false !== ($filename = readdir($handle))) {
+            if ($filename != '.' && $filename != '..') {
+                $contents = file_get_contents(PATH_TO_POSTS . $filename);
+                $metadata = getPostMetadata($contents);
+                if ($metadata->published) {
+	                $components = getPostComponents($contents);
+	                array_push($entries, $components);
+                }
+            }
+        }
+    }
+    usort($entries, cmp);
+    return $entries;
+}

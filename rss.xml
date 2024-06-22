@@ -1,0 +1,29 @@
+<?php
+
+require 'src/_app.php';
+
+$entries = getAllPosts();
+$date = date('r', strtotime($entries[0]['metadata']->created_date));
+header("Content-Type: application/rss+xml; charset=UTF-8");
+
+echo '<' . '?' . 'xml version="1.0" encoding="UTF-8" ' . '?' . ">\n";
+?><rss version="2.0">
+    <channel>
+        <title>andrew.hedges.name/blog</title>
+        <description>Growing do is hard to up.</description>
+        <link>https://andrew.hedges.name/blog/</link>
+        <language>en-US</language>
+        <copyright>Copyright © <?=date('Y')?> Andrew Hedges. All Rights Reserved.</copyright>
+        <lastBuildDate><?=$date?></lastBuildDate>
+        <pubDate><?=$date?></pubDate>
+<?php foreach ($entries as $entry): ?>
+        <item>
+            <title><?=$entry['metadata']->title?></title>
+            <description><?=htmlentities(strip_tags($entry['subhead']))?></description>
+            <link>https://andrew.hedges.name/blog/<?=$entry['metadata']->slug?></link>
+            <guid>https://andrew.hedges.name/blog/<?=$entry['metadata']->slug?></guid>
+            <pubDate><?=date('r', strtotime($entry['metadata']->created_date))?></pubDate>
+        </item>
+<?php endforeach; ?>
+    </channel>
+</rss>
