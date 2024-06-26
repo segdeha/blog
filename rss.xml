@@ -7,18 +7,19 @@ $date = date('r', strtotime($entries[0]['metadata']->created_date));
 header("Content-Type: application/rss+xml; charset=UTF-8");
 
 echo '<' . '?' . 'xml version="1.0" encoding="UTF-8" ' . '?' . ">\n";
-?><rss version="2.0">
+?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>andrew.hedges.name/blog</title>
         <description>Growing do is hard to up.</description>
         <link>https://andrew.hedges.name/blog/</link>
+        <atom:link href="https://andrew.hedges.name/blog/rss.xml" rel="self" type="application/rss+xml" />
         <language>en-US</language>
         <copyright>Copyright © <?=date('Y')?> Andrew Hedges. All Rights Reserved.</copyright>
         <lastBuildDate><?=$date?></lastBuildDate>
         <pubDate><?=$date?></pubDate>
 <?php foreach ($entries as $entry): ?>
         <item>
-            <title><?=$entry['metadata']->title?></title>
+            <title><?=str_replace('&', '&amp;', $entry['metadata']->title)?></title>
             <description><![CDATA[<?=htmlentities(strip_tags($entry['subhead']))?>]]></description>
             <link>https://andrew.hedges.name/blog/<?=$entry['metadata']->slug?></link>
             <guid>https://andrew.hedges.name/blog/<?=$entry['metadata']->slug?></guid>
